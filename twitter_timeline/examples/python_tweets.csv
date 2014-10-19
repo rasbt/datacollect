@@ -1,0 +1,530 @@
+,timestamp,tweet,keywords
+6,2014-18-10 14:23:45,Building a CPU simulator in Python http://t.co/Rckp3MbNjz,Python
+14,2014-18-10 02:51:18,This new HOPE JIT for Python reminds me to continue with my Python benchmark series - curious how it compares https://t.co/hrKBD886TH,Python
+15,2014-18-10 02:50:31,"cosmo-ethz/hope
+
+HOPE JIT compiler written in Python for translating Python source code into C++ at runtime. https://t.co/hrKBD886TH",Python
+20,2014-17-10 18:19:57,modernize - a very thin lib2to3 wrapper  to make Python 2 code more modern to port it over to Python 3 more easily. https://t.co/oYVAmijSbs,Python
+22,2014-16-10 15:19:46,RT @LorenaABarba: New #IPython notebook! 'Riding the wave—Numerical schemes for convection' #numericalmooc #CFD #ipynb #Python http://t.co/…,Python
+23,2014-16-10 15:18:13,RT @TWgy: The #Tao of #Python for Beginners http://t.co/AiD40T8jVn,Python
+25,2014-15-10 23:14:42,'Advanced Use of #Python Decorators and Metaclasses' http://t.co/KKl10Fxo1F,Python
+30,2014-14-10 11:37:21,"In Python, it's all about the attributes  http://t.co/hVjzVzff0o",Python
+40,2014-12-10 04:12:47,A very good &amp; concise Python 2.7 reference cheatsheet http://t.co/4WzIWvfwsM,Python
+44,2014-11-10 21:32:30,"A gem for protein scientists (@vmirly): ProDy, Protein Dynamics &amp; Sequence Analysis via Python http://t.co/0YgaTMG5VW http://t.co/AOr0LoaUIn",Python
+50,2014-10-10 17:54:47,Embedding Interactive Maps into an IPython Notebook. Awesome! http://t.co/Vptdk2Q7u8 http://t.co/slrnmbWryA,Python
+53,2014-10-10 02:16:07,"dejavu, an audio fingerprinting and recognition algorithm implemented in Python https://t.co/xfhE5IuEnm",Python
+56,2014-09-10 17:19:10,RT @vmirly: Creating a database of daily prices of recent S&amp;P 500 companies using #python http://t.co/kHi7jSj3WF,Python
+64,2014-04-10 04:42:12,"@alovedalongthe Agreed, when I looked at the code, it immediately reminded me of Python and Ruby in terms of readability!",Python
+66,2014-04-10 00:57:26,That's so cool: Making a Little Planet Panorma using #Python and Scikit Image  https://t.co/2EL54OweFQ http://t.co/rqN9NT9adz,Python
+67,2014-04-10 00:51:47,Conway's Game Of Life in Python http://t.co/7v1rYThFYn,Python
+70,2014-03-10 03:14:49,Another round of programming language fun (Python and Latex are exceptionally great - both in the comic and in real) http://t.co/zLQX80RHHS,Python
+79,2014-26-09 18:22:24,Just cleaned my hard drive and put together this 'random collection of useful #Python patterns' http://t.co/ET6j2PR0Ln,Python
+84,2014-25-09 16:53:00,Python 101: How to send SMS/MMS with Twilio http://t.co/vasR4RwqHf,Python
+86,2014-23-09 16:11:07,Multicore LDA in Python: from over-night to over-lunch http://t.co/hIZPq0llTG,Python
+89,2014-19-09 05:08:32,"RT @cyrillerossant: IPython Cookbook completed, at last! 15 months of effort. 500-pages book released next week. http://t.co/PZeGy3OZjL #py…",Python
+90,2014-18-09 17:03:41,RT @PythonWeekly: Python Weekly - Issue 157 http://t.co/Sl3oSue3Un #python #django #ipython #mongodb #pyqt #postgresql #sympy #blaze #openc…,Python
+92,2014-16-09 22:31:24,RT @getpy: KoffeinFlummi/Chronyk - a Python 3 library for parsing human-written times and dates: http://t.co/yeNGKjz5IN,Python
+96,2014-15-09 23:12:52,Kernel tricks and nonlinear dimensionality reduction via RBF kernel PCA (in #Python) http://t.co/mYEk74mtgS http://t.co/pu7WlwO8n5,Python
+97,2014-14-09 01:59:05,"@reuvenmlerner Btw if you are interested in Python benchmark, I collected some here: https://t.co/qgyqtOqdr0",Python
+101,2014-13-09 15:35:35,"RT @Hyperion_HQ: @rasbt has great post on MC estimate of π but Python’s boring. Firing Mosberg 500 shotgun to do the same is more fun.
+http…",Python
+105,2014-13-09 15:26:59,@SnipessA I would start with an easy language like Python for instant reward :),Python
+106,2014-13-09 15:24:47,octavemagic: Octave inside IPython http://t.co/FpkgxbO1Ur,Python
+107,2014-12-09 23:19:24,"Teaching an old dog new tricks — or, how I learned to love Python’s str.format, and gave up on % http://t.co/D6qtfNz8fY",Python
+123,2014-01-09 18:57:38,"RT @PythonWeekly: smartcsv - CSVs are awesome, yet they're pretty dumb. Let's get them smarter! http://t.co/VaQUZt5DET #python #csv",Python
+126,2014-29-08 19:12:43,"RT @LorenaABarba: New IPython Notebook—Lesson 1, Module 1 of #numericalmooc: Phugoid Motion: http://t.co/kRSN4w7Bgi ping @fperez_org @aterr…",Python
+132,2014-28-08 15:44:18,RT @PythonWeekly: Python Weekly - Issue 154 http://t.co/LvW6V71HH4 #python #django #flask #ipython #ajax #jython #matplotlib #job #cassandr…,Python
+147,2014-25-08 03:54:09,RT @nixcraft: Do you want to create quick and dirty svg charts in #Python? You will pygal http://t.co/ND23XQP7lT #unix #linux #osx http://t…,Python
+148,2014-25-08 03:53:29,RT @mitsuhiko: Blogged a new thing about my take on static typing in Python and similar languages. http://t.co/yIiLYqXBgC,Python
+161,2014-21-08 15:11:43,"RT @PythonWeekly: Doodling around with vector norms, iPython, infinity and Symbolic Python by @ProfCompMod http://t.co/w6Vkxj4tqY #iPython …",Python
+168,2014-20-08 16:22:38,#Python for Investigative Journalists: An introduction http://t.co/l07JTBrCli,Python
+170,2014-20-08 03:42:36,"Great resource! Python Patterns - proven, reusable solutions to common programming problems http://t.co/0d3tgJuCgg via @pythonpatterns",Python
+174,2014-19-08 01:34:42,"@X1alejandro3x sorry, never tried that. I usually use png files in IPython notebooks",Python
+182,2014-16-08 22:11:15,'The #Python I Would Like To See' via @mitsuhiko http://t.co/8FprCAQpyC,Python
+186,2014-15-08 02:56:48,"Streamline your cross-validation and classification workflow in #Python
+- scikit-learn's Pipeline in action http://t.co/hFRgMnVKgd",Python
+188,2014-13-08 22:18:08,'Machine learning the hard way' - Another nice #Python scikit-learn YouTube tutorial https://t.co/iJnmqTQVXH,Python
+189,2014-13-08 16:42:22,@g33xter an older article of mine if u r int. 'The key differences between Python 2.7.x and Python 3.x with examples' http://t.co/VPss9APa4B,Python
+190,2014-13-08 15:42:28,A cheat sheet for 'Writing #Python 2-3 compatible code' http://t.co/MjU9hFvK05,Python
+192,2014-13-08 02:16:45,Advanced Machine Learning with #Python's scikit-learn (YouTube video tutorial from PyCon 2013) https://t.co/BiSC4ps6pX,Python
+193,2014-11-08 12:32:46,A neat '#Python Argparse Cookbook'  http://t.co/CYPXRVGRWd,Python
+196,2014-09-08 17:42:09,RT @RealPython: A faster Python sort http://t.co/GpuDLLhMY8,Python
+204,2014-08-08 02:48:48,@vmirly Python's pandas (and also NumPy) has a 'dtype' argument in the csv_reader function (good benchmark idea btw!) http://t.co/X3QRMunFdc,Python
+211,2014-07-08 17:12:21,RT @LorenaABarba: Practical Numerical Methods with #Python—our upcoming #MOOC is now open for registrations! (create an account first) http…,Python
+212,2014-07-08 17:12:01,RT @PythonWeekly: Python Weekly - Issue 151 http://t.co/m8MbumsOYQ #python #django #pycon #cpython #opencv #ipython #testing #job #nlp #nlt…,Python
+214,2014-06-08 18:51:14,"A nice post summarizing everything that I'd recommend a beginning Python progs.: IPython notebooks, nose, venvs ... http://t.co/3BEDjUG4CL",Python
+216,2014-05-08 15:14:26,re-raising exceptions: The most underrated feature in #Python 3 http://t.co/DLgDL7un41,Python
+217,2014-05-08 05:31:40,Another good (“evolving”) List of #Python Resources via @TWgy http://t.co/1BfIgv76Wa,Python
+224,2014-04-08 05:10:09,RT @LorenaABarba: New #IPython notebook—Exploring numerical schemes with Burgers' equation #CFD #CFDPython http://t.co/a5VPxYCHzN @fperez_o…,Python
+225,2014-04-08 01:40:36,"@josephmisiti Thanks, I really appreciate it! It really makes my day if I can contribute to the Python and 'Data science' community :)",Python
+226,2014-03-08 21:17:10,The follow-up to my PCA article: Linear Discriminant Analysis bit by bit (in #Python of course)http://t.co/SbtLszwSmC http://t.co/eK7xTYmmzJ,Python
+228,2014-03-08 16:52:37,"Python is an evolving language, it is willing to change the language, even in ways that won’t be backwards-compatible http://t.co/tPC35u4fMO",Python
+229,2014-03-08 16:44:24,RT @nvie: 2014 could very well become the year of wide Python 3 adoption. All these libraries that did their share. It’s really good to see.,Python
+230,2014-03-08 16:39:30,Introduction to the A* pathfinding algorithm in Python http://t.co/Vx2IotKK5N,Python
+232,2014-03-08 03:23:57,"Python quick-tip: 'Sorting a list of tuples by the last element' sorted_list = sorted(a_list, key=lambda e: e[::-1]) https://t.co/mxfYIIVseR",Python
+233,2014-02-08 20:58:22,@GeneticSequence @simeonvisser One of my favorite 'features' of Python is the great community ;),Python
+234,2014-02-08 20:42:55,"@RashmiSudiwala @TanyaLMS I did a benchmark here comparing #Python, #Cython, and #Fortran http://t.co/ufX5rFvcbd",Python
+235,2014-02-08 20:41:58,"@RashmiSudiwala @TanyaLMS You can embed C code in Python, and there is a nice module called Cython, which makes it especially convenient",Python
+236,2014-02-08 20:25:00,"RT @GeneticSequence: @rasbt Sebastian, is Scriptine still the best Python resource for system administration? http://t.co/FPNOafS9B4",Python
+238,2014-02-08 20:10:56,Interested to switch to Python for your 'data science'? Here is a list of libraries you want to check out: https://t.co/H669KRzuRx,Python
+244,2014-01-08 20:33:42,IPython Memory Usage interactive tool to understand how RAM is allocated for large matrix work http://t.co/kGVb0Tcopn,Python
+245,2014-01-08 20:24:04,needed a multi-MOL2 file splitter for GB-large files; a nice use-case for Python's generators. If s.o. needs it:  https://t.co/9lhpPALCqa,Python
+249,2014-01-08 16:53:37,"@LamphereTaira hey,for a person into scientific research you'll probably enjoy IPython notebooks: a great environment for any data analysis",Python
+253,2014-01-08 02:36:37,"@LamphereTaira @X1alejandro3x Sounds like the Python community just got a new, enthusiastic member! :)",Python
+256,2014-31-07 20:24:17,Here are a few suggestions for 'Styling your #Python #matplotlib plots for publication' http://t.co/aAYyUEHKjB http://t.co/RcrMea3I2Q,Python
+260,2014-31-07 04:06:27,So much talk about error bars today. One more thing... here is how you could do it in #Python http://t.co/VaMU8BtA5B http://t.co/npZR1hXUO8,Python
+263,2014-31-07 01:04:45,.@vmirly talking about WC and stats: “@PythonWeekly: An exploratory statistical analysis of the 2014 World Cup Final http://t.co/wYil5j7Ksi',Python
+271,2014-30-07 12:13:10,Python-cheat allows you to create and view interactive cheatsheets on the command-line *nix system users. https://t.co/x0HyjcCAh6,Python
+277,2014-30-07 04:11:06,"Convinced, #IPython watermark got its own GitHub repo. More handy to fork and contribute :) https://t.co/mcWXveqT3o http://t.co/ohJOsFfDuP",Python
+284,2014-27-07 21:00:13,Python Patterns - a monthly publication for python programmers presenting comprehensible and reusable solutions ... http://t.co/0d3tgJuCgg,Python
+292,2014-27-07 16:21:48,@Parinda_R It's also available for Windows and will make your Python sci-packages management definitely so much easier ;),Python
+300,2014-26-07 17:16:41,Probabilistic Programming in Python via @twiecki http://t.co/GGLwSwncd2,Python
+323,2014-22-07 18:09:32,Anti-Patterns in Python Programming http://t.co/jJP82XBKBz,Python
+326,2014-22-07 17:24:01,"@jeshoff1 @Hyperion_HQ @ianozsvald @fpedregosa yes, it really deserves to be called IPython 'magic' :)",Python
+328,2014-22-07 17:20:14,"RT @Hyperion_HQ: Inspired by @ianozsvald @rasbt &amp; @fpedregosa IPython NB magic for function memory profiling.
+https://t.co/UnvuVZtmfg http:…",Python
+334,2014-22-07 02:17:20,Interesting: a 2 week challenge to break #PEP8 rules  to attract attention of Python developers to improve it http://t.co/6eisVBwC94,Python
+341,2014-21-07 22:12:31,"@Horrible_Human hey, but if you take the subset of dynamically typed languages that are used for data analyses, Python is on top ;)",Python
+345,2014-21-07 19:43:00,"@yosmark @gregcaporaso Hear that @Biopython has a good PDB parser, maybe some sharing/integration would be possible?",Python
+348,2014-21-07 17:35:15,"RT @SciPyTip: csvkit, a Python library for working with CSV files: https://t.co/Y35MnivzNU",Python
+349,2014-21-07 17:35:05,RT @etrepum: Slides for my #ep14 keynote 'What Python can learn from Haskell' are here: http://t.co/AY67lCRE1j,Python
+355,2014-21-07 05:12:03,@ONScience @openscience @EvoMRI Me too! Maybe you find my %watermark magic-extension for #IPython nbs useful! http://t.co/ZaoKc8M3DB,Python
+358,2014-20-07 01:21:52,RT @pycoders: Must watch Python Videos http://t.co/SwJnGZaYvP #python,Python
+360,2014-20-07 00:56:04,"@jameshritz And you can also change the default browser, just search for 'c.NotebookApp.browser' in the 'ipython_notebook_config.py'",Python
+362,2014-20-07 00:49:34,"@jameshritz hm, never seen this issue before. What if you'd exe a 'sudo ipython notebook'? Also, I'd recommend Anaconda for this in general",Python
+368,2014-19-07 02:43:42,"@subbob But I heard that Python can be a little bit buggy there, today someone wrote me about an exotic issue with my multiprocessing code",Python
+377,2014-18-07 16:20:18,RT @pycoders: matplotlib-gallery - Examples of #matplotlib codes and plots http://t.co/eGBsRjxg7w #python,Python
+378,2014-18-07 13:10:07,"Finally Fixed the broken layout of the #MATLAB, #Python #NumPy, #R, &amp; #Julia matrix cheatsheet http://t.co/9Lxnn7V2a8 http://t.co/3A2uJwKvXc",Python
+379,2014-17-07 18:46:25,RT @PythonWeekly: Python Weekly - Issue 148 http://t.co/xil2GtUCGQ #python #django #ipython #nodejs #celery #redis #plotly #robot #tdd #tor…,Python
+382,2014-16-07 18:06:07,RT @ContinuumIO: scikit-learn 0.15.0 (and the MKL-linked builds of it) is now available for all platforms &amp; #Python versions! 'conda update…,Python
+385,2014-16-07 16:26:29,"@radaniba I would say very very smooth! I always found R's syntax a little bit weird, and Python feels way more natural in general :)",Python
+391,2014-15-07 20:02:01,"RT @Hyperion_HQ: Tweaked awesome watermark IPython NB magic by @rasbt to show Linux distro name, CPU type &amp; @ContinuumIO mkl version. http:…",Python
+395,2014-15-07 13:15:11,"RT @getpy: RT @raymondh:  Do you know attrgetter() and strxfrm()? 
+Invest five minutes to improve your Python sorting skills:
+https://t.co/…",Python
+397,2014-15-07 03:11:05,RT @pnatarajanmd: Blaze - numpy &amp; pandas for #bigdata http://t.co/nIXpJZdmCl @ContinuumIO @teoliphant @SciPyTip #python #bioinformatics htt…,Python
+405,2014-14-07 19:03:54,"@nirsd but in the end the choice between e.g. R, Matlab or Python is just personal taste, the underlying theory is more important :)",Python
+406,2014-14-07 18:56:24,"@nirsd thanks! You'll surely have a good time! I did once, but I don't like Matlab much, switched to Python's sci stack not too long ago",Python
+409,2014-14-07 15:57:59,"@ofcloudpeople @fperez_org this is just a markdown document listing free machine learning ebooks, not IPython notebooks",Python
+429,2014-12-07 17:12:25,"You know that I am more of a Python guy when it comes to data analysis, but it still applies: http://t.co/x0uVI39C31",Python
+430,2014-12-07 16:51:06,"@PCacioppi @planetpython plus there are nice tools like Cython, JITs, and even c and fortran code that you can use within your Python code",Python
+431,2014-12-07 16:49:45,@PCacioppi @planetpython yes! And with increasing hardware capabilities productivity in terms of writing usually outweighs performance,Python
+432,2014-12-07 16:33:14,RT @planetpython: Brett Cannon: Why I don't worry about Python losing users http://t.co/506aCiQ34n,Python
+435,2014-11-07 12:18:33,About Feature Scaling: Z-Score Standardization and Min-Max Scaling  (+ how to in Python) http://t.co/r9jd9e3cvM http://t.co/Lp9zvjpYhK,Python
+437,2014-10-07 22:59:21,.@petergaultney @ContinuumIO if I had to choose the greatest tool of the decade I wouldn't be able to decide: IPython notebooks or Anaconda,Python
+438,2014-10-07 22:55:44,RT @BokehPlots: Germany vs. Brazil game scores in visual context http://t.co/9CEMhQA6OX #DataViz @ilovecharts #Python #SciPy2014 http://t.c…,Python
+439,2014-10-07 22:55:24,RT @pycoders: Why Every Language Needs Its Underscore  http://t.co/DhKmeLlwJk #python #funcy,Python
+440,2014-10-07 15:11:31,WiFinder - A simple #Python script that counts hosts connected to a network + plays an alarm when the value changes https://t.co/OWeJd7zuMY,Python
+454,2014-09-07 02:27:29,"What to do when you are running out of colors in Python's matplotlib? Use the handy colormaps
+http://t.co/Jp0L78opVa http://t.co/jI8TcZW8MZ",Python
+459,2014-07-07 22:01:18,'Python is now the most popular introductory teaching language at top U.S. universities' http://t.co/6lzrTZcITR,Python
+461,2014-07-07 14:54:11,"RT @python_fun: Super fast color transfer between images: About a month ago, I spent a morning down at the beach, walking alon... http://t.…",Python
+464,2014-07-07 03:09:52,"@znmeb @fperez_org I usually never use Python 'desktop applications' myself, I  create them for people who are unfamiliar with scripts :)",Python
+466,2014-07-07 02:39:32,An overview of the best tools and the best resources for building desktop applications in Python. http://t.co/G0q5Nqukx4,Python
+467,2014-07-07 02:36:33,Examples showing how to use #Cython with and without the #IPython magic http://t.co/TfaWkQ07XY http://t.co/bt6CNiFPp0,Python
+471,2014-06-07 15:24:29,"I am not great at #regex, so I started to collect them copy&amp;paste-ready an IPython notebook: http://t.co/iDZz5G7XOA http://t.co/7NaJ4FrCPg",Python
+472,2014-06-07 03:51:53,@bEx_x3d my favorite data viz books are 'the graphical r cookbook' and 'gnuplot in Action' - but those are no Python books :P,Python
+474,2014-06-07 03:41:01,Commitment to myself: read a Python book 15-30 min daily... and I started to collect my reviews: https://t.co/fOXJ9SsSi1,Python
+476,2014-06-07 00:52:36,Automatic Soccer Highlights Compilations With Python http://t.co/1eVRkQ6IZj,Python
+480,2014-05-07 17:02:20,Python Call Graph - a #Python module that creates call graph visualizations for Python applications https://t.co/oTkXoZnwJr,Python
+483,2014-04-07 12:10:27,How convenient! Did you know about #Python 's matplotlib step plot to plot cumulative counts? http://t.co/kOIJaMVh8T http://t.co/T6l6tpJUgb,Python
+488,2014-03-07 01:17:53,@ptimusk especially IPython notebooks are so convenient for doc. Want to see some examples :)? https://t.co/rhkHIsOG4X,Python
+489,2014-03-07 01:13:43,"@ptimusk everyone has his/her favorite tool right :) I moved away from R and do everything with Python's sci-packages now, it's great!",Python
+492,2014-02-07 20:01:23,"Awesome Python - 
+A curated list of awesome Python frameworks, libraries and software. Awesome indeed! https://t.co/sJ0oUqTEg0",Python
+493,2014-02-07 17:39:58,Performance gain after vectorizing a Python for loop via NumPy to calculate Euclidean distance http://t.co/f2ub18OD8h http://t.co/S1BBD4Elzx,Python
+495,2014-02-07 14:39:55,"@jeshoff1 @PythonWeekly thanks a lot, I really appreciate it :)",Python
+496,2014-02-07 14:37:12,RT @PythonWeekly: Parallel Programming in Python by @rasbt http://t.co/wNIaRo4TKz #python,Python
+499,2014-01-07 15:10:13,@ofcloudpeople @planetpython: Yasoob Khalid: [Book review] Python 101 http://t.co/94YoeWpmIy” could potentially be interesting for you?!,Python
+514,2014-29-06 21:38:57,Completely un-scientific benchmarks of some embedded databases with Python http://t.co/RAvfOPXyjg,Python
+517,2014-29-06 00:45:44,@ethanwhite if you tell me how I can grab this info with in built Python modules I'd be glad to add this feature :),Python
+523,2014-28-06 19:15:13,"watermark for IPython - conveniently print date/time stamps and various system info
+http://t.co/ZaoKc8M3DB http://t.co/9ghGxs8PiH",Python
+524,2014-28-06 18:25:49,How to make beautiful data visualizations in Python with matplotlib via @randal_olson http://t.co/lXJHJm93SX,Python
+525,2014-28-06 17:49:08,"@m1ndsrokk Of course. I only used the Python wrappers, for example, 'api.PostUpdate('Hello World')' https://t.co/GrUSA8LoKZ",Python
+527,2014-28-06 17:36:26,RT @pycoders: Parzen–Rosenblatt Kernel density estimation http://t.co/H1EnKHEOTQ #python,Python
+534,2014-27-06 18:26:40,"@Altons @rickasaurus no complain, Python is just awesome, great machine learning libraries,and I can interface it with C &amp; Fortran for speed",Python
+535,2014-27-06 16:12:08,"RT @PythonWeekly: python_reference - A collection of useful scripts, tutorials, and other Python-related things by @rasbt http://t.co/7NHnu…",Python
+537,2014-27-06 12:34:03,'Why #Python is Better than Matlab for Scientific Software'  https://t.co/aXLyA5304S,Python
+539,2014-27-06 03:30:35,A short list of common #Python packaging pitfalls http://t.co/laX8IyEbou,Python
+542,2014-26-06 22:03:32,@KubajzHK @PythonWeekly thanks! I am glad that the article was useful at all :),Python
+543,2014-26-06 22:02:50,RT @pycoders: An introduction to parallel programming using Python's multiprocessing module http://t.co/GI8nLDWMne #python,Python
+544,2014-26-06 22:02:06,"RT @KubajzHK: Checkout amazing Python Weekly issue no. 145 - http://t.co/34wwqXqAKJ - today much about parallelism, scaling &amp; learning!",Python
+549,2014-26-06 12:55:11,@nucAmbiguous thanks :) I felt like it needed a more idiomatic overview at some point to prepare for some Python machine learning articles,Python
+550,2014-26-06 12:34:34,Entry point: Data - Using Python's sci-packages to prepare data for Machine Learning tasks and other data analyses http://t.co/6cuxEwcjQ9,Python
+561,2014-25-06 13:00:13,"@modernscientist yes, if only IPython notebook existed when I started with all sorts of data analyses :)",Python
+564,2014-25-06 12:31:31,"RT @modernscientist: Been thinking lately about keeping my lab notebook exclusively in IPython notebook.
+http://t.co/ljjWX1zF3w",Python
+565,2014-24-06 23:23:38,RT @ContinuumIO: Did you miss last week's #Numba webinar on #Python for the #GPU? Watch it now:  http://t.co/wRJhxRjkC5 #CUDA,Python
+574,2014-24-06 16:46:15,The current results for the #Python in-built module poll can be viewed here: https://t.co/StPlND4eDR,Python
+575,2014-24-06 16:44:34,Are you up for a small poll? 'What are  #Python 's top in-built modules every Python programmer should know?' https://t.co/doIQdUv6Ri,Python
+576,2014-24-06 16:18:43,RT @PythonWeekly: doitlive - a tool for live presentations in the terminal. http://t.co/ens7QcCK28 #python #presentation,Python
+579,2014-24-06 03:14:18,"@FogleBird After great work with Quads and Tilings, do I see another Python API in the coming to your GitHub repo here :) ?",Python
+580,2014-23-06 14:48:02,Writing better (more Pythonic) #Python code: https://t.co/HFYDnScnJV,Python
+583,2014-23-06 03:11:44,"How convenient: At some point everyone needs fake data for testing, here is a #Python package to create it! https://t.co/xasjqi78Ep",Python
+586,2014-23-06 00:14:42,"@olexandr oh nice, Python 2.7x is generally still faster than Python 3.x, and you ran I it on a faster machine, too ;)",Python
+587,2014-22-06 22:38:43,"@olexandr I am not sure. For #2 it is just extending a Python list, in #3 it is modifying all elements in a mxn array",Python
+589,2014-22-06 20:48:40,"Why it pays off to use #Python 's and #NumPy 's in-place operator functions 
+http://t.co/mzlHx3DZR7 http://t.co/zTlfVJDBaX",Python
+603,2014-21-06 17:14:56,RT @modernscientist: Handy shell functions I wrote for viewing and grepping only the input code in an IPython notebook. https://t.co/66p6YW…,Python
+605,2014-21-06 17:05:00,An IPython nb that shows how to edit videos in #Python via MoviePy  http://t.co/AASuUCYNYu,Python
+606,2014-21-06 03:21:54,RT @vmirly: Predicting #WorldCup2014 results with #python  http://t.co/iVh7oDY6C0,Python
+608,2014-21-06 02:08:30,"@djroomba419 thanks, I am glad to hear! I assume you are a Pythonista? :)",Python
+619,2014-19-06 22:54:08,"An introduction to parallel programming using Python's multiprocessing module
+http://t.co/B0FMYsDkOY http://t.co/Uk87dwD9j9",Python
+621,2014-19-06 17:14:05,RT @PythonWeekly: markdown-toclify - A Python command line tool that creates a Table of Contents for Markdown documents http://t.co/Z7lzoPU…,Python
+622,2014-19-06 17:00:52,@paraita thanks! Probably not my best Python code but I was more focused on the theory of the method :),Python
+623,2014-19-06 16:07:58,Kernel density estimation via the Parzen–Rosenblatt window method - explained using #Python http://t.co/Vd2VMtYvIF,Python
+627,2014-18-06 23:51:34,"@Beako1980 you're welcome, I am basically in the same boat as you are -'how can I make my Python faster', that's why I started this repo :)",Python
+628,2014-18-06 22:29:23,@Beako1980 @gvwilson @ctitusbrown and generally there a lot of ways to speed up your Python code if you have to: https://t.co/GXrZjcrPbf,Python
+629,2014-18-06 22:24:25,"@Beako1980 @gvwilson @ctitusbrown sry I am much more focused on protein structures, but Python&amp;C wise you might be interested in Cython",Python
+631,2014-18-06 22:09:04,"RT @Beako1980: Hey #python gurus, do you know of any courses/workshops that focus on intermediate/advanced bioinformatics? @gvwilson @ctitu…",Python
+632,2014-18-06 17:01:24,"Half-time, time for 'Lightning fast insertion into sorted #Python lists via 'bisect' '  ;) http://t.co/ghJvEd6Lab http://t.co/rLngeYw2iy",Python
+633,2014-18-06 15:21:38,"RT @PythonWeekly: The cheat sheet for MATLAB, Python NumPy, R, and Julia by @rasbt http://t.co/SddqwsxrXV #python #numpy",Python
+635,2014-18-06 13:35:38,RT @JoergR: Really? There's a Python profiler built into IPython with the %prun magic? How did I never find this before?,Python
+637,2014-18-06 02:38:36,'Nice datasets for #python practice parsing and using JSON:  http://t.co/pkeMj5wM68' some toys for you @vmirly,Python
+650,2014-17-06 18:12:26,"Did you know, #Python has a `deque` in its std lib.Just found out &amp;of course benchmarked it :) http://t.co/EGD40PSjP1 http://t.co/mxq3ehfWEO",Python
+655,2014-16-06 16:54:17,@tin_nqn_ where in '0.20.1' it doesn't seem to be integrated yet: --&gt; 'The cython module is not an IPython extension.',Python
+659,2014-16-06 04:09:04,"@NadiehBremer I put together a small cheat sheet for matrix ops for R, Julia, Matlab, and Python's NumPy if you like: http://t.co/cKfmqEWjpW",Python
+661,2014-16-06 03:28:07,"And still I learn some new Python stuff every day: Did you know that Python 3.x's range got a __contains__ method!?
+http://t.co/RDGxPDmcS8",Python
+668,2014-15-06 15:39:01,Analyzing the memory footprint of a python program http://t.co/gUqf5v4ud7,Python
+699,2014-14-06 01:31:02,"@fperez_org but I will look into it,it might be useful to other people who think about whether it's worthwhile getting started w. IPython nb",Python
+715,2014-13-06 12:13:05,"However, GitHub's Atom Editor has also a nice pep8 integration (automatically lints your Python code against PEP8) https://t.co/qNCpwEfAKl",Python
+716,2014-13-06 11:59:57,"'Write Clean, Professional, Maintainable, Quality Code in Python' Nice, I will def. give PyCharm another look :) http://t.co/PrllJeNVI6",Python
+723,2014-12-06 20:59:48,@domini1000 in Python of course ;),Python
+729,2014-12-06 20:07:49,@NathanTiberius I think it should figure it out automatically if you do a 'python3 -m pip install ...' or 'python3 setup.py install',Python
+731,2014-12-06 20:05:55,"@NathanTiberius Oh, I see. You can use everything on Python 3.4.0 (that's what I do) I wrote up instructions here :) http://t.co/hQtNWOaSuP",Python
+733,2014-12-06 18:41:34,RT @PythonHub: a Big List of Python-based Tools for Big Data. [reddit] http://t.co/K630c4jDeA,Python
+735,2014-12-06 17:58:36,RT @PythonWeekly: Python Weekly - Issue 143 http://t.co/dE5ZZgu9PL #python #django #qt #djangocon #ipython #gui #plotly #drones #gimp #nump…,Python
+736,2014-12-06 17:58:17,@vmirly Python Weekly - Issue 143: markdown-toclify and the Numpy-Matlab-Julia-R matrix cheat sheet ;) http://t.co/H6NY5TYi0X,Python
+737,2014-12-06 17:44:38,"My matplotlib plots are in IPython notebooks now, maybe useful to one or the other!? :) https://t.co/FjtEcsrAPy http://t.co/r91SrqxQR5",Python
+739,2014-12-06 02:39:35,@ofcloudpeople 1 more thing about IPython notebooks: Table of contents with links - very handy for larger documents: http://t.co/UCGu0EXG6L,Python
+744,2014-12-06 01:04:35,@ofcloudpeople if you start the IPython notebook there this is where the kernel runs,Python
+745,2014-12-06 01:04:12,@ofcloudpeople but usually it is normal to start IPython notebooks from the command line on every system,Python
+750,2014-11-06 17:18:36,Great tutorial for 'Data Wrangling with #Python 's Pandas' http://t.co/hg8w8H32cV,Python
+753,2014-11-06 14:57:36,"A colleague started with a '30 Days of Python' project. Today: Tetris! Sounds awesome, but very intense ;) See here: http://t.co/crJbE8313o",Python
+758,2014-11-06 05:12:03,"The little convenience methods in #Python are really endless: counting how often an item appears in a list:
+&gt;&gt;&gt; [1, 2, 2, 2, 3].count(2) 
+3",Python
+760,2014-11-06 03:03:03,awesome IPython nbook @vmirly for reading &amp; parsing data in R from all popular file formats (he runs R in IPython ;)) http://t.co/HBFpCyajgE,Python
+776,2014-10-06 19:25:22,@locang0 not a problem for IPython notebooks -&gt; Cython :),Python
+779,2014-10-06 19:21:25,started to collect some algorithms in IPython notebooks in a GitHub repo if you are interested to contribute :) https://t.co/rEpM4Txfk7,Python
+780,2014-10-06 16:47:34,"@domini1000 Especially if you inherit tons of useful fortran scripts from collect, you can just swap them in into your IPython notebooks",Python
+790,2014-10-06 00:32:57,"@andisspam and I really appreciate it, since I recently became a big fan of Python and Cython",Python
+793,2014-10-06 00:24:41,"@andisspam but thanks, I will make some changes, maybe a zip() for Python",Python
+796,2014-10-06 00:17:38,@coolbutuseless so that I can put them together in an IPython notebook to add the documentation and plots,Python
+798,2014-10-06 00:12:51,"RT @coolbutuseless: .@rasbt My machine n=100k, cpython=40.3ms, pypy=0.45ms.  Any thoughts on adding #pypy to benchmarks? http://t.co/fioI8w…",Python
+799,2014-10-06 00:11:26,"@coolbutuseless as far as I know it is a separate interpreter, right? So there might be no way to have both in the same IPython notebook?!",Python
+800,2014-10-06 00:11:26,"@coolbutuseless as far as I know it is a separate interpreter, right? So there might be no way to have both in the same IPython notebook?!",Python
+801,2014-10-06 00:09:17,"@coolbutuseless thanks, looks pretty impressive! Is there a way to run it parallel in IPython? I really haven't looked into PyPy yet",Python
+806,2014-09-06 23:21:42,"Time for a new benchmark :): 'Cython - Bridging the gap between Python and Fortran'
+http://t.co/Z3K3U69Bde http://t.co/wOr5PfoIk9",Python
+809,2014-09-06 17:11:08,pythonpy - a tool for using Python expressions directly on the command line. http://t.co/JdCJDAY2TB,Python
+810,2014-09-06 15:47:48,"@SciPyTip and they are pretty fast on numpy ndarray objects, but not on Python lists though, see the benchmark here http://t.co/skAyE1GKuc",Python
+811,2014-09-06 02:43:52,"markdown-toclify - a Python script that adds Table of Contents with links to Markdown docs
+https://t.co/xu7zs8j5yb http://t.co/xDGiqdrpzw",Python
+812,2014-07-06 16:33:43,"'Python to OCaml: Retrospective'
+(O[bjective ]Caml is the main implementation of the Caml programming language) http://t.co/pnixb2KaQz",Python
+822,2014-07-06 05:34:51,.@jasonscheirer my food chain would be: opcode -&gt; assembly -&gt; C -&gt; C++ -&gt; C# -&gt; obj. C -&gt; Python,Python
+823,2014-07-06 05:31:02,"@jasonscheirer I am afraid but I can’t give a good expl. either right now, beyond that Python code runs in a virtual machine",Python
+824,2014-07-06 05:18:22,"@jasonscheirer actually I hate these black&amp;white cateorizations, but Inwould put C++ into the medium level group between assembly and Python",Python
+828,2014-06-06 22:24:28,"sql4pandas
+
+Efficient SQL bindings for the Python's pandas data analysis library. https://t.co/RHm2zyGeSy",Python
+837,2014-06-06 17:12:51,"@simeonvisser yes, where would Python be without it’s great libraries (far far behind Ruby!)",Python
+840,2014-06-06 17:04:45,RT @pycoders: Python script to monitor site uptime http://t.co/p7gqSleqoM #python,Python
+842,2014-06-06 12:30:19,"Numeric matrix manipulation - The cheat sheet for MATLAB, Python NumPy, R, and Julia http://t.co/YSxtLR73nI",Python
+847,2014-05-06 17:30:36,"Global positioning systems in Python - GPS Module, Python &amp; Google maps all in one
+http://t.co/LJG0yPeoGb",Python
+848,2014-05-06 17:11:59,"@MiguelSieck it wasn’t around back then when I learned Python, but must people recommend: http://t.co/NEtnQauuG4",Python
+849,2014-05-06 15:53:05,Want some more insights into Python's matplotlib? One great article I've just stumbled upon: http://t.co/BDXvpaZCmV http://t.co/jSUsEAFjSR,Python
+851,2014-05-06 12:18:11,"'The new asyncio in Python 3.4 provides critical asynchronous IO support.' 
+A humorous &amp; thoughtful 30 min rundown:  http://t.co/MA1OJDiDRD",Python
+854,2014-04-06 23:09:06,Tablib: format-agnostic tabular dataset library for Python https://t.co/MMNED98c3c,Python
+857,2014-04-06 21:59:11,"Wow, 'Computable brings IPython and SciPy to the iPad'. But on the other hand, do we want/need it? @simeonvisser http://t.co/P9RzRPPt1W",Python
+862,2014-04-06 19:02:18,"@fcassia @simeonvisser that’s nice, but I already have all this in the Python sci stack that uses compiled c code",Python
+863,2014-04-06 19:01:11,"@fcassia @simeonvisser for me personally I just have no use case for those libs currently, because I already have everything in C and Python",Python
+865,2014-04-06 18:53:22,"@fcassia @simeonvisser yes, but I as a scientist in academia I am living in the C/++ &amp; Python land :)",Python
+867,2014-04-06 16:59:14,“Python 3 Wall of Superpowers”: all the supported packages so far “@simeonvisser: @rasbt : http://t.co/xU0hkn1tkF”,Python
+869,2014-04-06 14:31:12,"RT @simeonvisser: Interesting project: Micro Python, a Python 3 implementation for embedded devices: http://t.co/3LE31sOIAM #python",Python
+870,2014-04-06 13:06:21,Concurrency in Python and other languages http://t.co/LibS4Scnr5,Python
+877,2014-03-06 23:36:18,"@ofcloudpeople another day and another useful tool,right!? :) I am sure you will have fun with IPython notebooks now where everything is set",Python
+881,2014-03-06 22:24:15,"@ofcloudpeople but you can also set the python version explicitly if you create new env. E.g., conda create -n newenv python=3' (or 2)",Python
+882,2014-03-06 22:23:21,"@ofcloudpeople I am not sure about Windows, but for Mac you can pick the default python for conda",Python
+892,2014-03-06 17:39:37,"@Tyler_Butt1 for me my world is centered around c++ and Python as long as I am (still) in academia :), but I want to dive into Google’s Go",Python
+898,2014-03-06 16:54:01,"'Would a Python 2.8 help you port to Python 3?' - yap, the discussion is not over yet :) http://t.co/r2nfVi0Yll",Python
+901,2014-03-06 12:35:09,“[…] tools for almost every aspect of scientific computing are readily available in Python.” http://t.co/3RKsxZrdll http://t.co/Bljo7PyzG5,Python
+902,2014-03-06 12:14:40,@raybesiga @vmirly looks like that I forgot the link: Python for Data Analysis: The Landscape of Tutorials http://t.co/KnJDZCSUPE,Python
+908,2014-03-06 00:40:55,.@raybesiga @vmirly 'Python for Data Analysis: The Landscape of Tutorials' might also be useful to get you started: All my favorite tools :),Python
+909,2014-03-06 00:34:57,@raybesiga I like IPython notebooks to combine all for plotting and documentation,Python
+911,2014-02-06 22:29:30,@ofcloudpeople I use Python only through venvs. Makes it easier to manage versions and libraries,Python
+912,2014-02-06 22:15:26,Python Tools for Machine Learning https://t.co/Xcyd3wuuP5 @vmirly,Python
+913,2014-02-06 22:11:19,"@ofcloudpeople and if you like the more classic approach to install IPython, see here: http://t.co/RE38TTc7BQ but conda is my recommendation",Python
+916,2014-02-06 19:44:14,@sixhobbits I wouldn't take those too literally. Let's look at how big the Python community is and draw our own conclusions :),Python
+924,2014-02-06 19:13:38,"Personally, I am not using Python's IDLE, but many people do: 
+'IdleX 1.12 - making IDLE a little more convenient.' http://t.co/EfQx4P3wfD",Python
+927,2014-02-06 17:23:22,@ofcloudpeople One tool that I can only recommend you for experimenting and documenting your code are IPython notebooks - you'll love them!,Python
+931,2014-02-06 15:30:15,"And I think that this project is a good follow-up:
+Pyminifier - a Python code minifier, obfuscator, and compressor. https://t.co/bvF6xHTTyc",Python
+932,2014-02-06 15:28:24,Code Golf contest: Obfuscating 'Hello world' in Python http://t.co/MniY2k97KT,Python
+933,2014-02-06 14:13:22,RT @PythonWeekly: Key differences between Python 2.7.x and Python 3.x @rasbt http://t.co/faqkIgCwS8 #python,Python
+938,2014-02-06 00:08:30,RT @raymondh: #python news:  Python 2.7.7 has just been released.  Update your python today:  https://t.co/V1XQsgU9g0,Python
+941,2014-01-06 23:52:07,A completely different introduction to Python: the big picture of the language with a sense of humor :) http://t.co/KmD0F9A0cV,Python
+947,2014-31-05 21:34:45,And the discussion continues :) ... '10 awesome features you can't use because you refuse to upgrade to Python 3' http://t.co/28EnLKFKt7,Python
+955,2014-31-05 17:53:05,.@simeonvisser I like Python so much because of the great community and plethora of good libraries. Makes problem solving very convenient,Python
+956,2014-31-05 17:52:00,"@simeonvisser right now I am happy with Python and use Cython &amp; Numba here and then, but I am always open to new great stuff :)",Python
+958,2014-31-05 17:45:30,.@simeonvisser from what I heard Go is somewhere between C++ in terms of performance and Python in terms of convenience and productivity,Python
+963,2014-31-05 17:25:04,"RT @modernscientist: Excited about the addition of numpy/scipy/matplotlib to Pythonista. Looks great, @olemoritz! 
+https://t.co/XKmtn76rSh
+…",Python
+965,2014-31-05 16:10:12,We had regexpr discussion recently... - Lexitron A regex search engine for the English language (built in Python) https://t.co/XtWXzF4fm4,Python
+972,2014-31-05 00:45:55,Python practice problems - In case you don’t have a sunny weekend ahead ;) http://t.co/pvvQhilbNW,Python
+982,2014-30-05 20:19:01,For Python beginners: 'Introduction to Comp Science and Programming Using Python' - free class &amp; starts in 2 weeks https://t.co/skGADFgoL8,Python
+987,2014-30-05 19:06:49,"The new Python pandas ver. (0.14.0) comes out tomorrow. There are a few API changes, and it is using sqlalchemy  now! http://t.co/XKj9LaFYXB",Python
+991,2014-30-05 17:29:52,I am wondering what all this Python 3.4 via Anaconda is all about. “conda create -n someenv python=3” installed it 3.4 months ago already,Python
+998,2014-30-05 16:18:06,"pyinstrument
+A new Python profiler that records execution of code, not just the final function in it. @domini1000 https://t.co/PpE6evxwbm",Python
+1008,2014-30-05 14:22:49,A roadmap for using free resources to learn 'Web Development using Python &amp; Django' http://t.co/7NW37qLNOI,Python
+1017,2014-30-05 02:27:58,"@aLink2Awesome  I use Python/R instead of SAS, and HTML instead of XML -- maybe you can convert/convince me after the semester is over ;)",Python
+1028,2014-29-05 21:07:49,"@Snider_James @TanyaLMS Not too long ago I was using Python for programming, R for stats analysis, then I move all Python-time well invested",Python
+1032,2014-29-05 20:18:36,@domini1000 sounds good :) prepare yourself (or your Python 2 code) with “from __future__” imports ;),Python
+1033,2014-29-05 20:14:02,"@domini1000 haha, sure ;), pretty hot topic these days :) I like my Python 3 though :)",Python
+1038,2014-29-05 19:53:43,".@TanyaLMS Sorry, but one more tweet: #Python is actually also pretty fast compared to R ;) http://t.co/H90X8jLq3o",Python
+1040,2014-29-05 19:47:28,"@TanyaLMS Also, I'd recommend doing your analyses in #IPython notebooks. They are just awesome for documentation: https://t.co/rhkHIsOG4X",Python
+1042,2014-29-05 19:45:25,"@TanyaLMS Yes, definitely Python - and I say this as a former R guy ;) There is NumPy for matrix stuff, see http://t.co/JrDXlBXBKL",Python
+1043,2014-29-05 19:43:17,"@vmirly Hey, Vahid, that's a pretty awesome IPython notebook you compiled there. Probably one of the best I've seen in a while! Thanks!",Python
+1055,2014-29-05 16:57:15,@NEdgingtonPhD I am sure you had a great time using IPython notebooks… Right?! :),Python
+1056,2014-29-05 16:55:03,RT @ContinuumIO: Announcing 'Using Numba to Program the #GPU from #Python'! A free webinar on 6/17 at 12p CDT. Register now: http://t.co/qk…,Python
+1057,2014-29-05 16:29:18,"Interesting, depending on which version of Python you are using, iterating over a list can be slower than over a str http://t.co/gRI3lbjvzz",Python
+1058,2014-29-05 15:41:23,Unit testing in #Python using 'Mocks' http://t.co/i95GnwYkpO,Python
+1060,2014-29-05 13:50:22,'A Nice little bit of Python' - a short read with a nice tip that I have to implement now :)  http://t.co/KOQvvBJCPC,Python
+1069,2014-29-05 02:09:59,@FulweilerLab I am glad to hear that the #Python community just got a new enthusiastic member :),Python
+1073,2014-28-05 23:25:06,Building an obfuscated Python interpreter: we need more opcodes: http://t.co/QD6xXfvePC,Python
+1079,2014-28-05 20:50:54,"@jasonscheirer @infixum yep, and in case of a Python and many others we have to thank the community who enjoys using the language",Python
+1083,2014-28-05 19:43:45,"@simeonvisser And thanks for the tip, I now use python-markdown + pygment's codehilite for the syntax colors: http://t.co/7OGL9yc737",Python
+1085,2014-28-05 19:16:04,What a coincidence... there is another one who just wrote 'The key differences between Python 2.7.x and Python 3.x *with workarounds*',Python
+1087,2014-28-05 18:10:07,'5 simple steps for converting Markdown documents into HTML and adding Python syntax highlighting' http://t.co/7OGL9yc737,Python
+1088,2014-28-05 16:15:42,'What are the dominant colors? OpenCV and Python K-Means Color Clustering' http://t.co/Tg5fcHb3at http://t.co/rJxquDK98n,Python
+1092,2014-28-05 00:17:37,'Python 3 is fine' - great follow-up to the recent anti-Python 3 articles. Thanks! http://t.co/GKy64f3mPa,Python
+1096,2014-27-05 20:00:47,"@o__hendrik__o and to be fair, I like Python 2 for it’s speed and certain packages, e.g., the great parakeet JIT compiler!",Python
+1102,2014-27-05 19:12:55,"@o__hendrik__o have you seen my recent “key differences between Python 2 and 3 post”?Most of the things listed,I consider as advantages of 3",Python
+1104,2014-27-05 19:05:42,Using #Python 's math module for faster math. A small benchmark this time but interesting http://t.co/O806qVzLk7 http://t.co/QPyb5q6XOz,Python
+1107,2014-27-05 17:56:08,'Python 3 can revive Python' follow-up to yesterday's “Python3 is killing Python”(which I didn't like &amp; didn't tweet) http://t.co/Dk382Gzu5E,Python
+1109,2014-27-05 17:03:52,"@0chagum @AllenDowney Too bad that it wasn't around back then when I learned Python, I assume it is targeted to beginning programmers?",Python
+1110,2014-27-05 16:53:24,If this isn't useful... 'Best Books to Learn Python' ranked by public vote http://t.co/U3NlSF5hga,Python
+1111,2014-27-05 15:53:00,'Watering Time: Practical Uses for Python’s Calendar Module' http://t.co/nqF0b1SoaF,Python
+1113,2014-26-05 18:47:14,About 'Decorators and Functional Python'  http://t.co/T3y9lDb9gx,Python
+1114,2014-26-05 06:26:36,"@Mbussonn what I mean is switching virtual environment within the IPython nb, but I think that won’t work. Else the kernel restart is easier",Python
+1120,2014-26-05 05:04:42,@m1ndsrokk I am pretty sure you will have a good time - I never heard anyone complaining that Python was too difficult :),Python
+1122,2014-26-05 05:01:21,"@m1ndsrokk And for a non-video tutorial, many people like the website 'Learn Python the Hard Way' http://t.co/dxppjzDTAz",Python
+1124,2014-26-05 04:59:35,"@m1ndsrokk I am not a Ruby guy, but there are a lot of good Python resources out there!",Python
+1125,2014-26-05 04:58:57,"@m1ndsrokk for beginners I would recommend Ruby or Python, they are very intuitive :)",Python
+1133,2014-25-05 22:23:22,"'Packaging a python library' - just posted today, and very useful! http://t.co/L45hj4ypV3",Python
+1143,2014-25-05 17:27:58,@ThorSummoner but for example I had to improve the code for my work projects therefore I did the Python benchmarks on github for experiments,Python
+1148,2014-25-05 17:00:11,"Nice, Renyuan just uploaded his Chinese Python scripts to GitHub! :)https://t.co/12HepilEOI http://t.co/1laVfJZHpf",Python
+1154,2014-25-05 16:24:45,PyCircleriser - a nice Python tool to create clusters of circles from images  https://t.co/iJfm4Pxs8Q @Olympus_Monds http://t.co/G4J0X9golc,Python
+1157,2014-25-05 16:13:30,"@eldelaruana oh, we often have a lot of issues with it in the lab when it comes to GUI stuff written in Python and graphic cards drivers",Python
+1164,2014-25-05 16:08:37,"@Mbussonn thanks! I am using virtual environments though, can I load them via source activate in IPython nb somehow?",Python
+1166,2014-25-05 16:06:39,@iamcastelli have you seen the Python scripts for turtle graphics that were completely written in Chinese characters I tweeted some days a?,Python
+1170,2014-25-05 06:19:48,@simeonvisser for example “key differences betw. Python 2 &amp; 3” I tweeted earlier… Entirely written as IPython nb http://t.co/ddF9dxeB4r,Python
+1174,2014-25-05 06:07:23,@simeonvisser it will be JSON and/or HTML+CSS. For example in this GitHub repo I only have IPython notebooks,Python
+1176,2014-25-05 05:59:06,"@simeonvisser thanks! So usually my content comes from IPython notebooks, have you tried to convert those?",Python
+1180,2014-25-05 04:27:27,"RT @alovedalongthe: @rasbt BTW, thanks for promoting IPython so strongly -- just started playing with the interactive interpreter, which is…",Python
+1184,2014-25-05 04:04:42,"@thetoxicarcade hey, before it was an HTML of copy and paste from the interpreter. I went back, and rewrote it in and IPython notebook",Python
+1185,2014-25-05 04:01:15,"Here they are, the key differences between Python 2 and 3 freshly executed in the full beauty of an #IPython notebook http://t.co/qoYyPXZ6o8",Python
+1188,2014-25-05 00:48:42,@mstea_ebooks I feel like the #twitter syntax is more complicated than #python ‘s,Python
+1189,2014-24-05 23:38:57,Serving static content (and comments!) in #Python with Pelican https://t.co/TNtp6S2DmV,Python
+1195,2014-24-05 17:34:05,"prettyplotlib - 
+a Python matplotlib-enhancer library which painlessly creates beautiful defa… http://t.co/MynmTuNZTy http://t.co/l6xl5j8rGb",Python
+1196,2014-24-05 16:21:13,"@radaniba i like 3 slightly better, but not are fine in my opinion! You are using Python 2.7 out of habit or because of some spec libraries?",Python
+1197,2014-24-05 16:12:17,Some people asked me about the differences between #Python 2.x vs. 3.x... I have a beginner's overview here: http://t.co/Z3HYPRVdga,Python
+1198,2014-24-05 14:53:03,How keep Python 3 moving forward http://t.co/o4NL2nXFKI,Python
+1199,2014-24-05 14:45:17,"RT @beerops: &gt;&gt;&gt; [1, 2] &gt; 'foo' 
+False
+&gt;&gt;&gt; (1, 2) &gt; 'foo'
+True
+
+Because 'tuple' &gt; 'str' &gt; 'list'. Because cpython. Because reasons.",Python
+1200,2014-24-05 14:45:17,"RT @beerops: &gt;&gt;&gt; [1, 2] &gt; 'foo' 
+False
+&gt;&gt;&gt; (1, 2) &gt; 'foo'
+True
+
+Because 'tuple' &gt; 'str' &gt; 'list'. Because cpython. Because reasons.",Python
+1202,2014-23-05 20:50:19,@jameshritz Thanks :) Someone suggested to generate a summary table for the linked Python articles from my timeline... working on it :),Python
+1203,2014-23-05 19:43:48,@jawwadh19 but with the @ symbols thanks to python3′s fancy Unicode ;),Python
+1205,2014-23-05 17:04:44,"@nedbat @PythonDaily based on the title I expected some Python community bash of some sort, but I am positively surprised, nice article.",Python
+1207,2014-23-05 16:53:18,@ofcloudpeople just interested because beginners often ask my for recommended resources: what do you use for learning Python?,Python
+1208,2014-23-05 16:49:57,RT @LorenaABarba: I just showed IPython Notebooks to the President of the Institute of Medicine @theIOM. He said 'it looks like something I…,Python
+1216,2014-23-05 02:32:08,"@sammoskwa Yeah, finally can stop using those ugly `&amp;nbsp;`s &amp; replace them by tabs in my IPython notebooks for prettier tables of contents",Python
+1218,2014-23-05 01:27:34,RT @sammoskwa: @rasbt I put this together for creating an  IPython table of contents http://t.co/DZolmrDkLA,Python
+1220,2014-23-05 00:21:01,Heard that dev. for mobile  via Python is a lot of hassle - doesn't look like it: 'Android dev. with Python &amp; Kivy ' http://t.co/svjx8PMukJ,Python
+1225,2014-22-05 23:53:47,"If you haven't made unit testing a habit yet, pls go ahead: Introductions to Python Testing Frameworks http://t.co/Af7zIAR7Q9",Python
+1229,2014-22-05 21:16:04,"And here a Python script written in Chinese characters - okay, I don't understand a word, but it looks cool! http://t.co/JEi61ecgoC",Python
+1230,2014-22-05 20:13:54,A #Python script to download videos from a youtube channel - have to try that before my next trip! https://t.co/Mwct9QMleI,Python
+1245,2014-22-05 02:37:45,"@NotchByNotch if you are interested, I recently started this benchmark project to get the most out of #Python code https://t.co/GXrZjcrPbf",Python
+1248,2014-21-05 23:51:24,@NotchByNotch glad to hear! I know some Java and C++ but my real passion to programming started when I was introduced to Python :),Python
+1254,2014-21-05 22:04:37,"@sinic ah I see, but I would never use the inbuilt Python anyway",Python
+1255,2014-21-05 21:54:49,"@sinic Okay, what about this compromise find ./ -maxdepth 1 -name '*.py' -exec sed -i.bak '1i\ #!''$(which python)'' ' {} \;",Python
+1260,2014-21-05 21:19:55,Took me quite some time to figure out the bash syntax to prepend Python shebangs to .py files...if you ever need it: https://t.co/RF5URal21Q,Python
+1265,2014-21-05 18:34:51,"@TheGuyILostTo I also learned Java a couple of years ago, but I found that Python and C++ are way more useful to me in sciences",Python
+1273,2014-21-05 15:33:16,"IPython and Plotly: A Rosetta Stone for MATLAB,
+R, Python, and Excel plotting http://t.co/1p29j6y5yp",Python
+1274,2014-21-05 02:54:31,'How to download and resume files using Python and urllib' http://t.co/QWUlFXZtqL,Python
+1275,2014-21-05 00:27:23,"I love my Markdown+IPython nb+CSV+GitLab/hub version control  approach for doing research, collaborators unfortunately don't :(",Python
+1276,2014-21-05 00:21:26,Yuppy - 'Python Programming for the Privileged Class' so intrigued by the headline that I have to check it out later https://t.co/EnNErbKlxm,Python
+1277,2014-21-05 00:14:21,RT @ContinuumIO: Python 3.4.1 is now available via conda! Get more info on creating and environment - http://t.co/kU5Nk7HR5I #Python #PyData,Python
+1289,2014-20-05 18:01:08,"RT @gvanrossum: Q: 'Is C++ better than Python?' A: 'If you have to ask, learn Python.'",Python
+1293,2014-20-05 17:04:51,"@ASWAR9696 Most people I know recommend 'Learn Python The Hard Way' - there is also Codecadamy, but I don't like it and wouldn't rec. it",Python
+1304,2014-20-05 16:03:08,"omg, I did it way too complicated all the years: printing 'percentages' via Python  : '{:.1%}'.format(1/3.0) ----&gt; '33.3%'",Python
+1311,2014-20-05 12:06:01,'Easy Python Setup for a Mac' - a nice guide by @ag_shen about how she keeps her software organized via homebrew https://t.co/9JqVQx2TjY,Python
+1318,2014-19-05 23:58:12,Here is a neat trick to overcome the curse of Python's dynamic type system via decorators http://t.co/1Q0Z6JBnJK,Python
+1320,2014-19-05 22:38:01,RT @ag_shen: @rasbt @BenJohnson3434 The long-ago promised python setup tutorial http://t.co/cd4mdMvx7Q,Python
+1322,2014-19-05 18:24:23,trinket - a tool to 'Put Interactive Python Anywhere on the Web ' https://t.co/R80Hat8642,Python
+1324,2014-19-05 16:51:10,Added figures to 'Creating a table of contents with internal links in IPython Notebooks' -hope it's more clear now :) http://t.co/KOJ66E2txL,Python
+1327,2014-19-05 15:40:58,"Reading data from simple RFID readers, bar code or magnetic card scanners using Python http://t.co/s9rx7tpM7j",Python
+1338,2014-19-05 00:30:24,"@frapmalik sorry about that, hope you get it to work! If not you could also ask on stackoverflow or the learnpython subreddit",Python
+1344,2014-19-05 00:17:14,"@Ray_Aldred For me personally Python is 10^6x more useful - I don't know, but Perl seems to be dying out (at least in the life sciences)",Python
+1351,2014-18-05 23:27:01,Many people have asked me that... here is how to create a table of contents with internal links in IPython Notebooks http://t.co/EgP30F6rJa,Python
+1353,2014-18-05 22:22:57,How To Geolocate an IP Address with Python http://t.co/pnYW20lnUz,Python
+1354,2014-18-05 21:58:51,"'Pyramid is easy to set up and use.
+Let's create a minimal web application in 5 minutes using Python 3.' http://t.co/uem7rHLFJ2",Python
+1357,2014-18-05 21:46:15,"The Best Python Books of 2014
+ http://t.co/EZtbLAZ58A",Python
+1361,2014-18-05 08:43:24,"Found another nice &amp; convenient Python compiler, parakeet, for my Bubble sort benchmarking http://t.co/RhteMH4pun http://t.co/yor1m3D2hp",Python
+1364,2014-18-05 08:32:38,"@alexkutty21 Sure, there is the python 'twitter' module (API) which lets you do that, you can install it via pip install twitter",Python
+1367,2014-17-05 17:07:08,The Female Perspective of Computer Science: Python and Pi Helped Make Go Code Girl 2014 A Great Success http://t.co/9YmdQ5sDIr,Python
+1377,2014-16-05 21:02:42,"@bumbaloe62 making fun of Python, eh?! :)",Python
+1379,2014-16-05 20:58:15,Sometimes it doesn't even require a computer to have fun with Python ;) - Python logo in Lego  http://t.co/iuHmVXz6uO http://t.co/IZ7qOvxRhY,Python
+1382,2014-16-05 18:30:28,"@ofcloudpeople also recently started using it, the Python community there is just awesome! Recommend you to chime in :)",Python
+1384,2014-16-05 17:52:07,'How to make a Lisp out of Python' http://t.co/93lgbN7upv,Python
+1386,2014-16-05 15:55:21,'Some thoughts on Python 3 adoption' http://t.co/7KN41YxOkx,Python
+1391,2014-15-05 22:42:48,"@0chagum I do my entire data analyses in IPython notebooks now, the best productivity tool in the last decade for me",Python
+1392,2014-15-05 22:19:05,"QtIPy - a tool to automatically run IPython notebooks on file changes, or run a IPython notebook on a timer. http://t.co/XQWwBU6gsX",Python
+1393,2014-15-05 20:16:02,'Learn PyQT [a Python GUI framework] Step By Step' http://t.co/4P6co31sk8,Python
+1394,2014-15-05 20:00:21,"Cool! Rockivy - an app for learning guitar scales, written in Python. https://t.co/XZ8tFFFIbk",Python
+1402,2014-15-05 16:14:41,"Nice, 'Understanding Python by breaking it' part 2! via @hakril http://t.co/fMNxa9emt8",Python
+1403,2014-15-05 15:52:51,Neural networks and a dive into Julia (which aims to be as fast as C but as convenient as Python) http://t.co/8nQLoDmiJb via @yhathq,Python
+1410,2014-15-05 01:47:19,Finally! I added IPython Notebook support for my Python Progress Tracking Utility! https://t.co/1e6ZTsWKV0 http://t.co/wnFRMf8nqR,Python
+1420,2014-14-05 19:05:01,"@tjslater yes, and in IPython notebooks it’s not really additional effort to use Cython :)",Python
+1421,2014-14-05 18:59:44,Seems like I can't get enough from Cython: squeezed out another 100x speed boost over Python: http://t.co/mPOZIJdxjo http://t.co/2aiUG7z2x2,Python
+1423,2014-14-05 16:53:30,"@ZombieCodeKill hmm… Python, Julia and/or Go ;)",Python
+1427,2014-14-05 14:02:02,'Using SQLite Full-Text Search with Python' http://t.co/uEIejV61kK,Python
+1429,2014-14-05 13:29:46,RT @gvanrossum: Finally there is py2exe for Python 3! https://t.co/1JP9GmgUJr,Python
+1433,2014-14-05 13:02:05,"my main complaint about pickle (serializes and deserializes Python objects) was speed, maybe I should try cPickle... http://t.co/pwnpC37hgr",Python
+1435,2014-14-05 02:48:01,"Had to sort tons of CSV file tables - luckily automated via Python. Maybe it is useful:
+http://t.co/s4QgEFbbeQ http://t.co/ZduJNwdBM3",Python
+1436,2014-14-05 01:22:44,"I thought this update on Cython vs. Numba. vs. (C)Python was really worth a tweet ;)
+
+http://t.co/OmM7OUDmXl http://t.co/XVgxM1r2CX",Python
+1442,2014-13-05 17:29:03,Python Benchmark No. 6: Ways to determine if a string is a number http://t.co/WWWR8Gyov1 http://t.co/RuDUkasOVp,Python
+1443,2014-13-05 15:55:57,Python is a language without any boundaries - but here is how you draw them (handy for my pattern class. projects) http://t.co/3HdcafgDFz,Python
+1445,2014-13-05 12:18:01,"I am not sure if it is good, but there is a new Python for beginner's resource: 'Learn Python with Reeborg!' http://t.co/pwWhGVeh0r",Python
+1446,2014-13-05 04:31:49,"RT @CKPYT: Why I’m not leaving Python for Go → http://t.co/xoCgz5RSnV
+
+and because Go hasn't mature scientific libraries, scikits, cooperhe…",Python
+1447,2014-13-05 00:31:45,"@RorNotRed and to be fair, from the view colleagues who use windows at home, I heard that Python is more convenient on the Posix systems",Python
+1448,2014-13-05 00:26:06,@RorNotRed otherwise I would counter that python is around since the Walt 90s :),Python
+1449,2014-13-05 00:25:28,"@RorNotRed sry that was a misunderstanding, I meant 'learn Python the hard way' wasn't around back then when I was learning Python",Python
+1451,2014-13-05 00:05:32,"@RorNotRed haha okay, haven’t tried it myself, it didn’t exist when I learned Python, but I only heard positive things :)",Python
+1452,2014-12-05 23:57:29,"@RorNotRed Hm, maybe you had the wrong resources for learning it :)!? Python is really easy and so useful. Try “Learn Python the hard way”",Python
+1454,2014-12-05 23:46:16,'Why I push for Python - My colleagues are puzzled by my relentless push of Python [...]' by Lorena Barba http://t.co/d0aUOn4r1E,Python
+1456,2014-12-05 17:30:04,'Everything you (did not) want to know about Unicode in Python 3' http://t.co/258PIaFa3i,Python
+1457,2014-12-05 15:38:43,".@culurciello Finally, here is the follow up to 'Cython vs. Python vs. Numba' for n= 10^4 -Cython really caught up :) http://t.co/kniXZ2jUDp",Python
+1458,2014-12-05 14:31:31,Python Benchmark No.5: How to flatten a list of sublists  (or: how to better not to ;) ) http://t.co/nXRpR2iJIt http://t.co/msIMCz6ebf,Python
+1459,2014-12-05 02:24:50,"RT @vmirly: R Kernel for iPython: a nice way to publish R scripts, and data analysis codes: http://t.co/hOFAuG7qVA",Python
+1470,2014-11-05 16:38:42,And this is my Pythonic way of saying 'Happy Mother's Day': http://t.co/pPDSwHIbzj http://t.co/xNCplqaLWl,Python
+1473,2014-11-05 14:31:20,"@domini1000 That was my mistake: I passed 'regular' python lists to Numba, however, Numba works best with Numpy arrays :) I like Cython best",Python
+1474,2014-11-05 13:55:07,The Python Saturday morning hack: personalized news digest with boolean query parser http://t.co/SVEmXjrXyr,Python
+1481,2014-11-05 01:03:56,"@Hyperion_HQ I am genuinely curious, we have to see how the back and forth conversion between Python lists and C arrays will cost Cython …",Python
+1483,2014-11-05 00:37:41,"Another update, could make Cython 80x faster than Python &amp; we have a deuce with Numba :) http://t.co/IhniQO6Ea5 http://t.co/o6ciezU37Y",Python
+1485,2014-10-05 21:30:16,That's day 4 in my benchmark series: Python vs. Cython vs. Numba! http://t.co/IhniQO6Ea5 http://t.co/NDkydzV3fw,Python
+1486,2014-10-05 20:47:24,The Hitchhiker’s Guide to Python! - No words for how awesome this is! http://t.co/BhSXkHlo1s,Python
+1488,2014-10-05 17:17:58,RT @montytrend: @rasbt Here's my Python! http://t.co/A2UEtJgslY,Python
+1489,2014-10-05 17:15:19,The CPU is running… Today’s daily Python benchmark is going to be especially awesome :),Python
+1492,2014-10-05 07:24:49,"@alexivanovs @jerriust heard from many people that it’s the best resource. But can’t  say, it didn’t exist when I learned Python back then",Python
+1494,2014-10-05 04:26:22,RT @scottsburns: When you begin to have related #IPython notebooks (and you will) check out http://t.co/53RQRrDCPi for how to share code be…,Python
+1515,2014-09-05 19:20:19,"@domini1000 haha :) I am happy with Python, it’s pretty fast to write and can be sped up tremendously via Cython",Python
+1517,2014-09-05 17:08:55,Python-benchmarks Day 3: 5 different ways to count elements in a dict. My favorite so far :) http://t.co/1prBHLBUGe http://t.co/qKBRsw1DjD,Python
+1522,2014-09-05 11:48:00,That's what I call a 'Python Cheat Sheet' http://t.co/eqkRLBhFAY,Python
+1529,2014-09-05 02:25:22,The subway map to Python - an artistic point of view ;) http://t.co/x82ncEcSIu http://t.co/uizdjeflMR,Python
+1530,2014-08-05 18:51:04,"Right there,a very cool IPython notebook that walks you through the process of creating maps of volcanoes with Python http://t.co/i1YfwYZHrV",Python
+1532,2014-08-05 18:43:48,"@clarkfitzg hey hey, not too much at once. I already have Numba vs Cpython and also vs Cython in the pipeline… It’s coming ;)",Python
+1537,2014-08-05 16:18:02,Top 10 Mistakes that Python Programmers Make http://t.co/mEKfUlsr8N,Python
+1547,2014-08-05 13:19:25,Off we go! Day 2 in my little One-Python-benchmark-per-day: Calculating arithmetic means. http://t.co/USa4zKColp http://t.co/SrAndoS1VK,Python
+1549,2014-08-05 03:23:31,Best Python Resources for Beginners and Professionals http://t.co/BrRgcIRBYn,Python
+1550,2014-08-05 03:21:53,@jtauber @ThoughtStreams_ find GitHub a little bit more convenient to deposint IPython notebooks where everyone can access and download them,Python
+1555,2014-07-05 17:59:30,"30 Python Language Features and Tricks You May Not Know About
+http://t.co/tC6RRETn9p",Python
+1557,2014-07-05 17:47:30,RT @GaelVaroquaux: Programmer position at @Inria_Saclay  — focus on #bigdata and some #python http://t.co/pD5aaCkzXf,Python
+1560,2014-07-05 15:18:21,If you ever need a palindrome function in Python ... I came up with half of dozen of them :) Pls feel free to choose http://t.co/AyV69rwbRX,Python
+1565,2014-07-05 14:09:34,"RT @PythonWeekly: A beginner's guide to Python's namespaces, scope resolution, and the LEGB rule via @rasbt http://t.co/7Jl33PVd9b #python …",Python
+1568,2014-07-05 12:06:05,Here we go. Day 1 of my One-Python-benchmark-per-day project: String reversing! http://t.co/d0UdZloKnY http://t.co/XXfuggmNod,Python
+1569,2014-07-05 05:21:15,"@__pmo you are absolutely right. Haven’t played with pypy yet, only Cython vs Cpython vs Numba. But PyPy is also static typed, right?",Python
+1570,2014-07-05 04:46:34,"Oh, just had this idea: Why not starting sth like 'sharing 1 Python benchmark per day challenge' - I have 12 more in my backlog. stay tuned",Python
+1587,2014-06-05 20:19:58,Ironic that I just stumbled across this article after my recent Cython benchmarks:'PyPy.js: Now faster than CPython' https://t.co/8J3RhcC84t,Python
+1595,2014-06-05 15:07:14,"We all love IPython notebooks, esp. to analyze, document and plot data:1 step further adding interactivity via plotly http://t.co/xuZXpkmrA2",Python
+1601,2014-05-05 22:04:52,RT @raymondh: #pydata Peter Wang has a remarkably clear vision of where #python has been and where it is going.  The future looks bright.,Python
+1606,2014-05-05 21:49:46,@jtauber I literally do 95% of my analyses in IPython notebooks… How great would it be if you could just submit them to the publisher…,Python
+1617,2014-05-05 18:58:02,"@tyrannorobotrex it’s even easier, you can put C++ code in it, but I go with convenience at let it just compile the Python code into c",Python
+1618,2014-05-05 18:49:43,"@rgcjk if it is ready written, keep it as is :) however, it’s easy to put fortran code into Python for convenience, there are interfaces …",Python
+1620,2014-05-05 18:46:55,@rgcjk but with Cython you can (without necessarily modifying it) take your Python code and land somewhere in between,Python
+1631,2014-05-05 16:05:28,"Python in the Browser. No Installs.
+Create a shareable snippet of interactive python anywhere on the web! https://t.co/jBqqT76ME7",Python
+1632,2014-05-05 15:48:56,"An interesting book: Music For Geeks And Nerds
+Learn more about music with Python and a little bit of math. http://t.co/3wkpLbRROc",Python
+1633,2014-05-05 15:35:01,Time to upgrade: Python 3.4.1 is put! Has over three hundred bugfixes and other improvements over 3.4.0. https://t.co/plILvEToOk,Python
+1637,2014-05-05 01:49:37,@ccordoba12 oh somehow I overlooked the interfacing with Python part… Now I am curious and will have to take a look at it,Python
+1638,2014-05-05 01:48:40,@ccordoba12 @JuliaLanguage but I am not ready to switch gears again.Have most of my code in Python and love IPython notebook.Cython suffices,Python
+1649,2014-04-05 20:01:45,"The key point is productivity vs. performance: “I use Python much more than I use Fortran because, frankly, I get more done in Python”",Python
+1650,2014-04-05 19:58:58,A damn good post discussing the use of fortran vs Python in data science http://t.co/bGknmrB5KE,Python
+1652,2014-04-05 19:28:47,"@BenJohnson3434 haha, next challenge: pythons sci-stack and IPython (notebook)",Python
+1657,2014-04-05 17:26:12,"@PCacioppi @SciPyTip @astrobiased I would like to mention esp. The IPython notebook, unbeatable for data analysis, use it 90% of the time",Python
+1658,2014-04-05 16:30:51,pycse - Python Computations in Science and Engineering - A pretty thorough crash course for scientists and engineers: http://t.co/xUJBPeAHj6,Python
+1661,2014-04-05 02:39:40,"A little bit geeky, but just awesome: A Python module for 'Drawing in terminal with Unicode Braille characters' https://t.co/TUk7D7YsNJ",Python
+1665,2014-03-05 17:20:14,A simple and nice introduction to Markov chains accompanied by a Python code snippet http://t.co/rPs0CyRh8M,Python
+1669,2014-02-05 19:20:58,A cool snippet for 'Decorating Python File Functions' http://t.co/kqykfigwPV,Python
+1670,2014-02-05 18:55:31,Want to test your Python skills? Here is another nice 'Python Essential Reference Tutorial Quiz' http://t.co/iiwIz5FJid,Python
+1673,2014-02-05 16:10:07,Maybe interesting for the Windows guys :) - Portable Python: runs directly on Windows OS from any USB storage device http://t.co/chb0knvlAv,Python
+1674,2014-02-05 12:31:40,What happens when we hit the speed limit of python http://t.co/1d0nbwizKL via @haridas_n,Python
+1675,2014-01-05 19:43:22,'Data structure bound Python computations are fast.' A comparison test http://t.co/KSiBdp2cLM,Python
+1678,2014-01-05 17:18:35,Using 'Mocking' via the mock module in Python for automated testing: you test what you think are testing. http://t.co/lcKh8x67tp,Python
+1679,2014-01-05 14:52:07,"R, Python, PostgreSQL (and more): A data science workflow example",Python
+1680,2014-01-05 12:50:07,'Numba - allows the selected Python functions to execute at a speed competitive with code generated by C compilers.' http://t.co/v0TBOPE4UR,Python
+1682,2014-01-05 03:48:30,'I am happy to announce that the IPython Notebook now works on the IPhone ' http://t.co/4sTcEZVwu8,Python
+1683,2014-01-05 03:39:36,"Creating a twitter word cloud by 'Playing with REALTIME data, Python and D3' http://t.co/hCz9Mn2JyL",Python
+1684,2014-30-04 23:44:54,"RT @raymondh: #python tip:
+__new__() is a class method that actually creates an object.
+__init__() is regular method that runs AFTER an obj…",Python
+1692,2014-30-04 00:25:06,My little Python's namespaces &amp; scope tutorial: I hope the for-loop in Python 2 vs.3 pitfall saves you from trouble: http://t.co/UvQfE4BTso,Python
+1693,2014-29-04 21:32:03,"'All these years I've been evangelizing strongly statically typed lang., I've been going home at night &amp; using Python http://t.co/TFIMploFJw",Python
+1695,2014-29-04 16:27:35,RT @NotebooksBoom: Benchmarks of common Python operations in this notebook from @rasbt using IPythons too easy %timeit magic… http://t.co/l…,Python
+1698,2014-29-04 12:13:02,so many awesome IPython notebooks being written these days: 'Outlier Detection via Markov Chain Monte Carlo' http://t.co/qrJzr85uCu,Python
+1702,2014-28-04 18:59:08,'Spinne - a python 3.x micro web framework built only by std libraries and doesn't require installing any other lib.' http://t.co/XZIF0NLpKU,Python
+1707,2014-28-04 04:31:57,This blog post nicely summarizes the most useful 'Python Tools for Machine Learning' http://t.co/rEErQalprE,Python
+1716,2014-27-04 15:52:53,"@Lebanese_Kid Python disadv. : high level, so lower performance that other lower level languages… However don’t forget about Cython etc.",Python
+1717,2014-27-04 15:51:39,@Lebanese_Kid Python adv.: high level +‘easy syntax makes it fast to write code. Great community so that a lot of libs are available,Python
+1718,2014-27-04 12:57:00,"Nice stackoverflow discussion about how to start a background process in python
+ http://t.co/c1LMoRTPXN",Python
+1719,2014-27-04 12:43:10,"Yes, 'Python variables can have types as values' http://t.co/TkosD7svv0",Python
+1721,2014-27-04 00:33:33,Just done putting together 'Diving deep into Python - the not-so-obvious language parts' - now with ~50 % new stuff! http://t.co/s2xR8fqVtd,Python
+1730,2014-25-04 22:47:17,Another video bookmarked for the weekend: 'How CPython's Compiler Works' (It's just 20 minutes ;) ) http://t.co/wI1yVc5eFi,Python
+1733,2014-25-04 20:09:27,"'The next generation of Python programmers' - I really enjoyed watching her keynote, here is a summary on LWN http://t.co/Li1lcQI6O9",Python
+1735,2014-25-04 19:33:13,"Important those days if you write apps: A Python port of zxcvbn, which is a JavaScript password strength
+generator https://t.co/mlqhXArxKk",Python
+1740,2014-25-04 18:32:25,@Shahad93alajeel are you about to learn Python? There are great resources that should get you started: http://t.co/2xJxFrC0Fi,Python
+1741,2014-25-04 18:28:08,An Introduction To Applied Bioinformatics using Python libraries (interactive lessons) http://t.co/qgnGr6zH4a,Python
+1742,2014-25-04 18:00:19,RT @berndweiss: for the last year or so i have been using #waf instead of #make what a great tool!  https://t.co/JbjX2obLM7 #python,Python
+1750,2014-25-04 11:19:58,Some little brain teaser in the morning to wake up? 'Try Finally Python Quiz' http://t.co/zXCVbZh9cl,Python
+1765,2014-24-04 20:48:29,RT @vmirly: Experiencing how cool ipython is? Now I feel I should have started using ipython much earlier in my education. http://t.co/o39h…,Python
+1766,2014-24-04 17:41:33,For the upcoming weekend: An O'Reilly Webcast: Managing Large Datasets with Python and HDF5 https://t.co/nRWlaNR2Ya,Python
+1768,2014-24-04 15:54:44,RT @PythonWeekly: A collection of not so obvious Python stuff you should know! by @rasbt  http://t.co/hCbmdg0r4p #python,Python
+1769,2014-24-04 15:27:23,"@samueljohn_de Sure! Don't know what the Python code looks like, their might be also better implementations ... There are so many factors :)",Python
+1770,2014-24-04 15:27:15,".@samueljohn_de btw I started to collect some Python benchmarks as an ongoing project,please feel free to contribute! http://t.co/O7ts3M6xEF",Python
+1771,2014-24-04 15:27:05,"@samueljohn_de E.g, Python 2 vs. 3, comprehesions, generators, compiled code, Cython C extensions, ...",Python
+1780,2014-24-04 00:30:04,"Tech Talk: An Introduction to the Python framework used by NASA, Twilio, and HipChat
+https://t.co/UWLU5mxU8D",Python
+1790,2014-23-04 20:03:28,"@Hyperion_HQ yeah, and nothing can beat IPython notebook - you can document it in one swoop",Python
+1794,2014-23-04 19:17:17,".@Hyperion_HQ Usually, time to write code always takes the most time ... therefore Python :)",Python
+1798,2014-23-04 18:15:25,RT @modernscientist: Excellent tutorial by @damian_avila on converting IPython notebooks for presentations. http://t.co/bq1YFpk8Wb,Python
