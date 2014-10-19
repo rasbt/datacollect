@@ -8,8 +8,8 @@ A simple command line tool to download song lyrics given artist names and song t
 <a id='sections'></a>
 ### Sections
 - [Overview and Examples](#overview)
-	- [Download lyrics directly from the command line](#download_lyrics_directly_from_the_command_line)
-	- [Download a list of lyrics](#download_a_list_of_lyrics)
+	- [Download lyrics directly from the command line](#download-lyrics-directly-from-the-command-line)
+	- [Download a list of lyrics](#download-a-list-of-lyrics)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Changelog](#changelog)
@@ -24,7 +24,7 @@ A simple command line tool to download song lyrics given artist names and song t
 <br>
 <br>
 
-<a id='download_lyrics_directly_from_the_command_line'>
+<a id='download-lyrics-directly-from-the-command-line'>
 ### Download lyrics directly from the command line
 [[back to top](#sections)]
 <pre>
@@ -42,8 +42,8 @@ The answer is blowin' in the wind
 <br>
 <br>
 
-<a id='download_a_list_of_lyrics'>
-### Download a list of lyrics:
+<a id='download-a-list-of-lyrics'>
+### Download a list of lyrics
 [[back to top](#sections)]
 
 Or you can directly read a list of artists and titles from a CSV file. The input CSV file should be formatted as follows:
