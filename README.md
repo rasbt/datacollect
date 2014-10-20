@@ -15,10 +15,19 @@ A [command line tool](./collect_lyrics) to download song lyrics given artist nam
 ![](./collect_lyrics/images/example_out.png)
 
 <br>
-
+<br>
 
 ## [Twitter Timeline](./twitter_timeline)
 
 A [command line tool](./twitter_timeline) that downloads your personal twitter timeline in CSV format with optional keyword filter.
 
 ![](./twitter_timeline/images/python_tweets.png)
+
+<br>
+<br>
+
+## [PDB Info Table](./pdb_infotable)
+
+A [command line tool](./pdb_infotable) that creates an info table from a list of PDB files.
+
+![](./pdb_infotable/images/example.png)

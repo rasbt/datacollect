@@ -110,13 +110,13 @@ if __name__ == "__main__":
 
     parser.add_argument('-o', '--out', help='Filename for creating the output CSV file.')
     parser.add_argument('-m', '--max', help='Maximum number (integer) of timeline tweets query (searches all by default)')
-    parser.add_argument('-k', '--keywords', help='A comma separated list of keywords  for filtering (optional).')
+    parser.add_argument('-k', '--keywords', help='A comma separated list of keywords for filtering (optional).')
     parser.add_argument('-v', '--version', action='version', version='v. 1.0')
     
     args = parser.parse_args()
     
     if not args.out:
-        print('Please a filename for creating the output CSV file.')
+        print('Please provide a filename for creating the output CSV file.')
         quit()
     
     tm = TimelineMiner(auth.ACCESS_TOKEN, 
