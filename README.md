@@ -26,8 +26,18 @@ A [command line tool](./twitter_timeline) that downloads your personal twitter t
 <br>
 <br>
 
+## [Collect Popular Music Tags](./collect_music_tags)
+
+A [command line tool](./collect_music_tags) to download popular tags for a list of songs from [last.fm](http://www.last.fm), e.g., for various data mining projects.
+
+![](./collect_music_tags/images/example.png)
+
+<br>
+<br>
+
 ## [PDB Info Table](./pdb_infotable)
 
 A [command line tool](./pdb_infotable) that creates an info table from a list of PDB files.
 
 ![](./pdb_infotable/images/example.png)
+
