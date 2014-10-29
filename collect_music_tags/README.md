@@ -1,4 +1,4 @@
-# Song Lyrics Collector
+# Music Tag Collector
 
 A simple command line tool to download popular tags for a list of songs from [last.fm](http://www.last.fm), e.g., for various data mining projects.
 
