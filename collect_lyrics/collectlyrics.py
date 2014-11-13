@@ -60,7 +60,7 @@ class Song(object):
             lyricbox = doc.getroot().cssselect('.lyricbox')[0]
         except (IOError, IndexError) as e:
             self.lyric = ''
-            return
+            return self.lyric
         lyrics = []
 
         for node in lyricbox:
