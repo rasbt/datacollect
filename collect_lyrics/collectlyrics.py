@@ -58,7 +58,7 @@ class Song(object):
         try:
             doc = lxml.html.parse(self.url)
             lyricbox = doc.getroot().cssselect('.lyricbox')[0]
-        except IOError:
+        except (IOError, IndexError) as e:
             self.lyric = ''
             return
         lyrics = []
