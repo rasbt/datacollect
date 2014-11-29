@@ -23,7 +23,7 @@ A [command line tool](./twitter_timeline) that downloads your personal twitter t
 
 ![](./twitter_timeline/images/python_tweets.png)
 
-[Tutorial]([./dataviz/twitter_cloud](http://nbviewer.ipython.org/github/rasbt/datacollect/blob/master/dataviz/twitter_cloud/twitter_wordcloud.ipynb)) for turning your twitter timeline into a word cloud.
+[Tutorial](http://nbviewer.ipython.org/github/rasbt/datacollect/blob/master/dataviz/twitter_cloud/twitter_wordcloud.ipynb) for turning your twitter timeline into a word cloud.
 ![](./dataviz/twitter_cloud/my_twitter_wordcloud_2_lowres.jpg)
 
 <br>
