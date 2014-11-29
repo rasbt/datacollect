@@ -86,7 +86,7 @@ class TimelineMiner(object):
         print()
         
     def make_csv(self, path):
-        self.df.to_csv(path)
+        self.df.to_csv(path, encoding='utf8')
 
     def __get_date(self, timeline, tweet):
         timest = datetime.strptime(timeline[tweet]['created_at'],
@@ -111,7 +111,7 @@ if __name__ == "__main__":
     parser.add_argument('-o', '--out', help='Filename for creating the output CSV file.')
     parser.add_argument('-m', '--max', help='Maximum number (integer) of timeline tweets query (searches all by default)')
     parser.add_argument('-k', '--keywords', help='A comma separated list of keywords for filtering (optional).')
-    parser.add_argument('-v', '--version', action='version', version='v. 1.0')
+    parser.add_argument('-v', '--version', action='version', version='v. 1.0.1')
     
     args = parser.parse_args()
     

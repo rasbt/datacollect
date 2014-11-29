@@ -116,4 +116,7 @@ Example:
 ## Changelog
 [[back to top](#sections)]
 
-- v1.0 (10/19/2014)
+#### v1.0.1 (11/28/2014)
+- Unicode encoding when writing the CSV file for Python 2.7 users.
+
+#### v1.0.0 (10/19/2014)
