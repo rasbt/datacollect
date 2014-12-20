@@ -50,6 +50,6 @@ A [command line tool](./pdb_infotable) that creates an info table from a list of
 
 ## [Collect Fantasy Soccer Data](./collect_fantasysoccer)
 
-A [command line tool](./collect_fantasysoccer) to Collect Fantasy Soccer data.
+A [command line tool](./collect_fantasysoccer) to Collect Fantasy Soccer data  from the Premier League.
 ![](./collect_fantasysoccer/images/example_table.png)
 

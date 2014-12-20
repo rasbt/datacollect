@@ -2,7 +2,7 @@
 
 Sebastian Raschka, 2014
 
-A simple command line tool to download fantasy soccer data from [https://www.dreamteamfc.com](https://www.dreamteamfc.com).
+A simple command line tool to download fantasy soccer data from [https://www.dreamteamfc.com](https://www.dreamteamfc.com) (Premier League).
 
 <br>
 
