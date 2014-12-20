@@ -44,3 +44,12 @@ A [command line tool](./pdb_infotable) that creates an info table from a list of
 
 ![](./pdb_infotable/images/example.png)
 
+
+<br>
+<br>
+
+## [Collect Fantasy Soccer Data](./collect_fantasysoccer)
+
+A [command line tool](./collect_fantasysoccer) to Collect Fantasy Soccer data.
+![](./collect_fantasysoccer/images/example_table.png)
+
