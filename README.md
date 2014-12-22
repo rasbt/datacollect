@@ -5,10 +5,20 @@
 
 Often, I write simple scripts and tools to collect data for various "data science" tasks. I thought that it might be worthwhile to collect them in a central repository since they might be useful to others!
 
+#### Contents
+- [Collect Lyrics](./collect_lyrics)
+- [Twitter Timeline](./twitter_timeline)
+- [Collect Popular Music Tags](./collect_music_tags)
+- [PDB Info Table](./pdb_infotable)
+- [Collect Fantasy Soccer Data](./collect_fantasysoccer)
+- [Premier League Soccer Standings](./epl_standings)
+<br>
+<br>
 <br>
 
-
 ## [Collect Lyrics](./collect_lyrics)
+
+[[back to top](#contents)]
 
 A [command line tool](./collect_lyrics) to download song lyrics given artist names and song titles. 
 
@@ -18,6 +28,7 @@ A [command line tool](./collect_lyrics) to download song lyrics given artist nam
 <br>
 
 ## [Twitter Timeline](./twitter_timeline)
+[[back to top](#contents)]
 
 A [command line tool](./twitter_timeline) that downloads your personal twitter timeline in CSV format with optional keyword filter.
 
@@ -30,6 +41,7 @@ A [command line tool](./twitter_timeline) that downloads your personal twitter t
 <br>
 
 ## [Collect Popular Music Tags](./collect_music_tags)
+[[back to top](#contents)]
 
 A [command line tool](./collect_music_tags) to download popular tags for a list of songs from [last.fm](http://www.last.fm), e.g., for various data mining projects.
 
@@ -39,6 +51,7 @@ A [command line tool](./collect_music_tags) to download popular tags for a list 
 <br>
 
 ## [PDB Info Table](./pdb_infotable)
+[[back to top](#contents)]
 
 A [command line tool](./pdb_infotable) that creates an info table from a list of PDB files.
 
@@ -49,7 +62,18 @@ A [command line tool](./pdb_infotable) that creates an info table from a list of
 <br>
 
 ## [Collect Fantasy Soccer Data](./collect_fantasysoccer)
+[[back to top](#contents)]
 
 A [command line tool](./collect_fantasysoccer) to Collect Fantasy Soccer data  from the Premier League.
 ![](./collect_fantasysoccer/images/example_table.png)
 
+
+<br>
+<br>
+
+## [Premier League Soccer Standings](./epl_standings)
+[[back to top](#contents)]
+
+A [command line tool](./epl_standings)  to download the current Premier League Soccer standings from http://www.espnfc.com.
+
+![](./epl_standings/images/example_table.png)
