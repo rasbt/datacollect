@@ -10,8 +10,8 @@ Often, I write simple scripts and tools to collect data for various "data scienc
 - [Twitter Timeline](./twitter_timeline)
 - [Collect Popular Music Tags](./collect_music_tags)
 - [PDB Info Table](./pdb_infotable)
-- [Collect Fantasy Soccer Data](./collect_fantasysoccer)
-- [Premier League Soccer Standings](./epl_standings)
+- [Collect English Premier League Soccer Data](./collect_fantasysoccer)
+
 <br>
 <br>
 <br>
@@ -61,19 +61,11 @@ A [command line tool](./pdb_infotable) that creates an info table from a list of
 <br>
 <br>
 
-## [Collect Fantasy Soccer Data](./collect_fantasysoccer)
+## [Collect English Premier League Soccer Data](./collect_fantasysoccer)
 [[back to top](#contents)]
 
 A [command line tool](./collect_fantasysoccer) to Collect Fantasy Soccer data  from the Premier League.
 ![](./collect_fantasysoccer/images/example_table.png)
 
 
-<br>
-<br>
 
-## [Premier League Soccer Standings](./epl_standings)
-[[back to top](#contents)]
-
-A [command line tool](./epl_standings)  to download the current Premier League Soccer standings from http://www.espnfc.com.
-
-![](./epl_standings/images/example_table.png)
