@@ -1,0 +1,402 @@
+name,position,team,vfm,value,pts,month_pts,week_pts,status,description,returns
+"Pantilimon, Costel",GK,SUN,14.0,2.5,35,16.0,5.0,,,
+"Sanchez, Carlos",MID,AVL,16.5,2.0,33,14.0,5.0,,,
+"Arnautovic, Marko",MID,STO,2.8,2.5,7,4.0,2.0,,,
+"Samaras, Georgios",STR,WBA,0.0,1.5,0,0.0,0.0,Doubtful,Ruled out of 20/12 game against QPR. Returned to training on 18/12 after being granted a week off for personal reasons.,01/01/2015
+"Osman, Leon",MID,EVE,15.2,2.5,38,0.0,0.0,Injured,"Rated a doubt for 20/12 trip to Southampton. Ruled out ""for a while"" by Roberto Martinez on 30/12.",Unknown
+"Cisse, Papiss",STR,NEW,22.0,3.0,66,36.0,8.0,Suspended,Set to serve a three-match ban for violent conduct. Will also depart for international duties with Senegal in January to participate in African Cup of Nations.,Unknown
+"Huddlestone, Tom",MID,HUL,9.6,2.5,24,2.0,0.0,Suspended,Serving a four-match ban. Huddlestone earned a one-match ban after collecting his fifth yellow card of the season during the 13/12 game against Chelsea. He then received an additional three-match ban,04/01/2015
+"Mangala, Eliaquim",DEF,MCY,7.33,4.5,33,24.0,-1.0,,,
+"Coutinho, Philippe",MID,LIV,11.75,4.0,47,21.0,3.0,,,
+"Toure, Yaya",MID,MCY,12.8,7.5,96,35.0,0.0,Doubtful,Missed 28/12 game against Burnley with problem.,01/01/2015
+"Speroni, Julian",GK,CRY,12.67,1.5,19,9.0,5.0,,,
+"Diouf, Mame Biram",STR,STO,34.67,1.5,52,18.0,18.0,,,
+"Knockaert, Anthony",MID,LEI,1.33,1.5,2,0.0,0.0,,,
+"de Jong, Siem",MID,NEW,2.8,2.5,7,0.0,0.0,Injured,Club confirmed on 5/9 he is expected to be out for a number of months.,Unknown
+"di Maria, Angel",MID,MUN,8.17,6.0,49,0.0,0.0,Doubtful,Missed 26/12 game against Newcastle with problem.,01/01/2015
+"Dier, Eric",DEF,TOT,23.0,2.0,46,5.0,0.0,,,
+"Barkley, Ross",MID,EVE,8.5,4.0,34,12.0,0.0,,,
+"Doyle, Kevin",STR,CRY,2.0,1.5,3,0.0,0.0,,,
+"Lukaku, Romelu",STR,EVE,13.78,4.5,62,8.0,0.0,,,
+"Odemwingie, Peter",STR,STO,1.2,2.5,3,0.0,0.0,Injured,"Forced off during 30/8 game against Man City. Ruled out for the ""foreseeable future"" on 1/9.",Unknown
+"Bannan, Barry",MID,CRY,1.0,1.0,1,0.0,0.0,,,
+"Mee, Ben",DEF,BUR,19.0,1.0,19,7.0,1.0,,,
+"Schurrle, Andre",MID,CHE,13.11,4.5,59,23.0,0.0,,,
+"Walters, Jon",STR,STO,20.4,2.5,51,6.0,0.0,,,
+"Diame, Mohamed",MID,HUL,16.4,2.5,41,0.0,0.0,Injured,Forced off during 3/12 clash with Everton due to recurrence of previous injury. Confirmed on 13/12 that Diame had been put in a brace for at least a month.,31/01/2015
+Rafael,DEF,MUN,2.25,4.0,9,4.0,4.0,,,
+"Adebayor, Emmanuel",STR,TOT,8.75,4.0,35,0.0,0.0,,,
+"Ward-Prowse, James",MID,SOT,22.0,1.5,33,16.0,0.0,,,
+"Vargas, Eduardo",STR,QPR,0.0,2.0,0,0.0,0.0,,,
+"Aguero, Sergio",STR,MCY,20.67,7.5,155,18.0,0.0,Injured,Sustained in the encounter with Everton on 6/12 which saw him forced off on 7 minutes. Ruled out for 4-6 weeks by Manuel Pellegrini on 9/12.,18/01/2015
+"Salah, Mohamed",MID,CHE,2.67,3.0,8,3.0,0.0,,,
+"Leiva, Lucas",MID,LIV,12.0,1.5,18,10.0,0.0,,,
+"Weimann, Andreas",STR,AVL,10.0,2.5,25,-1.0,0.0,,,
+"Chambers, Calum",DEF,ARS,19.2,2.5,48,2.0,0.0,,,
+"Richardson, Kieran",DEF,AVL,11.33,1.5,17,5.0,0.0,,,
+"Pienaar, Steven",MID,EVE,2.0,3.0,6,-1.0,0.0,Injured,"Still a couple of weeks away from match fitness, confirmed Roberto Martinez on 30/12.",17/01/2015
+"Rodwell, Jack",MID,SUN,8.0,2.5,20,2.0,0.0,,,
+"Gomez, Jordi",MID,SUN,27.33,1.5,41,13.0,2.0,,,
+"Remy, Loic",STR,CHE,7.5,4.0,30,11.0,0.0,,,
+Oscar,MID,CHE,15.82,5.5,87,12.0,0.0,,,
+"Collins, James",DEF,WHM,6.0,2.5,15,3.0,0.0,,,
+"Szczesny, Wojciech",GK,ARS,8.22,4.5,37,5.0,0.0,,,
+"Alcaraz, Antolin",DEF,EVE,5.0,1.0,5,-3.0,-3.0,,,
+"Onuoha, Nedum",DEF,QPR,-13.0,1.0,-13,-5.0,0.0,,,
+"Noble, Mark",MID,WHM,10.0,2.0,20,0.0,0.0,,,
+"Austin, Charlie",STR,QPR,45.2,2.5,113,41.0,0.0,,,
+"Kebe, Jimmy",MID,CRY,0.0,1.5,0,0.0,0.0,,,
+"Torres, Fernando",STR,CHE,0.0,4.0,0,0.0,0.0,,,
+"Fabianski, Lukasz",GK,SWA,17.6,2.5,44,13.0,-3.0,,,
+"Downing, Stewart",MID,WHM,34.4,2.5,86,36.0,3.0,,,
+"Green, Robert",GK,QPR,22.67,1.5,34,14.0,5.0,,,
+"Bridcutt, Liam",MID,SUN,12.0,1.5,18,13.0,2.0,Injured,Sustained in the 0-0 draw with Aston Villa on 28/12 which saw him forced off on 19 minutes.,10/01/2015
+"Robertson, Andrew",DEF,HUL,20.0,1.0,20,7.0,0.0,Doubtful,Missed the 3-1 win at Sunderland through injury.,01/01/2015
+"Nugent, David",STR,LEI,8.0,1.5,12,6.0,3.0,,,
+"Sessegnon, Stephane",MID,WBA,12.33,3.0,37,6.0,0.0,Doubtful,Subbed off during 28/12 game against Stoke with problem.,01/01/2015
+"Ulloa, Leonardo",STR,LEI,22.5,2.0,45,15.0,0.0,Doubtful,Sustained in the 1-0 win at Hull on 28/12 which saw him forced off on 54 minutes.,01/01/2015
+"Carroll, Andy",STR,WHM,11.14,3.5,39,36.0,2.0,,,
+"Moreno, Alberto",DEF,LIV,4.0,4.0,16,7.0,5.0,,,
+"Skrtel, Martin",DEF,LIV,4.4,5.0,22,25.0,2.0,Suspended,Serving a one-match ban having picked up his fifth booking of the season in the 4-1 win over Swansea on 29/12. He will miss the home encounter with Leicester to return to contention for the FA Cup thi,05/01/2015
+"Markovic, Lazar",MID,LIV,5.67,3.0,17,12.0,0.0,,,
+"Schneiderlin, Morgan",MID,SOT,17.71,3.5,62,2.0,-3.0,Suspended,Serving a one-match ban for the red card received against Chelsea on 28/12. He will miss 1/1 game against Arsenal to return to contention for the FA Cup third round tie with Ipswich on 4/1.,04/01/2015
+"Krkic, Bojan",STR,STO,18.0,2.5,45,27.0,3.0,Doubtful,Sustained in the 1-0 win at Everton on Boxing Day which saw him replaced on 67 minutes. Started against West Brom on 28/12 but was withdrawn on 77 minutes.,01/01/2015
+"Fazio, Federico",DEF,TOT,7.0,4.0,28,16.0,8.0,,,
+"Aluko, Sone",STR,HUL,3.33,1.5,5,7.0,0.0,,,
+"Henry, Karl",MID,QPR,15.0,1.0,15,10.0,5.0,,,
+"El Ahmadi, Karim",MID,AVL,0.0,1.0,0,0.0,0.0,,,
+"Wisdom, Andre",DEF,WBA,18.0,1.5,27,4.0,-1.0,,,
+"Reid, Steven",DEF,BUR,6.0,1.0,6,0.0,0.0,,,
+"Chiriches, Vlad",DEF,TOT,6.57,3.5,23,10.0,5.0,,,
+"Ospina, David",GK,ARS,0.57,3.5,2,0.0,0.0,,,
+"Fletcher, Darren",MID,MUN,2.5,2.0,5,0.0,0.0,,,
+"Larsson, Sebastian",MID,SUN,23.0,2.0,46,16.0,2.0,Doubtful,"Sustained in the 0-0 draw with Aston Villa on 28/12 which saw him forced off on 57 minutes. Post-match, Gus Poyet confirmed some ligament damage but suggested that he would take ""a few days"" to recove",01/01/2015
+"Coleman, Seamus",DEF,EVE,9.11,4.5,41,1.0,1.0,,,
+"Carrick, Michael",MID,MUN,8.67,3.0,26,13.0,2.0,,,
+"Wilshere, Jack",MID,ARS,6.25,4.0,25,0.0,0.0,Injured,Sustained in the encounter with Man United on 22/11 which saw him forced off on 55 minutes. Ruled out for three months on 27/11 after undergoing surgery.,28/02/2015
+"Johnson, Adam",MID,SUN,12.57,3.5,44,18.0,1.0,,,
+"O'Neil, Gary",MID,QPR,0.0,1.5,0,0.0,0.0,,,
+"Blind, Daley",DEF,MUN,4.57,3.5,16,0.0,0.0,Injured,Forced off during Holland's win over Latvia on 16/11. Louis van Gaal confirmed on 20/11 the midfielder could be sidelined for up to six months.,Unknown
+"Coloccini, Fabricio",DEF,NEW,15.2,2.5,38,-7.0,-1.0,,,
+"Lallana, Adam",MID,LIV,11.0,4.0,44,29.0,18.0,,,
+"Ireland, Stephen",MID,STO,4.0,1.0,4,-1.0,0.0,Doubtful,Rated a doubt for 22/12 visit of Chelsea.,01/01/2015
+"O'Shea, John",DEF,SUN,17.6,2.5,44,18.0,8.0,,,
+"Cattermole, Lee",MID,SUN,41.0,1.0,41,6.0,1.0,,,
+"Podolski, Lukas",STR,ARS,6.25,4.0,25,12.0,0.0,,,
+"Enrique, Jose",DEF,LIV,3.14,3.5,11,0.0,0.0,,,
+"Davis, Steven",MID,SOT,22.0,2.0,44,14.0,3.0,,,
+"Arfield, Scott",MID,BUR,24.0,1.0,24,1.0,0.0,,,
+"Chadli, Nacer",MID,TOT,29.6,2.5,74,20.0,2.0,,,
+"Zabaleta, Pablo",DEF,MCY,7.17,6.0,43,35.0,-2.0,,,
+"Johnson, Glen",DEF,LIV,2.67,4.5,12,3.0,0.0,Injured,Sustained in the encounter with Man United on 14/12 which saw him forced off on 24 minutes.,Unknown
+"Reid, Winston",DEF,WHM,10.0,2.5,25,6.0,-2.0,,,
+"Flanagan, Jon",DEF,LIV,0.0,3.0,0,0.0,0.0,Injured,"Sent home from club's summer tour of US with problem. Ruled out ""for a number of months"" on 18/9 after undergoing surgery.",Unknown
+"Tadic, Dusan",MID,SOT,29.2,2.5,73,0.0,3.0,,,
+"Jedinak, Mile",MID,CRY,26.5,2.0,53,10.0,5.0,Unavailable,"Is set to play in Asian Cup for Australia. The tournament starts on January 9, with group stages ending on January 20 and the final taking place on January 31. Jedinak will miss at least GW20-22, then",31/01/2015
+"Sissoko, Moussa",MID,NEW,21.2,2.5,53,8.0,0.0,,,
+"Zaha, Wilfried",MID,CRY,8.5,2.0,17,4.0,2.0,,,
+"Kouyate, Cheikhou",MID,WHM,30.0,1.0,30,19.0,8.0,,,
+"Palacios, Wilson",MID,STO,0.0,1.0,0,0.0,0.0,,,
+"Hart, Joe",GK,MCY,11.17,6.0,67,32.0,-1.0,,,
+"Fabregas, Cesc",MID,CHE,16.73,5.5,92,31.0,2.0,,,
+"Bent, Darren",STR,AVL,0.0,2.0,0,0.0,0.0,Unavailable,Moved to Brighton on one-month loan on 26/11,27/12/2014
+"Ward, Joel",DEF,CRY,7.6,2.5,19,9.0,5.0,,,
+"Tiote, Cheick",MID,NEW,-1.33,1.5,-2,-1.0,0.0,,,
+"Ledley, Joe",MID,CRY,15.33,1.5,23,7.0,2.0,,,
+"Gibson, Darron",MID,EVE,2.67,1.5,4,0.0,0.0,Injured,Withdrew from Republic of Ireland squad on 15/11 due to problem.,10/01/2015
+"Davies, Ben",DEF,TOT,14.0,3.0,42,16.0,8.0,,,
+"Cissokho, Aly",DEF,AVL,31.33,1.5,47,19.0,8.0,,,
+"Adam, Charlie",MID,STO,14.4,2.5,36,5.0,2.0,,,
+"Jagielka, Phil",DEF,EVE,15.56,4.5,70,1.0,0.0,Doubtful,Forced off during 26/12 game against Stoke.,01/01/2015
+"Matic, Nemanja",MID,CHE,22.75,4.0,91,21.0,-1.0,,,
+"Schmeichel, Kasper",GK,LEI,7.0,1.0,7,0.0,0.0,,,
+"Campbell, Fraizer",STR,CRY,10.5,2.0,21,-1.0,0.0,,,
+"Nzonzi, Steven",MID,STO,24.0,2.5,60,29.0,5.0,,,
+"Jenas, Jermaine",MID,QPR,0.0,1.0,0,0.0,0.0,,,
+"Hangeland, Brede",DEF,CRY,8.5,2.0,17,6.0,0.0,,,
+"Lampard, Frank",MID,MCY,20.67,3.0,62,14.0,0.0,,,
+"Yoshida, Maya",DEF,SOT,11.0,2.0,22,11.0,-1.0,,,
+"Livermore, Jake",MID,HUL,9.33,1.5,14,1.0,0.0,,,
+"Pocognoli, Sebastien",DEF,WBA,28.67,1.5,43,8.0,0.0,Doubtful,Missed 28/12 trip to Stoke due to problem.,01/01/2015
+"McGeady, Aiden",MID,EVE,10.4,2.5,26,0.0,0.0,,,
+Fernandinho,MID,MCY,8.22,4.5,37,18.0,5.0,,,
+"Jones, David",MID,BUR,25.0,1.0,25,11.0,3.0,,,
+"Jones, Billy",DEF,SUN,9.0,2.0,18,5.0,8.0,,,
+"Baines, Leighton",DEF,EVE,9.33,6.0,56,-3.0,1.0,,,
+"Kelly, Martin",DEF,CRY,1.5,2.0,3,1.0,0.0,,,
+"Fellaini, Marouane",MID,MUN,7.14,3.5,25,9.0,0.0,Injured,Set to miss remainder of festive fixtures after suffering injury in training.,10/01/2015
+"Welbeck, Danny",STR,ARS,20.29,3.5,71,11.0,8.0,Doubtful,Rated a doubt for 1/1 trip to Southampton.,01/01/2015
+"Begovic, Asmir",GK,STO,7.71,3.5,27,10.0,5.0,,,
+"Upson, Matthew",DEF,LEI,0.0,2.0,0,0.0,0.0,Injured,"Nigel Pearson revealed on 12/8 the defender is set to undergo surgery and will be out ""for a while"".",Unknown
+"Barton, Joey",MID,QPR,19.0,1.0,19,5.0,4.0,,,
+"Garcia, Javi",MID,MCY,0.0,3.0,0,0.0,0.0,,,
+"Milner, James",MID,MCY,21.67,3.0,65,27.0,0.0,,,
+"Gibbs, Kieran",DEF,ARS,10.44,4.5,47,5.0,0.0,,,
+Sandro,MID,QPR,4.0,2.0,8,0.0,0.0,Injured,Sustained in the 1-0 defeat to Newcastle on 22/11. Ruled out until after Christmas on 25/11.,01/01/2015
+"Dann, Scott",DEF,CRY,19.5,2.0,39,21.0,13.0,,,
+"Flores, Chico",DEF,SWA,0.0,3.0,0,0.0,0.0,,,
+"Negredo, Alvaro",STR,MCY,0.0,5.0,0,0.0,0.0,Unavailable,Joined Valencia on season-long loan deal,25/05/2015
+"Oviedo, Bryan",MID,EVE,0.0,2.0,0,0.0,0.0,,,
+"Rooney, Wayne",STR,MUN,8.14,7.0,57,27.0,0.0,,,
+"Ince, Tom",MID,HUL,6.5,2.0,13,0.0,0.0,,,
+"Rodriguez, Jay",STR,SOT,0.0,4.0,0,0.0,0.0,Injured,Sustained in the 4-1 defeat to Man City on 5/4 which saw him stretchered off in the first half. Club confirmed on 7/4 he is expected to be sidelined for around six months.,Unknown
+"Dorrans, Graham",MID,WBA,27.0,1.0,27,1.0,0.0,,,
+"Taylor, Matty",MID,BUR,2.0,1.0,2,0.0,0.0,Injured,Missed 13/9 game against Crystal Palace with problem. Underwent surgery on 16/10 and will be out for foreseeable future.,Unknown
+"Townsend, Andros",MID,TOT,14.4,2.5,36,6.0,1.0,,,
+"Duff, Michael",DEF,BUR,18.0,1.0,18,0.0,0.0,,,
+"Mulumbu, Youssouf",MID,WBA,11.33,1.5,17,4.0,0.0,,,
+"Shelvey, Jonjo",MID,SWA,12.0,3.0,36,8.0,0.0,,,
+"Morgan, Wes",DEF,LEI,14.67,1.5,22,4.0,8.0,,,
+"Sakho, Diafra",STR,WHM,10.67,3.0,32,11.0,0.0,,,
+"Perez, Ayoze",STR,NEW,27.0,2.0,54,30.0,13.0,,,
+"Brady, Robbie",MID,HUL,24.67,1.5,37,4.0,0.0,,,
+"Trippier, Kieran",DEF,BUR,39.0,1.0,39,16.0,2.0,,,
+"Taylor-Fletcher, Gary",STR,LEI,0.0,1.0,0,0.0,0.0,,,
+"Cresswell, Aaron",DEF,WHM,38.67,1.5,58,17.0,2.0,,,
+"van Persie, Robin",STR,MUN,8.86,7.0,62,33.0,0.0,,,
+"Crouch, Peter",STR,STO,14.0,2.5,35,12.0,0.0,,,
+"Nolan, Kevin",MID,WHM,6.33,3.0,19,13.0,0.0,,,
+"Jenkinson, Carl",DEF,WHM,21.33,1.5,32,16.0,0.0,,,
+"Figueroa, Maynor",DEF,HUL,-1.0,2.0,-2,0.0,0.0,,,
+"Wilson, Marc",DEF,STO,9.5,2.0,19,3.0,5.0,,,
+"Clichy, Gael",DEF,MCY,11.78,4.5,53,30.0,0.0,,,
+"Boruc, Artur",GK,SOT,0.0,3.0,0,0.0,0.0,Unavailable,Joined Bournemouth on loan from 19/9 until January.,10/01/2015
+"Coates, Sebastian",DEF,SUN,-1.0,2.0,-2,-1.0,0.0,,,
+"Sung-Yueng, Ki",MID,SWA,46.0,1.5,69,40.0,0.0,,,
+"Rose, Danny",DEF,TOT,10.0,3.0,30,8.0,0.0,,,
+"Ivanovic, Branislav",DEF,CHE,15.17,6.0,91,22.0,0.0,,,
+"Nasri, Samir",MID,MCY,8.73,5.5,48,34.0,0.0,,,
+"McGregor, Allan",GK,HUL,16.67,1.5,25,15.0,0.0,,,
+"Buckley, Will",MID,SUN,16.0,1.5,24,5.0,2.0,,,
+"Hazard, Eden",MID,CHE,23.86,7.0,167,69.0,13.0,,,
+Paulinho,MID,TOT,5.75,4.0,23,2.0,0.0,,,
+Willian,MID,CHE,12.67,4.5,57,10.0,0.0,,,
+"Altidore, Jozy",STR,SUN,2.67,1.5,4,0.0,0.0,,,
+"Jovetic, Stevan",STR,MCY,10.0,4.0,40,8.0,0.0,,,
+"Ramsey, Aaron",MID,ARS,11.8,5.0,59,25.0,0.0,Injured,Withdrawn at half-time during 9/12 game against Galatasaray. Ramsey sat out of the Emirates meeting with Newcastle on 13/12 with Wenger also ruling him out of the trip to Liverpool on 21/12.,11/01/2015
+"Nastasic, Matija",DEF,MCY,0.0,4.0,0,0.0,0.0,Injured,,Unknown
+"Shaw, Luke",DEF,MUN,3.33,4.5,15,5.0,5.0,,,
+"Baird, Chris",DEF,WBA,-3.0,1.0,-3,-3.0,-2.0,,,
+"Ings, Danny",STR,BUR,21.6,2.5,54,12.0,3.0,,,
+"Fernandez, Federico",DEF,SWA,14.8,2.5,37,10.0,-3.0,,,
+"Jelavic, Nikica",STR,HUL,12.67,3.0,38,5.0,0.0,,,
+"Bony, Wilfried",STR,SWA,14.22,4.5,64,19.0,3.0,,,
+"Delaney, Damien",DEF,CRY,11.5,2.0,23,5.0,8.0,,,
+"Barry, Gareth",MID,EVE,10.8,2.5,27,4.0,0.0,,,
+"Hernandez, Pablo",MID,SWA,0.0,2.0,0,0.0,0.0,,,
+"Johnson, Andrew",STR,CRY,0.0,1.0,0,0.0,0.0,,,
+"Sanogo, Yaya",STR,ARS,3.2,2.5,8,3.0,0.0,,,
+"Delph, Fabian",MID,AVL,6.8,2.5,17,2.0,-1.0,Suspended,"Serving a three-match ban for the red card received against Sunderland on 28/12 for serious foul play. He will miss league matches with Crystal Palace and Leicester City, plus the FA Cup tie with Blac",17/01/2015
+"Jones, Phil",DEF,MUN,4.67,4.5,21,15.0,5.0,,,
+"Navas, Jesus",MID,MCY,9.75,4.0,39,10.0,-1.0,,,
+"Mannone, Vito",GK,SUN,3.6,2.5,9,0.0,0.0,,,
+"Zarate, Mauro",STR,WHM,6.0,3.0,18,0.0,0.0,,,
+"Mutch, Jordon",MID,QPR,0.5,2.0,1,0.0,0.0,,,
+"Gerrard, Steven",MID,LIV,11.6,5.0,58,26.0,0.0,,,
+"Heaton, Tom",GK,BUR,39.0,1.0,39,14.0,2.0,,,
+"Caulker, Steven",DEF,QPR,13.0,2.0,26,7.0,5.0,,,
+"Boyd, George",STR,BUR,31.0,1.0,31,18.0,5.0,,,
+"Yanga-Mbiwa, Mapou",DEF,NEW,0.0,1.5,0,0.0,0.0,Unavailable,Joined Roma on season-long loan deal.,25/05/2015
+"Cabella, Remy",MID,NEW,9.2,2.5,23,0.0,0.0,,,
+"Taylor, Steven",DEF,NEW,13.5,2.0,27,0.0,0.0,,,
+"Cazorla, Santi",MID,ARS,16.4,5.0,82,33.0,8.0,,,
+"Mertesacker, Per",DEF,ARS,7.09,5.5,39,11.0,0.0,,,
+"Routledge, Wayne",MID,SWA,18.8,2.5,47,16.0,0.0,,,
+"Davies, Curtis",DEF,HUL,5.6,2.5,14,-1.0,0.0,,,
+"Gouffran, Yoan",MID,NEW,2.8,2.5,7,-2.0,-1.0,,,
+"Brown, Wes",DEF,SUN,14.0,2.5,35,20.0,7.0,,,
+"Foster, Ben",GK,WBA,10.8,2.5,27,7.0,-1.0,,,
+"Snodgrass, Robert",MID,HUL,0.67,3.0,2,0.0,0.0,Injured,Withdrawn on 40 minutes in the clash with QPR on 16/8.  Steve Bruce revealed on 20/8 Snodgrass could be out for up to six months with a dislocated kneecap.,Unknown
+"McArthur, James",MID,CRY,13.5,2.0,27,15.0,2.0,,,
+"Colback, Jack",MID,NEW,27.33,1.5,41,10.0,8.0,,,
+"Vokes, Sam",STR,BUR,0.0,1.0,0,0.0,0.0,,,
+"Vardy, Jamie",STR,LEI,20.0,1.0,20,0.0,0.0,,,
+"Ameobi, Sammy",STR,NEW,15.0,1.0,15,0.0,0.0,,,
+"Sakho, Mamadou",DEF,LIV,1.78,4.5,8,4.0,0.0,,,
+"Costa, Diego",STR,CHE,15.85,6.5,103,11.0,0.0,,,
+"Shackell, Jason",DEF,BUR,16.0,1.5,24,8.0,2.0,,,
+"Britton, Leon",MID,SWA,2.67,1.5,4,4.0,0.0,,,
+"Fletcher, Steven",STR,SUN,21.0,2.0,42,5.0,0.0,,,
+"Hill, Clint",DEF,QPR,5.33,1.5,8,3.0,4.0,,,
+"Balotelli, Mario",STR,LIV,4.0,5.0,20,2.0,0.0,,,
+"Giaccherini, Emanuele",MID,SUN,2.8,2.5,7,1.0,1.0,,,
+"Lennon, Aaron",MID,TOT,4.67,3.0,14,2.0,0.0,,,
+"Arteta, Mikel",MID,ARS,6.29,3.5,22,0.0,0.0,Injured,"Withdrawn during 26/11 game against Borussia Dortmund with problem. Post-match, Arsene Wenger admitted the injury ""looked quite serious"".",28/12/2014
+"Kompany, Vincent",DEF,MCY,9.85,6.5,64,5.0,0.0,Doubtful,Sustained in the encounter with Leicester on 13/12 which saw him forced off on 75 minutes. Manuel Pellegrini stated on 26/12 that he may be fit to return against Burnley on 28/12.,01/01/2015
+"Amalfitano, Morgan",MID,WHM,11.5,2.0,23,5.0,0.0,,,
+"Chamakh, Marouane",STR,CRY,2.67,1.5,4,-1.0,0.0,Injured,Sustained in the encounter with Stoke on 13/12 which saw him forced off on 75 minutes.,26/12/2014
+"Luis, Felipe",DEF,CHE,7.0,5.0,35,20.0,0.0,,,
+"Sanchez, Alexis",STR,ARS,25.33,6.0,152,28.0,-1.0,,,
+"Besic, Muhamed",MID,EVE,7.0,3.0,21,10.0,0.0,,,
+"Debuchy, Mathieu",DEF,ARS,6.0,4.5,27,13.0,2.0,,,
+"Dunne, Richard",DEF,QPR,12.0,1.5,18,13.0,5.0,,,
+"Krul, Tim",GK,NEW,12.0,3.0,36,0.0,0.0,Injured,"Picked up problem in training ahead of 29/11 game against West Ham. Ruled out ""for the next four or five games"" by Alan Pardew on 29/11.",26/12/2014
+Nani,MID,MUN,0.0,3.0,0,0.0,0.0,Unavailable,Joined Sporting Lisbon on season-long loan deal,25/05/2015
+"Dyer, Nathan",MID,SWA,29.2,2.5,73,12.0,0.0,,,
+"Fer, Leroy",MID,QPR,11.6,2.5,29,10.0,2.0,,,
+Ramires,MID,CHE,6.75,4.0,27,7.0,0.0,,,
+"Hoilett, Junior",MID,QPR,7.33,1.5,11,4.0,2.0,,,
+"Caballero, Willy",GK,MCY,0.86,3.5,3,0.0,0.0,,,
+"Lovren, Dejan",DEF,LIV,2.25,4.0,9,-3.0,0.0,Doubtful,Forced off during 17/12 cup clash with Bournemouth.,29/12/2014
+"Valencia, Antonio",MID,MUN,4.57,3.5,16,7.0,2.0,Doubtful,Forced off during 28/12 game against Spurs with problem.,01/01/2015
+"Alderweireld, Toby",DEF,SOT,20.4,2.5,51,21.0,3.0,,,
+"Cork, Jack",MID,SOT,32.0,1.5,48,0.0,0.0,Injured,Forced off early during 3/12 game against Arsenal.,17/01/2015
+"Vergini, Santiago",DEF,SUN,18.0,1.5,27,11.0,5.0,,,
+"Drogba, Didier",STR,CHE,12.5,4.0,50,19.0,0.0,,,
+"Demichelis, Martin",DEF,MCY,16.0,4.0,64,31.0,-1.0,,,
+"Albrighton, Marc",MID,LEI,-1.33,1.5,-2,0.0,0.0,,,
+"Guzan, Brad",GK,AVL,28.5,2.0,57,21.0,8.0,,,
+"Wallace, Ross",MID,BUR,10.0,1.0,10,0.0,0.0,,,
+"Monreal, Nacho",DEF,ARS,8.0,4.0,32,7.0,0.0,,,
+"Sagna, Bacary",DEF,MCY,4.67,4.5,21,11.0,0.0,,,
+"Zamora, Bobby",STR,QPR,12.67,1.5,19,11.0,3.0,,,
+"Gardos, Florin",DEF,SOT,8.5,2.0,17,-3.0,0.0,,,
+"Flamini, Mathieu",MID,ARS,15.33,1.5,23,6.0,0.0,,,
+"Ozil, Mesut",MID,ARS,2.55,5.5,14,0.0,0.0,Injured,Reports on 8/10 suggest he could be sidelined for 10-12 weeks.,Unknown
+"King, Andy",MID,LEI,2.67,1.5,4,2.0,0.0,,,
+"Lloris, Hugo",GK,TOT,22.67,4.5,102,28.0,13.0,,,
+"Dzeko, Edin",STR,MCY,7.27,5.5,40,-1.0,0.0,Injured,Sustained a recurrence of his previous calf injury in the warm-up to the encounter with Leicester on 13/12.,18/01/2015
+"Montero, Jefferson",MID,SWA,17.2,2.5,43,10.0,0.0,Injured,Forced off early during 26/12 game against Aston Villa. Garry Monk confirmed post-match that the player would undergo scans to assess the extent of the injury. Ruled out for a month on 29/12.,31/01/2015
+"Schlupp, Jeff",DEF,LEI,15.33,1.5,23,1.0,5.0,,,
+"Berahino, Saido",STR,WBA,34.5,2.0,69,0.0,0.0,,,
+"Vertonghen, Jan",DEF,TOT,11.8,5.0,59,23.0,5.0,,,
+"Ferdinand, Rio",DEF,QPR,0.0,2.0,0,-2.0,0.0,,,
+"Murray, Glenn",STR,CRY,2.0,1.0,2,0.0,0.0,Unavailable,Joined Reading on loan until January,10/01/2015
+"Huth, Robert",DEF,STO,2.4,2.5,6,-1.0,0.0,,,
+"Sturridge, Daniel",STR,LIV,2.17,6.0,13,0.0,0.0,Injured,Set for scans after sustaining problem during training on 18/11. Club confirmed the following day he is set for another period on the sidelines.,Unknown
+"Cole, Joe",MID,AVL,10.0,1.0,10,2.0,0.0,,,
+"Henderson, Jordan",MID,LIV,14.86,3.5,52,21.0,3.0,,,
+"Pelle, Graziano",STR,SOT,41.5,2.0,83,14.0,-1.0,,,
+"Sigurdsson, Gylfi",MID,SWA,28.67,3.0,86,28.0,5.0,,,
+"Vaz Te, Ricardo",STR,WHM,2.0,1.5,3,0.0,0.0,,,
+"Mirallas, Kevin",MID,EVE,15.5,4.0,62,16.0,5.0,,,
+Adrian,GK,WHM,15.5,2.0,31,12.0,2.0,,,
+"Herrera, Ander",MID,MUN,7.25,4.0,29,7.0,0.0,Doubtful,"Missed the 1-1 draw with Aston Villa on 20/12 with a ""little"" injury. Confirmed on 28/12 that he could be in line to push for a recall prior to the New Year.",01/01/2015
+"Cahill, Gary",DEF,CHE,14.33,6.0,86,24.0,3.0,,,
+"Falcao, Radamel",STR,MUN,2.77,6.5,18,10.0,-1.0,,,
+"Azpilicueta, Cesar",DEF,CHE,10.55,5.5,58,22.0,0.0,,,
+"Wickham, Connor",STR,SUN,9.5,2.0,19,6.0,3.0,,,
+"Olsson, Jonas",DEF,WBA,1.0,2.0,2,0.0,0.0,Injured,Expected to return in mid January after undergoing surgery.,10/01/2015
+"Chester, James",DEF,HUL,16.67,1.5,25,7.0,0.0,,,
+"Silva, David",MID,MCY,14.83,6.0,89,44.0,4.0,,,
+"Meyler, David",MID,HUL,10.0,1.5,15,8.0,0.0,,,
+"Allen, Joe",MID,LIV,2.8,2.5,7,-1.0,0.0,Injured,Ruled out of 26/12 game against Burnley.,28/12/2014
+"Eto'o, Samuel",STR,EVE,12.86,3.5,45,0.0,0.0,,,
+"Hernandez, Javier",STR,MUN,0.0,3.0,0,0.0,0.0,Unavailable,Joined Real Madrid in season-long loan deal.,25/05/2015
+"Kightly, Michael",MID,BUR,12.0,1.0,12,0.0,0.0,,,
+"Dawson, Michael",DEF,HUL,3.0,3.0,9,6.0,0.0,Injured,Sustained in the encounter with Chelsea on 13/12 which saw him forced off on ten minutes.,17/01/2015
+"Bolasie, Yannick",MID,CRY,23.2,2.5,58,25.0,2.0,,,
+"Kagawa, Shinji",MID,MUN,0.0,3.5,0,0.0,0.0,,,
+"Bertrand, Ryan",DEF,SOT,40.5,2.0,81,21.0,0.0,,,
+"Mariappa, Adrian",DEF,CRY,10.0,1.0,10,3.0,5.0,,,
+"Riviere, Emmanuel",STR,NEW,8.4,2.5,21,3.0,3.0,,,
+"Okore, Jores",DEF,AVL,23.33,1.5,35,31.0,5.0,,,
+"Manquillo, Javier",DEF,LIV,1.33,3.0,4,0.0,0.0,,,
+"Kranjcar, Niko",MID,QPR,11.33,1.5,17,1.0,0.0,,,
+"N'Zogbia, Charles",MID,AVL,8.5,2.0,17,1.0,2.0,,,
+"Rangel, Angel",DEF,SWA,8.0,2.5,20,4.0,-3.0,,,
+"Benteke, Christian",STR,AVL,5.33,4.5,24,24.0,0.0,,,
+"Soldado, Roberto",STR,TOT,5.14,3.5,18,5.0,0.0,,,
+"Vlaar, Ron",DEF,AVL,15.33,3.0,46,15.0,12.0,,,
+"Senderos, Philippe",DEF,AVL,18.0,1.5,27,0.0,0.0,Injured,Picked up problem during training for Swiss national side on 11/11 and will miss the upcoming clash with Lithuania and Poland.,Unknown
+"McCarthy, James",MID,EVE,17.0,3.0,51,-1.0,-1.0,Doubtful,Withdrawn during 28/12 defeat at Newcastle due to problem.,01/01/2015
+"Agbonlahor, Gabriel",STR,AVL,13.2,2.5,33,1.0,0.0,,,
+"Jarvis, Matt",MID,WHM,1.6,2.5,4,0.0,0.0,,,
+"Distin, Sylvain",DEF,EVE,3.14,3.5,11,-1.0,-2.0,,,
+"Shawcross, Ryan",DEF,STO,15.43,3.5,54,22.0,8.0,,,
+"Puncheon, Jason",MID,CRY,11.33,3.0,34,8.0,4.0,,,
+"Isla, Mauricio",DEF,QPR,4.5,2.0,9,10.0,5.0,,,
+"Konchesky, Paul",DEF,LEI,1.0,1.0,1,-3.0,2.0,,,
+"Can, Emre",MID,LIV,8.0,2.0,16,2.0,0.0,,,
+"Fonte, Jose",DEF,SOT,19.67,3.0,59,4.0,0.0,,,
+"Kone, Arouna",STR,EVE,5.0,2.0,10,10.0,8.0,,,
+"O'Brien, Joey",DEF,WHM,0.5,2.0,1,2.0,2.0,,,
+"Hernandez, Abel",STR,HUL,9.33,3.0,28,0.0,0.0,,,
+"Drinkwater, Daniel",MID,LEI,6.67,1.5,10,2.0,2.0,,,
+"James, Matthew",MID,LEI,12.0,1.0,12,2.0,2.0,,,
+"Rosenior, Liam",DEF,HUL,0.5,2.0,1,5.0,0.0,,,
+"Koscielny, Laurent",DEF,ARS,8.17,6.0,49,16.0,8.0,,,
+"Bardsley, Phil",DEF,STO,1.5,2.0,3,-5.0,0.0,Doubtful,Missed the 1-0 win over Everton.,01/01/2015
+"Rojo, Marcos",DEF,MUN,4.5,4.0,18,3.0,0.0,Injured,Missed the encounter with Liverpool on 14/12 with an injury sustained in training.,26/12/2014
+"Williamson, Mike",DEF,NEW,4.5,2.0,9,-8.0,-1.0,,,
+"Walcott, Theo",MID,ARS,0.4,5.0,2,0.0,0.0,,,
+"Gayle, Dwight",STR,CRY,19.6,2.5,49,0.0,0.0,,,
+"Amat, Jordi",DEF,SWA,15.0,1.0,15,0.0,0.0,,,
+"Stones, John",DEF,EVE,5.2,2.5,13,0.0,0.0,Doubtful,Sustained in the 1-0 defeat to Stoke on 26/12.,01/01/2015
+"Ben Arfa, Hatem",MID,HUL,4.5,2.0,9,0.0,0.0,,,
+"Westwood, Ashley",MID,AVL,25.33,1.5,38,5.0,0.0,Injured,Stretchered off in the encounter with Leicester City on 7/12.,10/01/2015
+"Cleverley, Tom",MID,AVL,7.5,2.0,15,6.0,5.0,Doubtful,Sustained in the 0-0 draw with Sunderland on 28/12.,01/01/2015
+"Bruce, Alex",DEF,HUL,23.0,1.0,23,1.0,3.0,,,
+"Wanyama, Victor",MID,SOT,21.33,3.0,64,4.0,3.0,,,
+"Simpson, Danny",DEF,LEI,0.67,1.5,1,4.0,7.0,,,
+"Mane, Sadio",MID,SOT,24.5,2.0,49,18.0,8.0,,,
+"Naismith, Steven",STR,EVE,23.6,2.5,59,7.0,0.0,,,
+"Song, Alex",MID,WHM,13.2,2.5,33,11.0,0.0,,,
+"Borini, Fabio",STR,LIV,-1.0,3.0,-3,-3.0,0.0,,,
+"Terry, John",DEF,CHE,17.08,6.5,111,38.0,0.0,,,
+"Dembele, Mousa",MID,TOT,11.6,2.5,29,7.0,2.0,,,
+"Cambiasso, Esteban",MID,LEI,27.33,1.5,41,10.0,2.0,,,
+"Cameron, Geoff",DEF,STO,9.2,2.5,23,15.0,8.0,,,
+"Tomkins, James",DEF,WHM,11.5,2.0,23,10.0,-2.0,Suspended,Serving a one-match ban after picking up his fifth booking of the season in the 2-1 defeat to Arsenal on 28/12. He will miss the encounter with West Brom on 1/1 to return to contention on 6/1 for the,06/01/2015
+"Courtois, Thibaut",GK,CHE,13.45,5.5,74,17.0,0.0,,,
+"Morrison, James",MID,WBA,11.6,2.5,29,7.0,0.0,Doubtful,Subbed off during 28/12 game against Stoke with problem.,01/01/2015
+"Stambouli, Benjamin",MID,TOT,11.6,2.5,29,5.0,1.0,,,
+"Sagbo, Yannick",STR,HUL,0.0,1.0,0,0.0,0.0,,,
+"Howard, Tim",GK,EVE,7.75,4.0,31,1.0,0.0,Injured,"Unlikely to face Newcastle on 28/12, according to Roberto Martinez. Ruled out for 5-6 weeks on 30/12.",14/02/2015
+"Taylor, Neil",DEF,SWA,15.0,2.0,30,8.0,-3.0,,,
+"Sidwell, Steve",MID,STO,5.33,1.5,8,0.0,0.0,Injured,Sustained in the 1-0 defeat at Liverpool on 29/11 which saw him forced off on 22 minutes.,01/01/2015
+"Sterling, Raheem",MID,LIV,25.33,4.5,114,44.0,3.0,,,
+"Vermaelen, Thomas",DEF,ARS,0.0,4.0,0,0.0,0.0,,,
+"de Gea, David",GK,MUN,15.33,4.5,69,30.0,8.0,,,
+"Giroud, Olivier",STR,ARS,7.45,5.5,41,21.0,0.0,Suspended,"Serving a three-match ban for the red card received against QPR on 26/12 for violent conduct. He will miss league matches with West Ham and Southampton, plus the FA Cup third round tie with Hull City",11/01/2015
+"Kaboul, Younes",DEF,TOT,1.0,4.0,4,3.0,0.0,,,
+"Oxlade-Chamberlain, Alex",MID,ARS,16.57,3.5,58,12.0,3.0,,,
+"Ramirez, Gaston",MID,HUL,5.5,2.0,11,8.0,0.0,Doubtful,Sustained in the 1-0 defeat to Leicester which saw him withdrawn at half-time.,01/01/2015
+"Clyne, Nathaniel",DEF,SOT,31.33,3.0,94,12.0,0.0,Doubtful,Missed 28/12 game against Chelsea with problem. Ronald Koeman confirmed the injury post-match and indicated that he would face up to 10 days on the sidelines as a result.,01/01/2015
+"Gardner, Craig",MID,WBA,16.0,2.0,32,11.0,0.0,,,
+"Agger, Daniel",DEF,LIV,0.0,4.5,0,0.0,0.0,,,
+"Canas, Jose",MID,SWA,0.0,1.0,0,0.0,0.0,,,
+"Campbell, Joel",STR,ARS,1.0,3.0,3,3.0,0.0,,,
+"van Ginkel, Marco",MID,CHE,0.0,2.0,0,0.0,0.0,Unavailable,Joined AC Milan on season-long loan,25/05/2015
+"Gamboa, Cristian",DEF,WBA,1.0,2.0,2,-4.0,0.0,,,
+"Walker, Kyle",DEF,TOT,0.25,4.0,1,1.0,0.0,,,
+"Smalling, Chris",DEF,MUN,5.14,3.5,18,8.0,5.0,,,
+"Long, Shane",STR,SOT,9.14,3.5,32,3.0,0.0,,,
+"Williams, Ashley",DEF,SWA,23.0,3.0,69,15.0,-3.0,,,
+"Young, Ashley",MID,MUN,8.8,2.5,22,20.0,4.0,,,
+"McAuley, Gareth",DEF,WBA,6.4,2.5,16,10.0,-1.0,,,
+"Kolarov, Aleksandar",DEF,MCY,6.5,4.0,26,8.0,-1.0,,,
+"de Laet, Ritchie",DEF,LEI,4.0,1.5,6,6.0,5.0,,,
+Fernando,MID,MCY,9.33,3.0,28,16.0,-1.0,Suspended,Serving a one-match ban after picking up his fifth yellow card of the season in the 2-2 draw with Burnley on 28/12. He will miss the home encounter with Sunderland on 1/1 to return to contention for t,04/01/2015
+"Mignolet, Simon",GK,LIV,7.56,4.5,34,10.0,0.0,,,
+"Assaidi, Oussama",MID,STO,4.5,2.0,9,2.0,0.0,,,
+"Vorm, Michel",GK,TOT,5.33,3.0,16,11.0,0.0,,,
+"Santon, Davide",DEF,NEW,0.0,2.5,0,0.0,0.0,Injured,Stepped up recovery from long-term injury with 60-minute appearance for reserves on 30/12.,Unknown
+"van Aanholt, Patrick",DEF,SUN,-2.0,1.5,-3,0.0,0.0,,,
+"Anichebe, Victor",STR,WBA,6.5,2.0,13,0.0,0.0,Doubtful,Replaced during 6/12 game against Hull due to problem.,01/01/2015
+"Eriksen, Christian",MID,TOT,20.67,4.5,93,27.0,2.0,,,
+"Traore, Armand",DEF,QPR,-5.0,1.0,-5,-1.0,0.0,,,
+"Kozak, Libor",STR,AVL,0.0,1.5,0,0.0,0.0,Injured,Ruled out for rest of the season by club on 2/1. Reported in March that he should return to contention for Villa's pre-season in July.,Unknown
+"Brunt, Chris",MID,WBA,13.33,1.5,20,-2.0,-1.0,,,
+"Forster, Fraser",GK,SOT,22.67,3.0,68,18.0,0.0,,,
+"Luna, Antonio",DEF,AVL,0.0,1.5,0,0.0,0.0,Unavailable,Joined Verona on season-long loan deal.,25/05/2015
+"Janmaat, Daryl",DEF,NEW,18.4,2.5,46,-1.0,2.0,,,
+"Lescott, Joleon",DEF,WBA,21.5,2.0,43,15.0,-1.0,,,
+"Sordell, Marvin",STR,BUR,-2.0,1.0,-2,0.0,0.0,,,
+"Kane, Harry",STR,TOT,93.33,1.5,140,45.0,0.0,,,
+"Pieters, Erik",DEF,STO,5.33,3.0,16,11.0,8.0,,,
+"Evans, Jonny",DEF,MUN,3.75,4.0,15,12.0,5.0,,,
+"Gomis, Bafetimbi",STR,SWA,12.0,2.0,24,0.0,0.0,,,
+"Valencia, Enner",STR,WHM,10.0,3.0,30,3.0,3.0,,,
+"Demel, Guy",DEF,WHM,0.0,2.0,0,-1.0,-1.0,,,
+"Ideye, Brown",STR,WBA,7.6,2.5,19,5.0,0.0,,,
+"Alvarez, Ricky",MID,SUN,1.6,2.5,4,2.0,0.0,,,
+"Clark, Ciaran",DEF,AVL,13.0,2.0,26,22.0,8.0,Doubtful,Subbed off during 28/12 game against Sunderland.,11/01/2015
+"Marney, Dean",MID,BUR,26.0,1.0,26,8.0,3.0,,,
+"Januzaj, Adnan",MID,MUN,1.71,3.5,6,0.0,0.0,Injured,Set to miss 28/12 trip to Spurs with virus.,01/01/2015
+"Cech, Petr",GK,CHE,4.36,5.5,24,8.0,0.0,,,
+"Lamela, Erik",MID,TOT,27.67,3.0,83,20.0,2.0,,,
+"Lowton, Matt",DEF,AVL,8.0,1.0,8,0.0,0.0,,,
+"Rosicky, Tomas",MID,ARS,8.0,2.0,16,8.0,0.0,,,
+"Lambert, Rickie",STR,LIV,7.71,3.5,27,3.0,0.0,,,
+"Mata, Juan",MID,MUN,13.45,5.5,74,31.0,5.0,,,
