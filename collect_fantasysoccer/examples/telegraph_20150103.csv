@@ -1,0 +1,549 @@
+name,team,salary,pts/salary,week_pts,total_pts,6week_pts
+"Caulker, S",Queens Park Rangers,2.9,14.5,2.0,42.0,23
+"Amat, J",Swansea City,2.3,6.5,0.0,15.0,0
+"Arfield, S",Burnley,2.9,13.8,2.0,40.0,14
+"Remy, L",Chelsea,5.4,4.1,0.0,22.0,9
+"Cazorla, S",Arsenal,5.2,13.8,2.0,72.0,44
+"Taylor, N",Swansea City,2.4,25.0,2.0,60.0,23
+"Mee, B",Burnley,2.3,12.6,-1.0,29.0,10
+"Figueroa, M",Hull City,2.7,0.0,0.0,0.0,0
+"Dzeko, E",Manchester City,6.2,4.8,0.0,30.0,1
+"Lambert, R",Liverpool,5.8,5.5,1.0,32.0,19
+"Gilks, M",Burnley,1.7,0.0,0.0,0.0,0
+"Blanco, S",West Bromwich Albion,2.8,0.7,0.0,2.0,0
+"Matic, N",Chelsea,4.3,10.7,2.0,46.0,16
+"Emnes, M",Swansea City,3.7,2.2,1.0,8.0,3
+"Cork, J",Southampton,3.0,11.7,0.0,35.0,3
+"Bigirimana, G",Newcastle United,2.7,0.0,0.0,0.0,0
+"Isgrove, L",Southampton,2.5,0.4,0.0,1.0,0
+"Hunt, J",Crystal Palace,2.3,0.0,0.0,0.0,0
+"Chiriches, V",Tottenham Hotspur,3.4,3.5,0.0,12.0,9
+"Poyet, D",West Ham United,2.7,1.1,0.0,3.0,0
+"Fer, L",Queens Park Rangers,3.0,19.0,7.0,57.0,30
+"Flanagan, J",Liverpool,3.2,0.0,0.0,0.0,0
+"van Persie, R",Manchester United,7.2,11.5,2.0,83.0,48
+"Pantilimon, C",Sunderland,2.7,12.6,0.0,34.0,31
+"Ferreyra, F",Newcastle United,4.5,0.0,0.0,0.0,0
+"Olsson, J",West Bromwich Albion,2.7,2.6,0.0,7.0,0
+"Doyle, K",Crystal Palace,3.7,0.8,0.0,3.0,0
+"Gardner, G",Aston Villa,2.6,0.0,0.0,0.0,0
+"Richardson, K",Aston Villa,2.6,13.5,0.0,35.0,9
+"Carroll, T",Swansea City,2.5,4.8,0.0,12.0,6
+"Azpilicueta, C",Chelsea,4.3,14.4,-2.0,62.0,33
+"McGregor, A",Hull City,2.7,15.6,6.0,42.0,27
+"Milner, J",Manchester City,3.7,12.2,1.0,45.0,24
+"Eriksen, C",Tottenham Hotspur,4.2,19.3,5.0,81.0,45
+"Lampard, F",Manchester City,4.0,11.2,6.0,45.0,25
+"Jakupovic, E",Hull City,1.7,5.3,0.0,9.0,0
+"Soldado, R",Tottenham Hotspur,5.2,4.4,0.0,23.0,16
+"Vokes, S",Burnley,3.7,0.3,0.0,1.0,1
+"Bacuna, L",Aston Villa,2.7,3.0,2.0,8.0,5
+"Barkley, R",Everton,3.8,8.7,2.0,33.0,20
+"Moore, L",Leicester City,2.0,6.0,0.0,12.0,1
+"Nzonzi, S",Stoke City,3.5,14.3,2.0,50.0,26
+"Coloccini, F",Newcastle United,3.0,11.3,0.0,34.0,3
+"Hutton, A",Aston Villa,2.2,22.3,6.0,49.0,30
+"Wasilewski, M",Leicester City,2.2,8.2,0.0,18.0,16
+"Kaboul, Y",Tottenham Hotspur,2.7,8.9,0.0,24.0,0
+"Cabella, R",Newcastle United,3.4,10.3,0.0,35.0,10
+"Taylor, R",Newcastle United,2.8,1.1,0.0,3.0,2
+"Morrison, J",West Bromwich Albion,3.5,11.4,2.0,40.0,16
+"Clark, C",Aston Villa,2.8,11.4,2.0,32.0,29
+"Ledley, J",Crystal Palace,3.2,11.6,2.0,37.0,21
+"Mutch, J",Queens Park Rangers,3.0,6.0,0.0,18.0,7
+"Long, K",Burnley,2.2,0.5,1.0,1.0,1
+"Duff, M",Burnley,2.4,10.8,0.0,26.0,2
+"Shawcross, R",Stoke City,3.1,18.4,7.0,57.0,26
+"McCarthy, J",Everton,3.7,7.6,0.0,28.0,4
+"Jones, P",Manchester United,3.7,6.8,2.0,25.0,15
+"Sagna, B",Manchester City,4.2,3.8,0.0,16.0,8
+"McShane, P",Hull City,2.2,4.5,0.0,10.0,0
+"Dawson, C",West Bromwich Albion,2.4,17.5,0.0,42.0,9
+Adrian,West Ham United,2.6,17.7,2.0,46.0,23
+"Atsu, C",Everton,2.9,1.4,0.0,4.0,1
+"Januzaj, A",Manchester United,3.9,3.8,1.0,15.0,2
+"Cisse, P",Newcastle United,4.8,13.8,0.0,66.0,36
+"McGeady, A",Everton,3.6,10.0,0.0,36.0,12
+"Abeid, M",Newcastle United,2.9,0.7,0.0,2.0,2
+"Valencia, E",West Ham United,4.7,11.5,1.0,54.0,9
+"Shackell, J",Burnley,2.6,16.9,2.0,44.0,19
+"Ireland, S",Stoke City,2.9,2.4,0.0,7.0,1
+"Jelavic, N",Hull City,5.0,12.0,7.0,60.0,28
+"King, A",Leicester City,2.9,6.9,0.0,20.0,6
+"O'Neill, L",Burnley,2.0,0.0,0.0,0.0,0
+"Sakho, D",West Ham United,3.8,18.7,7.0,71.0,23
+"Coleman, S",Everton,4.1,11.7,1.0,48.0,14
+"Sterling, R",Liverpool,4.8,16.0,2.0,77.0,26
+"Kettings, C",Crystal Palace,1.6,0.0,0.0,0.0,0
+"Distin, S",Everton,3.3,3.9,0.0,13.0,9
+"Moncur, G",West Ham United,2.5,0.0,0.0,0.0,0
+"Wilson, J",Manchester United,3.0,3.0,0.0,9.0,6
+"Walters, J",Stoke City,4.7,10.9,2.0,51.0,26
+"Palacios, W",Stoke City,2.7,0.0,0.0,0.0,0
+"Assou-Ekotto, B",Tottenham Hotspur,2.4,0.0,0.0,0.0,0
+"Dyer, N",Swansea City,3.4,14.7,2.0,50.0,18
+"Garvan, O",Crystal Palace,2.8,0.0,0.0,0.0,0
+"Osman, L",Everton,3.5,8.6,0.0,30.0,11
+"Anita, V",Newcastle United,2.8,4.6,0.0,13.0,2
+"Cameron, G",Stoke City,3.0,9.0,2.0,27.0,21
+"Silva, D",Manchester City,5.6,12.0,2.0,67.0,32
+"Dier, E",Tottenham Hotspur,3.3,11.8,0.0,39.0,10
+"Dorrans, G",West Bromwich Albion,2.9,15.9,2.0,46.0,16
+"Hesketh, J",Southampton,2.6,0.0,0.0,0.0,0
+"Ward-Prowse, J",Southampton,3.0,11.7,5.0,35.0,20
+"Sagbo, Y",Hull City,3.6,0.6,0.0,2.0,2
+"Ulloa, L",Leicester City,3.8,19.7,1.0,75.0,30
+"Bardsley, P",Stoke City,2.8,10.7,0.0,30.0,4
+"Clichy, G",Manchester City,4.1,14.9,10.0,61.0,39
+"Stevens, E",Aston Villa,2.1,0.0,0.0,0.0,0
+"Targett, M",Southampton,2.1,3.8,0.0,8.0,5
+"Diaby, A",Arsenal,3.0,0.0,0.0,0.0,0
+"Teixeira, D",Stoke City,2.4,0.0,0.0,0.0,0
+"Browning, T",Everton,2.1,1.4,0.0,3.0,0
+"Sanchez, A",Arsenal,7.0,14.7,2.0,103.0,37
+"Ospina, D",Arsenal,3.3,0.0,0.0,0.0,0
+"Junior, F",Everton,2.5,0.0,0.0,0.0,0
+"Ward, S",Burnley,2.1,4.8,0.0,10.0,6
+"Barnes, A",Burnley,2.8,17.5,2.0,49.0,34
+"Benteke, C",Aston Villa,5.5,5.6,2.0,31.0,27
+"James, R",Manchester United,2.0,0.0,0.0,0.0,0
+"Okore, J",Aston Villa,2.5,9.6,6.0,24.0,24
+"Heaton, T",Burnley,2.4,19.6,0.0,47.0,21
+"Rooney, W",Manchester United,6.8,11.9,5.0,81.0,48
+"Courtois, T",Chelsea,3.8,15.5,-2.0,59.0,31
+"Cleverley, T",Aston Villa,3.3,8.8,2.0,29.0,14
+"Donnelly, R",Swansea City,2.5,0.0,0.0,0.0,0
+"Wallace, R",Burnley,2.8,5.0,0.0,14.0,4
+"Gardos, F",Southampton,3.0,5.7,3.0,17.0,8
+"Gomis, B",Swansea City,4.0,6.2,2.0,25.0,9
+"Rosicky, T",Arsenal,3.2,3.8,2.0,12.0,9
+"Toure, K",Liverpool,2.9,7.9,1.0,23.0,20
+"Reid, S",Burnley,2.3,4.3,1.0,10.0,4
+"Mikel, J",Chelsea,3.0,6.3,0.0,19.0,10
+"Mahrez, R",Leicester City,2.8,18.9,5.0,53.0,32
+"Trippier, K",Burnley,2.4,20.0,-1.0,48.0,19
+"McArthur, J",Crystal Palace,3.3,9.7,2.0,32.0,20
+"Mavrias, C",Sunderland,2.6,0.0,0.0,0.0,0
+"Cissokho, A",Aston Villa,2.5,21.2,6.0,53.0,30
+"Montero, J",Swansea City,3.4,11.2,0.0,38.0,15
+"Gibbs, K",Arsenal,3.9,10.0,1.0,39.0,12
+"Santon, D",Newcastle United,3.0,0.0,0.0,0.0,0
+"Smalling, C",Manchester United,3.7,7.6,2.0,28.0,24
+"Dummett, P",Newcastle United,2.2,17.3,-3.0,38.0,9
+"Falcao, R",Manchester United,6.9,6.1,7.0,42.0,23
+"Kane, H",Tottenham Hotspur,3.8,17.4,17.0,66.0,53
+"Bartley, K",Swansea City,2.3,4.3,0.0,10.0,8
+"Vaz Te, R",West Ham United,3.8,1.8,0.0,7.0,1
+"Manquillo, J",Liverpool,3.2,6.9,0.0,22.0,3
+"Szczesny, W",Arsenal,3.6,10.6,1.0,38.0,10
+"Thomas, J",Crystal Palace,2.8,0.4,0.0,1.0,1
+"Ward, J",Crystal Palace,2.9,15.2,6.0,44.0,26
+"Assaidi, O",Stoke City,2.9,4.1,1.0,12.0,5
+"Logan, C",Leicester City,1.6,0.0,0.0,0.0,0
+"Kompany, V",Manchester City,5.0,7.4,0.0,37.0,10
+"Can, E",Liverpool,3.4,5.3,2.0,18.0,6
+"Henderson, J",Liverpool,4.1,16.8,2.0,69.0,36
+"Colback, J",Newcastle United,3.0,19.0,10.0,57.0,36
+"Oxlade-Chamberlain, A",Arsenal,3.8,10.5,2.0,40.0,18
+"Gamboa, C",West Bromwich Albion,2.6,10.8,0.0,28.0,11
+"Delph, F",Aston Villa,3.1,5.8,0.0,18.0,4
+"Dann, S",Crystal Palace,2.8,20.4,6.0,57.0,30
+"Whitehead, D",West Ham United,2.6,0.0,0.0,0.0,0
+"Young, A",Manchester United,3.6,7.2,2.0,26.0,21
+"Alnwick, J",Newcastle United,2.0,1.0,0.0,2.0,2
+"Kouyate, C",West Ham United,3.0,13.0,1.0,39.0,23
+"Butland, J",Stoke City,1.9,0.0,0.0,0.0,0
+"Enrique, J",Liverpool,3.7,2.7,0.0,10.0,6
+"Cresswell, A",West Ham United,2.8,21.1,5.0,59.0,30
+"Isla, M",Queens Park Rangers,2.7,12.6,1.0,34.0,18
+"Fazio, F",Tottenham Hotspur,3.6,5.8,0.0,21.0,22
+"Aarons, R",Newcastle United,2.5,4.0,0.0,10.0,0
+"Coutinho, P",Liverpool,4.4,11.1,2.0,49.0,27
+"Keane, M",Burnley,2.2,11.8,0.0,26.0,20
+"Herd, C",Aston Villa,2.2,0.0,0.0,0.0,0
+"Clyne, N",Southampton,3.1,25.8,0.0,80.0,22
+"Gibson, D",Everton,2.9,1.0,0.0,3.0,0
+"de Gea, D",Manchester United,3.7,17.0,2.0,63.0,30
+"Chalobah, N",Burnley,2.7,1.1,0.0,3.0,0
+"Sanchez, C",Aston Villa,3.0,8.0,2.0,24.0,15
+"Brady, R",Hull City,3.3,6.7,1.0,22.0,11
+"Lee, E",West Ham United,2.0,0.0,0.0,0.0,0
+"Valencia, A",Manchester United,3.7,8.6,0.0,32.0,22
+"Fabregas, C",Chelsea,5.4,15.9,4.0,86.0,36
+"Boyd, G",Burnley,3.2,16.6,6.0,53.0,34
+"Sung-Yueng, K",Swansea City,3.0,18.7,5.0,56.0,29
+"Zaha, W",Crystal Palace,3.4,9.4,2.0,32.0,16
+"Gallagher, S",Southampton,3.4,0.0,0.0,0.0,0
+"Hill, C",Queens Park Rangers,2.6,6.2,2.0,16.0,10
+"Potts, D",West Ham United,2.2,0.0,0.0,0.0,0
+"Noble, M",West Ham United,3.2,9.1,0.0,29.0,5
+"Lenihan, B",Hull City,2.0,0.0,0.0,0.0,0
+"Aguero, S",Manchester City,7.5,13.7,0.0,103.0,26
+"Adam, C",Stoke City,3.2,9.7,0.0,31.0,4
+"Kelly, M",Crystal Palace,2.3,15.7,6.0,36.0,23
+"Barrow, M",Swansea City,2.7,0.7,0.0,2.0,2
+"Gouffran, Y",Newcastle United,3.5,9.7,2.0,34.0,13
+"Murphy, B",Queens Park Rangers,1.7,0.0,0.0,0.0,0
+"Giroud, O",Arsenal,6.6,5.8,0.0,38.0,28
+"Shaw, L",Manchester United,3.9,6.2,2.0,24.0,9
+"Gardner, C",West Bromwich Albion,3.3,11.5,0.0,38.0,20
+"Senderos, P",Aston Villa,2.5,8.8,0.0,22.0,0
+"Meyler, D",Hull City,3.0,7.7,1.0,23.0,19
+"Nastasic, M",Manchester City,3.9,0.0,0.0,0.0,0
+"Mata, J",Manchester United,5.1,14.7,2.0,75.0,38
+"Nolan, K",West Ham United,3.6,8.3,0.0,30.0,22
+Sandro,Queens Park Rangers,3.3,4.2,0.0,14.0,2
+"Gomez, J",Sunderland,3.0,15.7,2.0,47.0,18
+"Eto'o, S",Everton,5.8,6.7,0.0,39.0,14
+"Lukaku, R",Everton,6.4,11.2,1.0,72.0,29
+"Elmohamady, A",Hull City,3.0,18.7,7.0,56.0,26
+"Koscielny, L",Arsenal,4.5,7.3,1.0,33.0,15
+"Wright-Phillips, S",Queens Park Rangers,2.5,0.0,0.0,0.0,0
+"Lingard, J",Manchester United,2.7,0.7,0.0,2.0,0
+"Gazzaniga, P",Southampton,2.1,0.0,0.0,0.0,0
+"Bent, D",Aston Villa,4.6,1.5,0.0,7.0,1
+"Robertson, A",Hull City,2.1,15.2,4.0,32.0,13
+"Yacob, C",West Bromwich Albion,2.9,1.0,1.0,3.0,0
+"Navas, J",Manchester City,4.6,11.1,2.0,51.0,28
+"Evans, J",Manchester United,3.6,8.3,2.0,30.0,16
+"Mangala, E",Manchester City,4.1,7.8,1.0,32.0,22
+"Hewitt, S",Burnley,2.5,0.0,0.0,0.0,0
+"Wanyama, V",Southampton,3.6,12.5,1.0,45.0,11
+"Upson, M",Leicester City,2.7,0.0,0.0,0.0,0
+"Barton, J",Queens Park Rangers,3.0,10.3,1.0,31.0,19
+"Obeng, C",Swansea City,2.0,0.0,0.0,0.0,0
+"Murray, G",Crystal Palace,3.5,0.3,0.0,1.0,0
+Ramires,Chelsea,4.5,5.6,1.0,25.0,4
+"Ideye, B",West Bromwich Albion,4.6,4.3,1.0,20.0,15
+"Bannan, B",Crystal Palace,2.9,3.4,1.0,10.0,4
+"Ameobi, S",Newcastle United,3.6,8.6,0.0,31.0,15
+"Kennedy, M",Everton,2.5,0.0,0.0,0.0,0
+"Drinkwater, D",Leicester City,2.8,10.7,2.0,30.0,9
+"Traore, A",Queens Park Rangers,2.4,6.2,0.0,15.0,3
+"Ehmer, M",Queens Park Rangers,2.0,0.0,0.0,0.0,0
+"Pocognoli, S",West Bromwich Albion,2.7,15.2,0.0,41.0,16
+"Ivanovic, B",Chelsea,4.9,16.9,1.0,83.0,43
+"Maguire, H",Hull City,2.3,2.2,2.0,5.0,5
+"Jutkiewicz, L",Burnley,3.1,10.0,0.0,31.0,6
+"Suk-Young, Y",Queens Park Rangers,2.2,8.6,0.0,19.0,11
+"Ness, J",Stoke City,2.6,0.0,0.0,0.0,0
+"Moreno, A",Liverpool,3.8,10.8,1.0,41.0,18
+"Townsend, A",Tottenham Hotspur,3.6,3.9,7.0,14.0,8
+"Markovic, L",Liverpool,3.9,3.6,1.0,14.0,8
+"Carrick, M",Manchester United,4.0,6.0,5.0,24.0,21
+"Guedioura, A",Crystal Palace,2.7,1.5,0.0,4.0,0
+"Janmaat, D",Newcastle United,3.1,18.1,2.0,56.0,18
+"Onuoha, N",Queens Park Rangers,2.2,3.6,0.0,8.0,5
+"Dunne, R",Queens Park Rangers,2.6,9.6,1.0,25.0,18
+"Williamson, M",Newcastle United,2.5,9.6,-1.0,24.0,11
+"Herrera, A",Manchester United,4.3,7.7,1.0,33.0,11
+"Richards, J",Swansea City,2.2,7.3,0.0,16.0,12
+"Livermore, J",Hull City,3.2,13.4,1.0,43.0,18
+"Wilshere, J",Arsenal,4.6,4.3,0.0,20.0,2
+"Gerrard, S",Liverpool,4.9,12.0,11.0,59.0,26
+"Welbeck, D",Arsenal,5.2,11.5,0.0,60.0,28
+"Williams, Jon",Crystal Palace,2.7,0.7,0.0,2.0,0
+"Hoilett, J",Queens Park Rangers,3.0,9.7,1.0,29.0,15
+Anderson,Manchester United,2.9,0.3,0.0,1.0,0
+"Davis, S",Southampton,3.3,12.7,2.0,42.0,19
+"van Aanholt, P",Sunderland,2.2,10.9,0.0,24.0,0
+"O'Shea, J",Sunderland,2.9,16.6,0.0,48.0,29
+"Aluko, S",Hull City,3.8,5.3,0.0,20.0,15
+"Schurrle, A",Chelsea,4.5,5.8,0.0,26.0,5
+"Pieters, E",Stoke City,3.1,13.9,2.0,43.0,22
+"Kozak, L",Aston Villa,3.9,0.0,0.0,0.0,0
+"Ben Arfa, H",Hull City,3.7,3.2,0.0,12.0,4
+"Rojo, M",Manchester United,3.8,6.8,0.0,26.0,9
+"Alvarez, R",Sunderland,3.9,2.3,1.0,9.0,6
+"Lescott, J",West Bromwich Albion,2.8,16.1,2.0,45.0,24
+"Sissoko, M",Newcastle United,3.5,13.4,7.0,47.0,22
+"Daniels, L",West Bromwich Albion,1.6,0.0,0.0,0.0,0
+"Vorm, M",Tottenham Hotspur,3.2,0.0,0.0,0.0,0
+"Lloris, H",Tottenham Hotspur,3.4,15.6,0.0,53.0,22
+"Baines, L",Everton,4.5,14.7,1.0,66.0,11
+"Pelle, G",Southampton,4.7,19.6,2.0,92.0,26
+"Garbutt, L",Everton,2.0,0.0,0.0,0.0,0
+"Rose, D",Tottenham Hotspur,3.4,12.6,9.0,43.0,14
+"Boruc, A",Southampton,3.1,0.0,0.0,0.0,0
+"Yoshida, M",Southampton,2.7,11.1,3.0,30.0,18
+"Rodwell, J",Sunderland,2.9,11.4,7.0,33.0,12
+"Arteta, M",Arsenal,4.0,3.8,0.0,15.0,5
+"Lamela, E",Tottenham Hotspur,3.6,14.2,0.0,51.0,21
+"Tate, A",Swansea City,2.2,0.0,0.0,0.0,0
+"Bellerin, H",Arsenal,2.9,1.4,0.0,4.0,4
+Fernandinho,Manchester City,4.7,9.6,2.0,45.0,27
+"Wilkinson, A",Stoke City,2.3,0.0,0.0,0.0,0
+"Chambers, C",Arsenal,2.5,19.6,1.0,49.0,18
+"Sanogo, Y",Arsenal,4.0,2.0,0.0,8.0,0
+"Alcaraz, A",Everton,2.4,5.0,-2.0,12.0,0
+"Huth, R",Stoke City,3.0,1.0,0.0,3.0,3
+"Green, R",Queens Park Rangers,2.4,17.1,2.0,41.0,24
+"Brunt, C",West Bromwich Albion,3.3,13.6,2.0,45.0,12
+"Taylor-Fletcher, G",Leicester City,3.3,0.3,0.0,1.0,0
+"Lletget, S",West Ham United,2.5,0.0,0.0,0.0,0
+"Buckley, W",Sunderland,2.8,10.7,2.0,30.0,11
+"Sidwell, S",Stoke City,3.0,2.7,0.0,8.0,3
+"Rodriguez, J",Southampton,5.7,0.0,0.0,0.0,0
+"Luis, F",Chelsea,4.4,4.5,0.0,20.0,9
+"Wisdom, A",West Bromwich Albion,2.7,18.5,2.0,50.0,19
+"Armstrong, A",Newcastle United,2.3,3.0,4.0,7.0,7
+"Hennessey, W",Crystal Palace,2.2,0.5,0.0,1.0,0
+"Guzan, B",Aston Villa,2.9,19.7,6.0,57.0,29
+"Leiva, L",Liverpool,3.3,4.8,1.0,16.0,11
+"Taarabt, A",Queens Park Rangers,3.0,0.3,0.0,1.0,0
+"Walker, K",Tottenham Hotspur,3.6,1.1,0.0,4.0,4
+"Henry, K",Queens Park Rangers,2.6,10.8,1.0,28.0,15
+"Altidore, J",Sunderland,3.9,3.3,0.0,13.0,7
+"Turgott, B",West Ham United,2.5,0.0,0.0,0.0,0
+"O'Brien, J",West Ham United,2.9,2.8,0.0,8.0,4
+"Daniels, D",West Bromwich Albion,2.0,0.0,0.0,0.0,0
+"Zarate, M",West Ham United,5.1,4.7,0.0,24.0,8
+"Larsson, S",Sunderland,3.2,18.1,4.0,58.0,18
+"Lowton, M",Aston Villa,2.4,5.0,0.0,12.0,5
+"Graham, D",Sunderland,3.7,0.0,0.0,0.0,0
+"Vargas, E",Queens Park Rangers,3.9,13.1,2.0,51.0,18
+"Varela, S",West Bromwich Albion,3.5,4.0,1.0,14.0,14
+"Martinez, E",Arsenal,2.1,6.2,0.0,13.0,13
+"Besic, M",Everton,3.6,4.2,1.0,15.0,11
+"Jones, D",Burnley,3.0,12.0,2.0,36.0,18
+"Fernandez, F",Swansea City,3.0,11.3,2.0,34.0,13
+"Speroni, J",Crystal Palace,3.0,16.7,6.0,50.0,26
+"Johnson, G",Liverpool,3.8,8.4,0.0,32.0,21
+"Tomkins, J",West Ham United,2.8,15.0,0.0,42.0,26
+"Rosenior, L",Hull City,2.7,10.7,6.0,29.0,17
+"Taylor, S",Newcastle United,2.8,11.1,7.0,31.0,15
+"Bony, W",Swansea City,5.6,14.6,6.0,82.0,44
+"Elliot, R",Newcastle United,2.3,3.5,0.0,8.0,8
+"Chamakh, M",Crystal Palace,3.8,8.2,0.0,31.0,8
+"N'Zogbia, C",Aston Villa,3.0,10.0,0.0,30.0,8
+"Jaaskelainen, J",West Ham United,2.1,0.0,0.0,0.0,0
+"Skrtel, M",Liverpool,4.0,9.8,0.0,39.0,26
+"Bakayogo, Z",Leicester City,2.1,0.0,0.0,0.0,0
+"Weimann, A",Aston Villa,4.4,11.6,2.0,51.0,16
+"Pozo, J",Manchester City,2.9,0.0,0.0,0.0,0
+"Tremmel, G",Swansea City,1.8,1.1,0.0,2.0,2
+"Blackett, T",Manchester United,2.1,7.6,0.0,16.0,4
+"Campbell, J",Arsenal,5.0,0.8,0.0,4.0,2
+"Nugent, D",Leicester City,4.1,10.0,6.0,41.0,16
+"Demetriou, J",Swansea City,2.5,0.0,0.0,0.0,0
+Willian,Chelsea,4.8,8.1,2.0,39.0,15
+"Jovetic, S",Manchester City,5.3,9.4,10.0,50.0,30
+"Fletcher, S",Sunderland,4.0,13.2,0.0,53.0,14
+"Mannone, V",Sunderland,2.9,5.5,0.0,16.0,0
+"Demichelis, M",Manchester City,4.0,13.5,1.0,54.0,31
+"Faurlin, A",Queens Park Rangers,2.8,1.1,0.0,3.0,0
+"Ramage, P",Crystal Palace,2.4,0.0,0.0,0.0,0
+"Krkic, B",Stoke City,4.0,11.2,0.0,45.0,32
+"Robles, J",Everton,2.4,1.7,1.0,4.0,4
+"Snodgrass, R",Hull City,3.5,0.6,0.0,2.0,0
+"Blind, D",Manchester United,3.8,5.5,0.0,21.0,0
+"Bertrand, R",Southampton,2.7,33.7,6.0,91.0,29
+"Amos, B",Manchester United,1.9,0.0,0.0,0.0,0
+"Kightly, M",Burnley,2.9,9.0,4.0,26.0,11
+"Mignolet, S",Liverpool,3.5,11.7,1.0,41.0,17
+"Drogba, D",Chelsea,5.8,6.0,0.0,35.0,22
+"Toure, Y",Manchester City,6.0,14.5,10.0,87.0,54
+"Johnson, A",Crystal Palace,3.5,0.0,0.0,0.0,33
+"Allen, J",Liverpool,3.4,5.6,0.0,19.0,6
+"Brown, W",Sunderland,2.8,15.0,-1.0,42.0,30
+"Fryers, Z",Crystal Palace,2.2,1.4,0.0,3.0,0
+"Odemwingie, P",Stoke City,5.1,0.6,0.0,3.0,0
+"Hazard, E",Chelsea,5.8,20.3,13.0,118.0,61
+"Gayle, D",Crystal Palace,4.3,6.5,1.0,28.0,14
+"Cahill, G",Chelsea,4.5,15.1,-2.0,68.0,34
+"Fonte, J",Southampton,3.3,20.3,6.0,67.0,19
+"Moses, V",Stoke City,3.3,12.1,0.0,40.0,2
+"Amalfitano, M",West Ham United,3.0,14.7,5.0,44.0,17
+"Fellaini, M",Manchester United,4.1,7.8,0.0,32.0,16
+"Sakho, M",Liverpool,3.9,4.9,1.0,19.0,10
+"Mandron, M",Sunderland,3.2,0.0,0.0,0.0,0
+"Walcott, T",Arsenal,5.3,0.6,1.0,3.0,1
+"Adebayor, E",Tottenham Hotspur,5.5,6.7,0.0,37.0,0
+"Davidson, J",West Bromwich Albion,2.3,1.3,0.0,3.0,0
+"Friedel, B",Tottenham Hotspur,2.4,0.0,0.0,0.0,0
+"Tadic, D",Southampton,3.7,20.5,7.0,76.0,23
+"Routledge, W",Swansea City,3.5,14.0,-1.0,49.0,16
+"Kone, A",Everton,4.2,2.1,1.0,9.0,9
+"Wood, C",Leicester City,3.6,3.3,0.0,12.0,3
+"Krul, T",Newcastle United,3.2,10.9,0.0,35.0,6
+"Capoue, E",Tottenham Hotspur,3.3,6.1,0.0,20.0,0
+"Barry, G",Everton,3.6,9.7,1.0,35.0,11
+"Fletcher, D",Manchester United,2.9,4.8,0.0,14.0,7
+"Diouf, M",Stoke City,4.0,15.5,2.0,62.0,29
+"Sturridge, D",Liverpool,6.9,2.5,0.0,17.0,0
+"Wright, R",Manchester City,1.9,0.0,0.0,0.0,0
+"Kebe, J",Crystal Palace,3.1,0.0,0.0,0.0,0
+"Zamora, B",Queens Park Rangers,3.8,10.0,2.0,38.0,22
+"Cech, P",Chelsea,3.8,2.4,0.0,9.0,6
+"Steer, J",Aston Villa,2.0,0.0,0.0,0.0,0
+"Kolarov, A",Manchester City,3.3,10.9,3.0,36.0,13
+"Cattermole, L",Sunderland,2.9,10.3,0.0,30.0,10
+"Salah, M",Chelsea,3.9,0.8,1.0,3.0,1
+"Dembele, M",Tottenham Hotspur,3.4,4.1,1.0,14.0,5
+"Knockaert, A",Leicester City,3.1,2.6,0.0,8.0,4
+"Bolasie, Y",Crystal Palace,3.6,15.8,2.0,57.0,26
+"Cisak, A",Burnley,1.7,0.0,0.0,0.0,0
+"Arnautovic, M",Stoke City,3.5,8.0,5.0,28.0,19
+"Mirallas, K",Everton,4.0,12.8,2.0,51.0,31
+"Maitland-Niles, A",Arsenal,2.6,0.0,0.0,0.0,0
+"Baird, C",West Bromwich Albion,2.3,2.2,2.0,5.0,4
+"Myhill, B",West Bromwich Albion,1.8,0.6,0.0,1.0,0
+"McCarthy, A",Queens Park Rangers,2.0,0.0,0.0,0.0,0
+"Costa, D",Chelsea,7.0,15.1,7.0,106.0,36
+"Davies, C",Hull City,3.1,11.6,6.0,36.0,14
+"Gutierrez, J",Newcastle United,2.8,0.0,0.0,0.0,0
+"Sorensen, T",Stoke City,2.1,0.0,0.0,0.0,0
+"Tiendalli, D",Swansea City,2.4,2.5,0.0,6.0,0
+Paulinho,Tottenham Hotspur,3.8,1.6,0.0,6.0,5
+"Hibbert, T",Everton,2.2,3.2,0.0,7.0,4
+"Terry, J",Chelsea,4.8,17.3,3.0,83.0,52
+"Hart, J",Manchester City,4.0,16.0,0.0,64.0,30
+Suso,Liverpool,2.8,0.0,0.0,0.0,0
+"McNair, P",Manchester United,2.0,9.5,0.0,19.0,12
+"Bentaleb, N",Tottenham Hotspur,3.2,5.9,1.0,19.0,12
+"Puncheon, J",Crystal Palace,3.9,11.0,2.0,43.0,13
+"Nasri, S",Manchester City,4.7,9.1,1.0,43.0,31
+"Ozil, M",Arsenal,5.5,3.6,0.0,20.0,0
+"Whelan, G",Stoke City,2.8,7.1,2.0,20.0,8
+"McCarthy, P",Crystal Palace,2.2,0.0,0.0,0.0,0
+"Foster, B",West Bromwich Albion,2.8,16.8,2.0,47.0,19
+"Vlaar, R",Aston Villa,2.9,13.1,4.0,38.0,16
+"Ferdinand, R",Queens Park Rangers,2.7,3.3,0.0,9.0,0
+"Grealish, J",Aston Villa,2.5,3.2,1.0,8.0,5
+"Song, A",West Ham United,3.4,8.8,2.0,30.0,14
+"Stones, J",Everton,2.8,4.6,0.0,13.0,2
+"Wilson, M",Stoke City,2.8,11.8,0.0,33.0,6
+"Sessegnon, S",West Bromwich Albion,3.6,13.3,5.0,48.0,29
+"Podolski, L",Arsenal,5.3,1.3,0.0,7.0,3
+"Bridcutt, L",Sunderland,3.1,3.2,0.0,10.0,5
+"Mulumbu, Y",West Bromwich Albion,3.0,6.3,2.0,19.0,9
+"Mayuka, E",Southampton,3.2,1.6,0.0,5.0,4
+"Lennon, A",Tottenham Hotspur,3.6,4.7,0.0,17.0,12
+"Nabi, A",West Bromwich Albion,2.5,0.0,0.0,0.0,0
+"Borini, F",Liverpool,4.6,1.3,1.0,6.0,1
+Cabral,Sunderland,2.7,0.0,0.0,0.0,0
+"Shelvey, J",Swansea City,3.6,7.2,0.0,26.0,10
+"Lovren, D",Liverpool,3.3,8.8,0.0,29.0,6
+"Phillips, M",Queens Park Rangers,2.7,5.6,0.0,15.0,4
+Fernando,Manchester City,3.7,8.4,0.0,31.0,15
+"Westwood, A",Aston Villa,3.1,9.7,0.0,30.0,11
+"Agbonlahor, G",Aston Villa,4.5,10.7,2.0,48.0,19
+"Chambers, L",West Ham United,2.0,0.0,0.0,0.0,0
+"Gnabry, S",Arsenal,2.9,0.0,0.0,0.0,0
+"Lawrence, T",Leicester City,2.8,0.0,0.0,0.0,0
+"Forster, F",Southampton,3.2,22.5,6.0,72.0,23
+"Schlupp, J",Leicester City,2.6,20.4,6.0,53.0,27
+"Collins, J",West Ham United,2.9,10.7,2.0,31.0,17
+"Ings, D",Burnley,4.3,14.9,6.0,64.0,45
+"Ramsey, A",Arsenal,5.0,10.0,0.0,50.0,16
+"Jenkinson, C",West Ham United,2.9,18.3,2.0,53.0,25
+"de Jong, S",Newcastle United,3.5,0.9,0.0,3.0,0
+"Morrison, R",West Ham United,3.6,0.3,0.0,1.0,0
+"Sigurdsson, G",Swansea City,3.6,23.9,2.0,86.0,32
+"Riviere, E",Newcastle United,4.6,5.2,2.0,24.0,5
+"Zabaleta, P",Manchester City,4.6,10.7,0.0,49.0,30
+"Vergini, S",Sunderland,2.8,15.0,0.0,42.0,27
+"James, M",Leicester City,2.7,9.3,4.0,25.0,15
+"Mason, R",Tottenham Hotspur,2.5,12.4,2.0,31.0,19
+"Huddlestone, T",Hull City,3.6,8.1,0.0,29.0,4
+"Bruce, A",Hull City,2.3,11.3,6.0,26.0,12
+"Caballero, W",Manchester City,2.9,0.7,1.0,2.0,1
+"Monreal, N",Arsenal,3.5,11.1,0.0,39.0,16
+"Sordell, M",Burnley,3.7,2.7,0.0,10.0,1
+"Balotelli, M",Liverpool,6.3,2.4,0.0,15.0,1
+"Hamer, B",Leicester City,1.7,10.0,1.0,17.0,11
+"Cole, C",West Ham United,3.7,6.8,1.0,25.0,4
+"Flamini, M",Arsenal,2.9,11.7,0.0,34.0,19
+"Ferguson, S",Newcastle United,2.8,0.0,0.0,0.0,0
+"Mertesacker, P",Arsenal,4.6,10.7,1.0,49.0,21
+"Schneiderlin, M",Southampton,3.7,11.1,0.0,41.0,5
+"Long, S",Southampton,4.9,9.0,1.0,44.0,16
+"Jones, B",Liverpool,2.0,2.5,0.0,5.0,5
+"Reid, W",West Ham United,3.0,14.0,2.0,42.0,13
+"Naismith, S",Everton,4.2,11.9,2.0,50.0,14
+"Haidara, M",Newcastle United,2.2,10.0,1.0,22.0,11
+"Kranjcar, N",Queens Park Rangers,2.9,9.0,0.0,26.0,12
+"Coquelin, F",Arsenal,2.7,1.5,1.0,4.0,4
+"Williams, A",Swansea City,3.1,18.4,2.0,57.0,23
+"Campbell, F",Crystal Palace,4.2,10.2,0.0,43.0,6
+"Obertan, G",Newcastle United,2.8,6.4,0.0,18.0,0
+"Zouma, K",Chelsea,2.4,2.9,0.0,7.0,6
+"O'Neil, L",West Bromwich Albion,2.0,0.0,0.0,0.0,0
+"Chadli, N",Tottenham Hotspur,3.6,22.8,13.0,82.0,28
+"Hernandez, A",Hull City,4.7,8.5,5.0,40.0,10
+"Lallana, A",Liverpool,4.4,12.3,2.0,54.0,39
+"Crouch, P",Stoke City,4.7,11.5,5.0,54.0,26
+"Ince, T",Hull City,3.4,2.4,0.0,8.0,2
+"Muniesa, M",Stoke City,2.6,11.9,2.0,31.0,19
+"de Laet, R",Leicester City,2.6,13.1,1.0,34.0,9
+"Giaccherini, E",Sunderland,3.5,1.4,1.0,5.0,2
+"Jagielka, P",Everton,3.9,11.8,1.0,46.0,12
+"Pienaar, S",Everton,3.7,4.3,0.0,16.0,2
+"Dawson, M",Hull City,3.2,5.9,0.0,19.0,9
+"Diame, M",Hull City,3.4,13.2,0.0,45.0,4
+"Carroll, A",West Ham United,5.4,7.2,2.0,39.0,38
+"Demel, G",West Ham United,2.8,2.9,0.0,8.0,3
+"Powell, N",Leicester City,2.7,1.1,0.0,3.0,1
+"Rangel, A",Swansea City,3.0,16.7,2.0,50.0,16
+"Roofe, K",West Bromwich Albion,2.5,0.0,0.0,0.0,0
+"Wickham, C",Sunderland,4.0,11.2,2.0,45.0,19
+"Baker, N",Aston Villa,2.5,6.8,0.0,17.0,0
+"Debuchy, M",Arsenal,3.2,7.5,1.0,24.0,14
+Rafael,Manchester United,3.7,4.6,3.0,17.0,6
+"Hammond, D",Leicester City,2.5,6.0,2.0,15.0,2
+"Marney, D",Burnley,3.0,11.3,2.0,34.0,20
+"Vertonghen, J",Tottenham Hotspur,3.8,9.7,0.0,37.0,20
+"Sinclair, S",Manchester City,2.9,0.7,0.0,2.0,2
+"Berahino, S",West Bromwich Albion,4.0,19.0,7.0,76.0,19
+"Tiote, C",Newcastle United,3.0,8.3,2.0,25.0,16
+"Schmeichel, K",Leicester City,2.5,7.6,0.0,19.0,7
+"Simpson, D",Leicester City,2.5,6.0,1.0,15.0,11
+"Britton, L",Swansea City,3.0,3.3,2.0,10.0,9
+"Harper, S",Hull City,2.0,5.0,0.0,10.0,0
+"Quinn, S",Hull City,2.7,9.6,0.0,26.0,7
+"Jarvis, M",West Ham United,3.4,1.5,1.0,5.0,4
+"Lafferty, D",Burnley,2.2,1.4,0.0,3.0,3
+"Albrighton, M",Leicester City,3.0,1.7,0.0,5.0,2
+"Vardy, J",Leicester City,3.7,12.2,5.0,45.0,14
+"Hangeland, B",Crystal Palace,2.7,10.4,0.0,28.0,14
+"Morgan, W",Leicester City,2.5,12.0,1.0,30.0,12
+"Chester, J",Hull City,2.7,17.8,6.0,48.0,21
+"Mane, S",Southampton,3.4,15.6,7.0,53.0,31
+"Begovic, A",Stoke City,3.1,15.2,2.0,47.0,22
+"McAleny, C",Everton,2.0,0.0,0.0,0.0,0
+"Samaras, G",West Bromwich Albion,3.7,2.2,0.0,8.0,1
+"Lindegaard, A",Manchester United,2.5,0.0,0.0,0.0,0
+"Davis, K",Southampton,1.9,0.0,0.0,0.0,0
+Oscar,Chelsea,4.9,12.7,5.0,62.0,26
+"Stambouli, B",Tottenham Hotspur,3.3,1.5,0.0,5.0,4
+"Good, C",Newcastle United,2.1,0.0,0.0,0.0,0
+"di Maria, A",Manchester United,5.3,11.1,0.0,59.0,8
+"Reveillere, A",Sunderland,2.5,9.2,0.0,23.0,19
+"McAuley, G",West Bromwich Albion,2.9,4.8,2.0,14.0,14
+"Cole, J",Aston Villa,3.0,4.0,1.0,12.0,10
+"Cambiasso, E",Leicester City,3.0,11.0,1.0,33.0,19
+"Konchesky, P",Leicester City,2.4,12.5,0.0,30.0,10
+"Coates, S",Sunderland,2.2,3.2,3.0,7.0,7
+"Taylor, M",Burnley,2.7,3.3,0.0,9.0,0
+"Ramirez, G",Hull City,3.5,6.6,2.0,23.0,16
+"Fabianski, L",Swansea City,2.3,24.8,2.0,57.0,20
+"Jedinak, M",Crystal Palace,3.3,18.5,0.0,61.0,29
+"Boyata, D",Manchester City,2.6,0.4,0.0,1.0,1
+"Schwarzer, M",Chelsea,2.2,0.0,0.0,0.0,0
+"Delaney, D",Crystal Palace,2.7,11.1,5.0,30.0,12
+"Reed, H",Southampton,2.5,1.6,1.0,4.0,3
+"Downing, S",West Ham United,3.5,24.9,2.0,87.0,34
+"O'Keefe, S",Crystal Palace,2.6,1.2,0.0,3.0,0
+"Dudgeon, J",Hull City,2.2,0.0,0.0,0.0,0
+"Alderweireld, T",Southampton,3.0,19.7,6.0,59.0,26
+"Given, S",Aston Villa,2.2,0.0,0.0,0.0,0
+"Perez, A",Newcastle United,4.1,14.1,5.0,58.0,31
+"Ake, N",Chelsea,2.2,0.0,0.0,0.0,0
+"Howard, T",Everton,3.4,9.7,0.0,33.0,11
+"Davies, B",Tottenham Hotspur,2.9,8.6,1.0,25.0,22
+"Mariappa, A",Crystal Palace,2.4,9.2,6.0,22.0,12
+"Anichebe, V",West Bromwich Albion,4.0,5.8,0.0,23.0,6
+"Austin, C",Queens Park Rangers,4.4,23.2,2.0,102.0,48
+"Naughton, K",Tottenham Hotspur,2.9,2.4,0.0,7.0,0
+"Oviedo, B",Everton,3.4,0.6,1.0,2.0,1
+"Vuckic, H",Newcastle United,2.6,0.4,0.0,1.0,1

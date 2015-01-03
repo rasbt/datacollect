@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 
-# A command line tool to collect soccer and fantasy soccer data for the English Premier League.
+# A command line tool to download the current Premier League Soccer data
 # Tested in Python 3
 #
 # Sebastian Raschka, 2014 (http://sebastianraschka.com)
 #
-# Last updated: 12/29/2014
+# Last updated: 12/23/2014
 #
 # This work is licensed under a GNU GENERAL PUBLIC LICENSE Version 3
 # Please see the GitHub repository (https://github.com/rasbt/datacollect) for more details.
@@ -13,7 +13,8 @@
 #
 #
 # For help, execute
-# ./collect_fantasysoccer.py --help
+# ./collect_epl.py --help
+
 
 
 import pandas as pd
@@ -30,6 +31,7 @@ class SoccerData(object):
         self.df_injury_data = None
         self.home_away = None
         self.player_form = None
+        self.team_form = None
     
     def get_all(self):
         self.get_general_stats()
@@ -37,18 +39,19 @@ class SoccerData(object):
         self.get_injury_data()
         self.get_home_away_data()
         self.get_player_form_data()
+        self.get_team_form_data()
         
         
     def to_csv(self, target_dir, print_completed=True):
         data = [self.df_general_stats, self.df_team_standings, 
-                self.df_injury_data, self.home_away, self.player_form]
+                self.df_injury_data, self.home_away, self.player_form, self.team_form]
         assert(df is not None for df in data)
         
         today = time.strftime('%Y%m%d')
         if not os.path.isdir(target_dir):
             os.mkdir(target_dir)
             
-        names = ['dreamteamfc', 'espn', '365stats', 'transfermarkt', 'telegraph']    
+        names = ['dreamteamfc', 'espn', '365stats', 'transfermarkt', 'telegraph', 'mpremierleague']    
             
         for df, name in zip(data, names):
             name = os.path.join(target_dir, '%s_%s.csv' %(name, today))
@@ -293,23 +296,57 @@ class SoccerData(object):
             if player:
                 week6 = t.parent.find('td', { 'class' : 'sixth last' })
                 df.loc[df['name'] == player, '6week_pts'] = week6.text
-    
 
         self.player_form = df
         return df
+        
+        
+        
+    def get_team_form_data(self, print_out=True):
+        if print_out:
+            print('Getting team form data from m.premierleague.com ...')
+        
+        url = 'http://m.premierleague.com/en-gb/form-guide.html'
+        r  = requests.get(url)
+        soup = BeautifulSoup(r.text, 'html5lib') 
+        # Note: html5lib deals better with broken html than lxml
+
+        team_dict = {}
+
+        for d in soup.findAll('td', { 'class' : 'col-pos' }):
+            if len(team_dict) > 20:
+                break
+            pos = d.text
+            for e in d.next_siblings:
+                if isinstance(e, bs4.Tag):
+                    if 'class' in e.attrs and 'col-club' in e.attrs['class']:
+                        club = e.text
+                        team_dict[club] = pos
+                        break
+
+        df = pd.DataFrame.from_dict(team_dict, orient='index')
+        
+        df.columns = ['position-last-6-games']
+        df['team'] = df.index
+    
+        self.team_form = df
+        return df    
+        
+        
+    
 
         
 if __name__ == '__main__':
     import argparse
     
     parser = argparse.ArgumentParser(
-            description='A command line tool to download current Premier League (Fantasy) Soccer data.',
+            description='A command line tool to download the current Premier League Soccer data.',
             formatter_class=argparse.RawTextHelpFormatter,
     epilog='Example:\n'\
-                './collect_fantasysoccer.py -o ~/Desktop/matchday_17')
+                './collect_epl.py -o ~/Desktop/matchday_17')
 
     parser.add_argument('-o', '--output', help='Output directory.', required=True, type=str)
-    parser.add_argument('-v', '--version', action='version', version='v. 1.0')
+    parser.add_argument('-v', '--version', action='version', version='v. 1.0.1')
     
     args = parser.parse_args()
 

@@ -9,6 +9,7 @@ A simple command line tool to download English Premier League (fantasy) soccer d
 - [http://365stats.com](http://365stats.com/football/injuries) (Injuries and suspensions)
 - [http://www.transfermarkt.com](http://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1) (Fixtures)
 - [https://fantasyfootball.telegraph.co.uk](https://fantasyfootball.telegraph.co.uk/premierleague/players/) (Fantasy points)
+- [http://m.premierleague.com/en-gb/form-guide.html](http://m.premierleague.com/en-gb/form-guide.html) (Team form data)
 <br>
 
 <hr>
@@ -51,11 +52,13 @@ Getting team standings from espnfc.com ...
 Getting injury data from 365stats.com ...
 Getting home/away data from transfermarkt.com ...
 Getting player form data from telegraph.co.uk ...
-examples/dreamteamfc_20141230.csv written
-examples/espn_20141230.csv written
-examples/365stats_20141230.csv written
-examples/transfermarkt_20141230.csv written
-examples/telegraph_20141230.csv written</pre>
+Getting team form data from m.premierleague.com ...
+./data/2014_epl_day_21/dreamteamfc_20150103.csv written
+./data/2014_epl_day_21/espn_20150103.csv written
+./data/2014_epl_day_21/365stats_20150103.csv written
+./data/2014_epl_day_21/transfermarkt_20150103.csv written
+./data/2014_epl_day_21/telegraph_20150103.csv written
+./data/2014_epl_day_21/mpremierleague_20150103.csv written</pre>
 
 <br>
 <br>
@@ -106,4 +109,6 @@ Example:
 # Changelog
 [[back to top](#sections)]
 
+- v1.0.1 (01/03/2015)
+	- Added m.premierleague.com to get team form data.
 - v1.0 (12/29/2014)
