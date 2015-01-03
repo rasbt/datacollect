@@ -20,6 +20,9 @@ A simple command line tool to download English Premier League (fantasy) soccer d
 - [Changelog](#changelog)
 
 <hr>
+<br>
+
+### [View the accompanying IPython Notebook](http://nbviewer.ipython.org/github/rasbt/datacollect/blob/master/collect_fantasysoccer/collect_fantasysoccer.ipynb)
 
 <br>
 <br>
