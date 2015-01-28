@@ -2,15 +2,40 @@
 
 Sebastian Raschka, 2014
 
-A simple command line tool to download English Premier League (fantasy) soccer data from 
+A simple command line tool to download English Premier League (fantasy) soccer data from the following websites:
 
-- [https://www.dreamteamfc.com](https://www.dreamteamfc.com/statistics/players/ALL/) (General statistics and fantasy points)
-- [http://www.espnfc.com](http://www.espnfc.com/barclays-premier-league/23/table) (Team standings)
-- [http://365stats.com](http://365stats.com/football/injuries) (Injuries and suspensions)
-- [http://www.transfermarkt.com](http://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1) (Fixtures)
-- [https://fantasyfootball.telegraph.co.uk](https://fantasyfootball.telegraph.co.uk/premierleague/players/) (Fantasy points)
-- [http://m.premierleague.com/en-gb/form-guide.html](http://m.premierleague.com/en-gb/form-guide.html) (Team form data)
+
+- Fantasy football data and player team names:
+[https://www.dreamteamfc.com/statistics/players/ALL/](https://www.dreamteamfc.com/statistics/players/ALL/)
+
+- Injury information: [https://www.dreamteamfc.com/statistics/injuries-and-cards/ALL/](https://www.dreamteamfc.com/statistics/injuries-and-cards/ALL/)
+
+- Fantasy-sports based form data: [https://www.dreamteamfc.com/statistics/form-guide/all](https://www.dreamteamfc.com/statistics/form-guide/all)
+
+
+- Team statistics: [http://www.espnfc.com/barclays-premier-league/23/table](http://www.espnfc.com/barclays-premier-league/23/table)
+
+- Top 50 scorers: [http://www.espnfc.com/barclays-premier-league/23/statistics/scorers](http://www.espnfc.com/barclays-premier-league/23/statistics/scorers)
+
+- Top 50 assists: [http://www.espnfc.com/barclays-premier-league/23/statistics/assists](http://www.espnfc.com/barclays-premier-league/23/statistics/assists)
+
+- Injuries: [http://365stats.com/football/injuries](http://365stats.com/football/injuries)
+
+
+- Fixtures: [http://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1](http://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1)
+
+
+- Fantasy sports data:  [https://fantasyfootball.telegraph.co.uk/premierleague/players/](https://fantasyfootball.telegraph.co.uk/premierleague/players/), [https://fantasyfootball.telegraph.co.uk/premierleague/formguide/](https://fantasyfootball.telegraph.co.uk/premierleague/formguide/)
+
+
+- Team ranks: [http://m.premierleague.com/en-gb/form-guide.html](http://m.premierleague.com/en-gb/form-guide.html)
+
+- Predicted lineups: [http://www.fantasyfootballscout.co.uk/team-news/](http://www.fantasyfootballscout.co.uk/team-news/)
+
+
 <br>
+<br>
+
 
 <hr>
 <a id='sections'></a>
