@@ -13,6 +13,10 @@ Often, I write simple scripts and tools to collect data for various "data scienc
 - [Collect English Premier League Soccer Data](./collect_fantasysoccer)
 
 <br>
+
+**Important Note**  
+Please note that I developed and tested these tools in Python 3.x, and it could be possible that the scripts do not work flawlessly in Python 2.7.x due to the more challenging unicode handling.
+
 <br>
 <br>
 
