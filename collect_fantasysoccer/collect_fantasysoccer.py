@@ -32,8 +32,8 @@ class SoccerData(object):
         self.player_form = None
         self.team_form = None
         self.team_lineups = None
-        self.scorer = None
-        self.assists = None
+        self.top_scorer = None
+        self.top_assists = None
     
     def get_all(self):
         self.get_general_stats()
