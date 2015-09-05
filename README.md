@@ -10,6 +10,7 @@ Often, I write simple scripts and tools to collect data for various "data scienc
 - [Twitter Timeline](./twitter_timeline)
 - [Collect Popular Music Tags](./collect_music_tags)
 - [PDB Info Table](./pdb_infotable)
+- [ZINC Molecule Downloader](./zinc_downloader)
 - [Collect English Premier League Soccer Data](./collect_fantasysoccer)
 
 <br>
@@ -24,7 +25,7 @@ Please note that I developed and tested these tools in Python 3.x, and it could 
 
 [[back to top](#contents)]
 
-A [command line tool](./collect_lyrics) to download song lyrics given artist names and song titles. 
+A [command line tool](./collect_lyrics) to download song lyrics given artist names and song titles.
 
 ![](./collect_lyrics/images/example_out.png)
 
@@ -32,6 +33,7 @@ A [command line tool](./collect_lyrics) to download song lyrics given artist nam
 <br>
 
 ## [Twitter Timeline](./twitter_timeline)
+
 [[back to top](#contents)]
 
 A [command line tool](./twitter_timeline) that downloads your personal twitter timeline in CSV format with optional keyword filter.
@@ -45,6 +47,7 @@ A [command line tool](./twitter_timeline) that downloads your personal twitter t
 <br>
 
 ## [Collect Popular Music Tags](./collect_music_tags)
+
 [[back to top](#contents)]
 
 A [command line tool](./collect_music_tags) to download popular tags for a list of songs from [last.fm](http://www.last.fm), e.g., for various data mining projects.
@@ -61,6 +64,14 @@ A [command line tool](./pdb_infotable) that creates an info table from a list of
 
 ![](./pdb_infotable/images/example.png)
 
+## [ZINC Molecule Downloader](./zinc_downloader)
+
+[[back to top](#contents)]
+
+A [command line tool](./zinc_downloader) for downloading 3D structures of small chemical molecules from http://zinc.docking.org.
+
+![](./zinc_downloader/images/example-1.png)
+
 
 <br>
 <br>
@@ -70,6 +81,3 @@ A [command line tool](./pdb_infotable) that creates an info table from a list of
 
 A [command line tool](./collect_fantasysoccer) to Collect Fantasy Soccer data  from the Premier League.
 ![](./collect_fantasysoccer/images/example_table.png)
-
-
-
