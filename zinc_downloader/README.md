@@ -103,16 +103,7 @@ ZINC08714378
 ZINC59339553
 ZINC67643437
 [...]
-(py27)w
-
-Example run:
-./pdb_infotable.py -i pdb_codes.txt -o ./pdb_table.csv
-
-Example input file:
-1htg
-3eiy
-1hvr
-[...]</pre>
+</pre>
 
 <br>
 <br>
