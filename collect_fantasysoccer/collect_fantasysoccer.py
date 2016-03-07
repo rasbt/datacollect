@@ -34,7 +34,7 @@ class SoccerData(object):
         self.team_lineups = None
         self.top_scorer = None
         self.top_assists = None
-    
+
     def get_all(self):
         self.get_general_stats()
         self.get_team_standings()
@@ -45,18 +45,18 @@ class SoccerData(object):
         self.get_team_lineups()
         self.get_top_scorer()
         self.get_top_assists()
-        
+
     def to_csv(self, target_dir, print_out=True):
-        data = [self.df_general_stats, self.df_team_standings, 
-                self.df_injury_data, self.home_away, self.player_form, 
+        data = [self.df_general_stats, self.df_team_standings,
+                self.df_injury_data, self.home_away, self.player_form,
                 self.team_form, self.team_lineups, self.top_scorer, self.top_assists]
-        
+
         if not os.path.isdir(target_dir):
             os.mkdir(target_dir)
-            
-        names = ['dreamteamfc', 'espn_teamstats', '365stats', 'transfermarkt', 
-                 'telegraph', 'mpremierleague', 'fantasyfootballscout', 'espn_scorer', 'espn_assists']    
-            
+
+        names = ['dreamteamfc', 'espn_teamstats', '365stats', 'transfermarkt',
+                 'telegraph', 'mpremierleague', 'fantasyfootballscout', 'espn_scorer', 'espn_assists']
+
         for df, name in zip(data, names):
             name = os.path.join(target_dir, '%s.csv' % name)
             if type(df) == pd.core.frame.DataFrame:
@@ -66,12 +66,12 @@ class SoccerData(object):
             else:
                 if print_out:
                     print('\nNOT written %s\n' % name)
-                
+
         return True
-            
-    
+
+
     def get_general_stats(self, print_out=True):
-        
+
         # Download general statistics
         player_dict = {}
 
@@ -79,17 +79,17 @@ class SoccerData(object):
 
         if print_out:
             print('Getting general statistics from %s ...' % url)
-        
+
         try:
             r = requests.get(url, timeout=10)
             r.raise_for_status()
-        
+
         except requests.exceptions.ReadTimeout:
             print('\nServer not available. Skipped %s\n' % url)
             return
-        
-        
-        soup = BeautifulSoup(r.text, 'html5lib') 
+
+
+        soup = BeautifulSoup(r.text, 'html5lib')
         # Note: html5lib deals better with broken html than lxml
 
         name_list = []
@@ -102,18 +102,18 @@ class SoccerData(object):
                 position, team, vfm, value, points = res
                 value = value.strip('m')
                 player_dict[name] = [name, position, team, vfm, value, points]
-                
+
         df = pd.DataFrame.from_dict(player_dict, orient='index')
         df.columns = ['name', 'position', 'team', 'vfm', 'value', 'pts']
         df[['vfm','value']] = df[['vfm','value']].astype(float)
         df[['pts']] = df[['pts']].astype(int)
-        
+
         # Add injury and card information
-        
+
         df['status'] = pd.Series('', index=df.index)
         df['description'] = pd.Series('', index=df.index)
         df['returns'] = pd.Series('', index=df.index)
-        
+
         url = 'https://www.dreamteamfc.com/statistics/injuries-and-cards/ALL/'
         r  = requests.get(url)
         soup = BeautifulSoup(r.text, 'html5lib')
@@ -127,23 +127,23 @@ class SoccerData(object):
                 res = [i.text for i in td.next_siblings if isinstance(i, bs4.element.Tag)]
                 position, team, status, description, returns = res
                 df.loc[df.index==name,['status', 'description', 'returns']] = status, description, returns
-        
-        
+
+
         # Add player form information
-        
+
         df['month_pts'] = pd.Series(0, index=df.index)
         df['week_pts'] = pd.Series(0, index=df.index)
-        
+
         url = 'https://www.dreamteamfc.com/statistics/form-guide/all'
-        
+
         try:
             r = requests.get(url, timeout=10)
             r.raise_for_status()
-        
+
         except requests.exceptions.ReadTimeout:
             print('\nServer not available. Skipped %s\n' % url)
             return
-            
+
         soup = BeautifulSoup(r.text, 'html5lib')
 
         name_list = []
@@ -152,43 +152,43 @@ class SoccerData(object):
             name = td.text.strip()
             if name:
                 name_list.append(name)
-        
+
                 res = [i.text for i in td.next_siblings if isinstance(i, bs4.element.Tag)]
                 try:
                     month_pts, week_pts = float(res[-2]), float(res[-1])
                     df.loc[df.index==name, ['month_pts', 'week_pts']] = month_pts, week_pts
                 except ValueError:
                     pass
-                    
+
         # Reordering the columns
 
-        df = df[['name', 'position', 'team', 'vfm', 'value', 'pts', 'month_pts', 
+        df = df[['name', 'position', 'team', 'vfm', 'value', 'pts', 'month_pts',
                  'week_pts', 'status', 'description', 'returns']]
-        
+
         self.df_general_stats = df
-        
+
         return df
-        
-        
-            
+
+
+
     def get_team_standings(self, print_out=True):
-        
+
         url = 'http://www.espnfc.com/barclays-premier-league/23/table'
-        
+
         if print_out:
             print('Getting team standings from %s ...' % url)
-        
+
         team_dict = {}
-                
+
         try:
             r = requests.get(url, timeout=10)
             r.raise_for_status()
-        
+
         except requests.exceptions.ReadTimeout:
             print('\nServer not available. Skipped %s\n' % url)
             return
-        
-        soup = BeautifulSoup(r.text, 'html5lib') 
+
+        soup = BeautifulSoup(r.text, 'html5lib')
         # Note: html5lib deals better with broken html than lxml
 
         for td in soup.findAll('td', { 'class' : 'pos' }):
@@ -197,7 +197,7 @@ class SoccerData(object):
             team = res[0].strip()
             values = [int(i) for i in res[1:]]
             team_dict[team] = [rank] + values
-        
+
         df = pd.DataFrame.from_dict(team_dict, orient='index')
         cols = ['Pos','P_ov','W_ov','D_ov','L_ov','F_ov','A_ov',
                     'W_hm','D_hm','L_hm','F_hm','A_hm', 'W_aw',
@@ -206,33 +206,33 @@ class SoccerData(object):
         df = df.sort('Pos')
         df['team'] = df.index
         df = df[['team']+cols] # reorder columns
-        
+
         self.df_team_standings = df
-        
+
         return df
-        
-        
-        
+
+
+
     def get_injury_data(self, print_out=True):
 
         url = 'http://365stats.com/football/injuries'
-        
+
         if print_out:
             print('Getting injury data from %s ...' % url)
-        
-        
+
+
         injury_dict = {}
-        
+
         try:
             r = requests.get(url, timeout=10)
             r.raise_for_status()
-        
+
         except requests.exceptions.ReadTimeout:
             print('\nServer not available. Skipped %s\n' % url)
             return
-        
 
-        soup = BeautifulSoup(r.text, 'html5lib') 
+
+        soup = BeautifulSoup(r.text, 'html5lib')
         # Note: html5lib deals better with broken html than lxml
 
         for td in soup.findAll('td', { 'nowrap' : 'nowrap' }):
@@ -242,14 +242,14 @@ class SoccerData(object):
                 if isinstance(i, bs4.Tag):
                     player_info.append(i.text)
             injury_dict[player_info[0]] = player_info[1:3]
-            
+
         df = pd.DataFrame.from_dict(injury_dict, orient='index')
         df.columns=['injury', 'returns']
         df['name'] = df.index
         df = df[['name', 'injury', 'returns']]
-        
+
         self.df_injury_data = df
-        
+
         return df
 
 
@@ -257,19 +257,23 @@ class SoccerData(object):
     def get_home_away_data(self, print_out=True):
 
         url = 'http://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1'
-        
+
+        s = requests.Session()
+        s.headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36'
+        s.headers['Host'] = 'www.transfermarkt.com'
+
         if print_out:
             print('Getting home/away data from %s ...' % url)
-        
+
         try:
-            r = requests.get(url, timeout=10)
+            r = s.get(url, timeout=10)
             r.raise_for_status()
-        
+
         except requests.exceptions.ReadTimeout:
             print('\nServer not available. Skipped %s\n' % url)
             return
-        
-        soup = BeautifulSoup(r.text, 'html5lib') 
+
+        soup = BeautifulSoup(r.text, 'html5lib')
         # Note: html5lib deals better with broken html than lxml
 
         # Find tab for the upcoming fixtures
@@ -303,35 +307,35 @@ class SoccerData(object):
     def get_top_scorer(self, print_out=True):
 
         url = 'http://www.espnfc.com/barclays-premier-league/23/statistics/scorers'
-        
+
         if print_out:
             print('Getting top scorer data from %s ...' % url)
-        
+
         try:
             r = requests.get(url, timeout=10)
             r.raise_for_status()
-        
+
         except requests.exceptions.ReadTimeout:
             print('\nServer not available. Skipped %s\n' % url)
             return
-        
-        soup = BeautifulSoup(r.text, 'html5lib') 
+
+        soup = BeautifulSoup(r.text, 'html5lib')
         # Note: html5lib deals better with broken html than lxml
 
-        
+
         player_dict = {}
 
         for td in soup.findAll('td', { 'headers' : 'player' }):
             name = td.text
             team, goals = [i.text for i in td.next_siblings if isinstance(i, bs4.element.Tag) and i.text!='\xa0']
             player_dict[name] = [team, int(goals)]
-    
+
         df = pd.DataFrame.from_dict(player_dict, orient='index')
         df['name'] = df.index
         df.columns = ['team', 'goals', 'name']
         df = df[['name', 'team', 'goals']]
         df.sort('goals', ascending=False, inplace=True)
-        
+
         self.top_scorer = df
         return df
 
@@ -339,35 +343,35 @@ class SoccerData(object):
     def get_top_assists(self, print_out=True):
 
         url = 'http://www.espnfc.com/barclays-premier-league/23/statistics/assists'
-        
+
         if print_out:
             print('Getting top assists data from %s ...' % url)
-        
+
         try:
             r = requests.get(url, timeout=10)
             r.raise_for_status()
-        
+
         except requests.exceptions.ReadTimeout:
             print('\nServer not available. Skipped %s\n' % url)
             return
-        
-        soup = BeautifulSoup(r.text, 'html5lib') 
+
+        soup = BeautifulSoup(r.text, 'html5lib')
         # Note: html5lib deals better with broken html than lxml
 
-        
+
         player_dict = {}
 
         for td in soup.findAll('td', { 'headers' : 'player' }):
             name = td.text
             team, assists = [i.text for i in td.next_siblings if isinstance(i, bs4.element.Tag) and i.text!='\xa0']
             player_dict[name] = [team, int(assists)]
-    
+
         df = pd.DataFrame.from_dict(player_dict, orient='index')
         df['name'] = df.index
         df.columns = ['team', 'assists', 'name']
         df = df[['name', 'team', 'assists']]
         df.sort('assists', ascending=False, inplace=True)
-        
+
         self.top_assists = df
         return df
 
@@ -375,21 +379,21 @@ class SoccerData(object):
 
 
     def get_player_form_data(self, print_out=True):
-                
+
         url = 'https://fantasyfootball.telegraph.co.uk/premierleague/players/'
-        
+
         if print_out:
             print('Getting player form data from %s ...' % url)
-        
+
         try:
             r = requests.get(url, timeout=10)
             r.raise_for_status()
-        
+
         except requests.exceptions.ReadTimeout:
             print('\nServer not available. Skipped %s\n' % url)
             return
-        
-        soup = BeautifulSoup(r.text, 'html5lib') 
+
+        soup = BeautifulSoup(r.text, 'html5lib')
         # Note: html5lib deals better with broken html than lxml
 
         player_dict = {}
@@ -415,11 +419,11 @@ class SoccerData(object):
         df['salary'] = df['salary'].apply(lambda x: x.strip('£').strip(' m'))
         df[['salary', 'pts/salary']] = df[['salary', 'pts/salary']].astype(float)
         df[['week_pts', 'total_pts']] = df[['week_pts', 'total_pts']].astype(int)
-    
-    
+
+
         url = 'https://fantasyfootball.telegraph.co.uk/premierleague/formguide/'
         r  = requests.get(url)
-        soup = BeautifulSoup(r.text, 'html5lib') 
+        soup = BeautifulSoup(r.text, 'html5lib')
         # Note: html5lib deals better with broken html than lxml
 
         df['6week_pts'] = pd.Series(0, index=df.index)
@@ -432,26 +436,26 @@ class SoccerData(object):
 
         self.player_form = df
         return df
-        
-        
-        
+
+
+
     def get_team_form_data(self, print_out=True):
 
-        
+
         url = 'http://m.premierleague.com/en-gb/form-guide.html'
-        
+
         if print_out:
             print('Getting team form data from %s ...' % url)
-        
+
         try:
             r = requests.get(url, timeout=10)
             r.raise_for_status()
-        
+
         except requests.exceptions.ReadTimeout:
             print('\nServer not available. Skipped %s\n' % url)
             return
-        
-        soup = BeautifulSoup(r.text, 'html5lib') 
+
+        soup = BeautifulSoup(r.text, 'html5lib')
         # Note: html5lib deals better with broken html than lxml
 
         team_dict = {}
@@ -468,30 +472,30 @@ class SoccerData(object):
                         break
 
         df = pd.DataFrame.from_dict(team_dict, orient='index')
-        
+
         df.columns = ['position-last-6-games']
         df['team'] = df.index
-    
+
         self.team_form = df
-        return df    
-        
-        
+        return df
+
+
     def get_team_lineups(self, print_out=True):
-        
+
         url = 'http://www.fantasyfootballscout.co.uk/team-news/'
-        
+
         if print_out:
             print('Getting team form data from %s ...' % url)
-        
+
         try:
             r = requests.get(url, timeout=10)
             r.raise_for_status()
-        
+
         except requests.exceptions.ReadTimeout:
             print('\nServer not available. Skipped %s\n' % url)
             return
-        
-        soup = BeautifulSoup(r.text, 'html5lib') 
+
+        soup = BeautifulSoup(r.text, 'html5lib')
         # Note: html5lib deals better with broken html than lxml
 
         team_dict = {}
@@ -503,15 +507,15 @@ class SoccerData(object):
                 for p in li.findAll('span', { 'class' : 'player-name' }):
                     player = p.text
                     team_dict[team].append(player)
-                    
+
         df = pd.DataFrame.from_dict(team_dict)
-        self.team_lineups = df     
+        self.team_lineups = df
         return df
 
-        
+
 if __name__ == '__main__':
     import argparse
-    
+
     parser = argparse.ArgumentParser(
             description='A command line tool to download the current Premier League Soccer data.',
             formatter_class=argparse.RawTextHelpFormatter,
@@ -520,10 +524,9 @@ if __name__ == '__main__':
 
     parser.add_argument('-o', '--output', help='Output directory.', required=True, type=str)
     parser.add_argument('-v', '--version', action='version', version='v. 1.0.1')
-    
+
     args = parser.parse_args()
 
     epl_data = SoccerData()
     epl_data.get_all()
     epl_data.to_csv(args.output)
-    
