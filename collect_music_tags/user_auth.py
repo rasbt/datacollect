@@ -1,3 +1,5 @@
+# -*- coding: latin-1 -*-
+
 # Enter information after signing up for an API key
 # http://www.last.fm/api/account/create
 

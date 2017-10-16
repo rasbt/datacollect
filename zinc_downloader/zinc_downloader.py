@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: latin-1 -*-
 
 # Sebastian Raschka, 2015
 # http://sebastianraschka.com

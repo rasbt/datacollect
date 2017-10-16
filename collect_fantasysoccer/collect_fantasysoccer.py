@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: latin-1 -*-
 
 # A command line tool to download the current Premier League Soccer data
 # Tested in Python 3
